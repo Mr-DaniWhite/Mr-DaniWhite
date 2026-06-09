@@ -12,27 +12,27 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none; background: none;">
     <td width="50%" style="vertical-align: top; border: none; padding-right: 20px;">
-      <h4 style="color:#2196F3; margin-bottom: 8px;">🟦 Data Center Architecture</h4>
+      <h4 style="color:#2196F3; margin-bottom: 8px;"> Data Center Architecture</h4>
       <p style="margin: 0 0 15px 0; font-size: 0.95em;">
         <strong>Cisco:</strong> Extensive engineering with Cisco ACI platforms, Nexus infrastructure, and core migrations.<br>
         <strong>Arista:</strong> End-to-end deployment of production infrastructures using modern fabric designs and EVPN-VXLAN.<br>
         <strong>Nokia:</strong> Integration of high-performance routing matrices within DC environments.<br>
         <strong>Vyos:</strong> Deployment of open-source routing solutions for agile virtualized topologies.
       </p>
-      <h4 style="color:#2196F3; margin-bottom: 8px;">🟦 SD-WAN & Network Security</h4>
+      <h4 style="color:#2196F3; margin-bottom: 8px;"> SD-WAN & Network Security</h4>
       <p style="margin: 0; font-size: 0.95em;">
         <strong>Cisco:</strong> Design and implementation of secure enterprise wide-area networks.<br>
         <strong>Palo Alto:</strong> Architectural leadership in Zero Trust Architecture, Panorama platforms, and next-generation firewalls.
       </p>
     </td>
     <td width="50%" style="vertical-align: top; border: none; padding-left: 20px;">
-      <h4 style="color:#2196F3; margin-bottom: 8px;">🟦 Service Provider Infrastructure</h4>
+      <h4 style="color:#2196F3; margin-bottom: 8px;"> Service Provider Infrastructure</h4>
       <p style="margin: 0 0 15px 0; font-size: 0.95em;">
         <strong>Cisco:</strong> Core routing/switching architecture validation and lifecycle management for tier-1 accounts.<br>
         <strong>Nokia:</strong> Scalable backbone engineering and service provider routing implementation.<br>
         <strong>Juniper:</strong> Robust enterprise-grade routing, switching, and secure edge frameworks.
       </p>
-      <h4 style="color:#2196F3; margin-bottom: 8px;">🟦 Automation & NetDevOps</h4>
+      <h4 style="color:#2196F3; margin-bottom: 8px;"> Automation & NetDevOps</h4>
       <p style="margin: 0; font-size: 0.95em;">
         <strong>Python:</strong> Custom scripting for multi-vendor interaction and zero-touch provisioning pipelines.<br>
         <strong>Ansible:</strong> Playbook orchestration, Jinja2 template rendering, and YAML data-modeling.<br>
