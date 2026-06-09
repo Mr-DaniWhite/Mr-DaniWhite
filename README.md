@@ -6,25 +6,27 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 ---
 
-## 30-Second Read
+## Technical Focus & Core Expertise
 
-### Target Roles
-Principal Network Architect, Data Center Infrastructure Lead, NetDevOps Director.
+* **Data Center Architecture**
+  * Cisco: Extensive engineering with Cisco ACI platforms, Nexus infrastructure, and core data center migrations.
+  * Arista: End-to-end deployment of production infrastructures utilizing modern fabric designs.
+  * Nokia: Integration of high-performance routing and switching matrices within data center environments.
+  * Vyos: Deployment and management of open-source routing solutions for agile and virtualized topologies.
 
-### Core Strengths
-Data Center Fabric Design, Network Automation Pipelines, Multi-Vendor Architecture, Enterprise Security Integration.
+* **Service Provider Infrastructure**
+  * Cisco: Core routing and switching architecture validation, deployment, and lifecycle management for tier-1 accounts.
+  * Nokia: Scalable backbone engineering and service provider routing implementation.
+  * Juniper: Robust enterprise-grade routing, switching, and secure edge configuration frameworks.
 
-### Top Certifications
-Arista Cloud Engineer (ACE Level 5), Cisco CCIE (Written), Advanced Cisco ACI.
+* **SD-WAN & Network Security**
+  * Cisco: Design and implementation of secure enterprise wide-area networks and centralized control planes.
+  * Palo Alto: Architectural leadership in Zero Trust Architecture, Panorama centralized platforms, and next-generation firewall infrastructure.
 
----
-
-## Technical Focus
-
-* **Data Center:** Cisco, Arista, Nokia, Vyos
-* **Service Provider:** Cisco, Nokia, Juniper
-* **SD-WAN:** Cisco, Palo Alto
-* **Automation:** Python, Ansible, N8N
+* **Automation & NetDevOps**
+  * Python: Custom scripting for multi-vendor infrastructure interaction, data parsing, and zero-touch provisioning pipelines.
+  * Ansible: Playbook orchestration, Jinja2 template rendering, and YAML data-modeling for multi-vendor validation labs.
+  * N8N: Advanced workflow automation and integration of network processes with node-based ecosystem tools.
 
 ---
 
