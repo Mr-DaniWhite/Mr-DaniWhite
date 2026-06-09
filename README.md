@@ -1,40 +1,48 @@
-# Hi there, I'm Daniel Blanco!
+# Daniel Blanco
 ### Data Center Fabric & Network Automation Architect
+Madrid, Spain
 
-Highly accomplished and results-driven Network Infrastructure & Security Architect with over 20 years of experience designing, deploying, and automating enterprise-scale infrastructures. Proven track record of leading high-performance engineering teams and delivering complex architectural solutions for Tier-1 telecommunications, financial institutions, and global enterprises.
-
-Deeply focused on scaling Infrastructure as Code (IaC) pipelines, NetDevOps workflows, and transforming traditional networking operations into agile, code-driven infrastructures.
-
----
-
-### Tech Stack & Core Competencies
-
-* **Data Center:** Cisco | Arista | Nokia | Vyos
-* **Service Provider:** Cisco | Nokia | Juniper
-* **SD-WAN:** Cisco | Palo Alto
-* **Automation & IaC:** Python | Ansible | N8N
+Senior Network Engineering Leader with over 20 years of experience designing, deploying, and automating enterprise-scale infrastructures. Focused on scaling Infrastructure as Code (IaC) pipelines, NetDevOps workflows, and transforming traditional networking operations into agile, code-driven environments.
 
 ---
 
-### Professional Experience Highlights
+## 30-Second Read
 
-* **Network Design Manager** at **LUNIK** (2024 – Present)
-  * Lead high-performing engineering teams delivering enterprise-grade data networks and cyber-security solutions.
-  * Drive High-Level Design (HLD) and Low-Level Design (LLD) for advanced Data Center fabrics, Core Networks, and Cloud network solutions.
+### Target Roles
+Principal Network Architect, Data Center Infrastructure Lead, NetDevOps Director.
 
-* **Digital Infrastructure Team Leader** at **NTT DATA** (2008 – 2024)
-  * Managed Professional Services delivery across corporate data networks, network security, and virtualization ecosystems.
-  * Coordinated large-scale architecture projects and spearheaded high-impact automation initiatives to optimize infrastructure deployment cycles.
+### Core Strengths
+Data Center Fabric Design, Network Automation Pipelines, Multi-Vendor Architecture, Enterprise Security Integration.
 
----
-
-### Key Technical Expertise
-
-* **Software-Defined Networking (SDN):** Comprehensive mastery of modern architectures, including Cisco ACI and EVPN-VXLAN fabrics.
-* **Network as Code & NetDevOps:** Designing robust automated deployment pipelines and zero-touch provisioning systems.
-* **Enterprise Security Integration:** Expert implementation of Next-Generation Firewalls, centralized management, and Zero Trust Architecture.
+### Top Certifications
+Arista Cloud Engineer (ACE Level 5), Cisco CCIE (Written), Advanced Cisco ACI.
 
 ---
 
-### Connect with me:
+## Technical Focus
+
+* **Data Center:** Cisco, Arista, Nokia, Vyos
+* **Service Provider:** Cisco, Nokia, Juniper
+* **SD-WAN:** Cisco, Palo Alto
+* **Automation:** Python, Ansible, N8N
+
+---
+
+## Selected Projects
+
+### Automated Data Center Fabric Provisioning
+Playbooks and infrastructure-as-code templates for automated multi-tenant deployment in Cisco ACI and routing under EVPN-VXLAN environments.
+`Ansible` `Python` `Cisco ACI` `EVPN-VXLAN`
+
+### Multi-Vendor Security Automation Workflow
+End-to-end automation pipelines to orchestrate policy updates and access reviews across Palo Alto and Fortinet architectures.
+`N8N` `Python` `Palo Alto` `Fortinet`
+
+### Service Provider Configuration Compliance
+Automated scripts for zero-touch infrastructure provisioning and configuration validation across multi-vendor backbone environments.
+`Python` `Ansible` `Cisco` `Nokia` `Juniper`
+
+---
+
+## Connect
 * [LinkedIn Profile](https://www.linkedin.com/in/daniel-blanco-38704914b/)
