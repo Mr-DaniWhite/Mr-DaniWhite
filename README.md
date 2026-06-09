@@ -1,4 +1,3 @@
-<img src="Foto Daniel Blanco 2026.png" align="right" width="150" style="border-radius: 50%; margin-left: 25px; margin-bottom: 25px;">
 
 # <span style="color:#2196F3; font-weight: 700;">Daniel Blanco</span>
 ### Data Center Fabric & Network Automation Architect
