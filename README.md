@@ -88,7 +88,7 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
     </td>
     <td style="border: none;">
       <a href="https://docs.google.com/document/d/1jX76VEhOFuiUBBPz0SMk2LdLLLEk8-cgZz9QrrsHkDE/edit?tab=t.0" target="_blank" style="text-decoration: none;">
-        <div style="background-color: #111c24; color: #2196F3; border: 1px solid #2196F3; padding: 9px 20px; border-radius: 5px; font-weight: bold; font-family: sans-serif; display: inline-block;">Download Curriculum Vitae (PDF)</div>
+        <div style="background-color: #111c24; color: #2196F3; border: 1px solid #2196F3; padding: 9px 20px; border-radius: 5px; font-weight: bold; font-family: sans-serif; display: inline-block;">See Resume</div>
       </a>
     </td>
   </tr>
