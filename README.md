@@ -1,68 +1,86 @@
-<div style="background-color: #0b0f19; background-image: linear-gradient(rgba(33, 150, 243, 0.05) 1px, transparent 1px), linear-gradient(90deg, rgba(33, 150, 243, 0.05) 1px, transparent 1px); background-size: 20px 20px; padding: 30px; border-radius: 10px; border: 1px solid #1e293b; color: #f0f6fc; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+<section id="about">
+    <h2>Daniel Blanco</h2>
+    <h3>Data Center Fabric, Network Automation & Infrastructure Architect</h3>
 
-<img src="Foto Daniel Blanco 2026.png" align="right" width="140" style="border-radius: 50%; margin-left: 20px; margin-bottom: 20px; border: 2px solid #2196F3; box-shadow: 0 0 15px rgba(33, 150, 243, 0.5);">
+    <p>
+        Madrid, Spain
+    </p>
 
-# <span style="color:#2196F3; text-shadow: 0 0 10px rgba(33, 150, 243, 0.3);">Daniel Blanco</span>
-### Data Center Fabric & Network Automation Architect
-**Madrid, Spain**
+    <p>
+        Network Architect with 20+ years of experience leading the design,
+        transformation, and automation of large-scale enterprise, service provider,
+        and data center infrastructures. Specialized in modern fabric architectures,
+        cloud connectivity, Infrastructure as Code (IaC), and NetDevOps practices,
+        enabling organizations to evolve from traditional networking operations
+        to scalable, automated, and resilient platforms.
+    </p>
 
-Senior Network Engineering Leader with over 20 years of experience designing, deploying, and automating enterprise-scale infrastructures. Focused on scaling Infrastructure as Code (IaC) pipelines, NetDevOps workflows, and transforming traditional networking operations into agile, code-driven environments.
+    <h3>Technology Domains</h3>
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, rgba(33, 150, 243, 0.5), transparent); margin: 25px 0;">
+    <p>
+        🔹 <strong>Data Center</strong> → Cisco ACI | Arista EOS | Nokia SR Linux | VyOS
+    </p>
 
-## <span style="color:#2196F3; text-shadow: 0 0 10px rgba(33, 150, 243, 0.2);">Technical Focus & Core Expertise</span>
+    <p>
+        🔹 <strong>Service Provider</strong> → Cisco IOS-XR | Nokia SR OS | Juniper JunOS
+    </p>
 
-* 🟦 **Data Center Architecture**
-  * **Cisco:** Extensive engineering with Cisco ACI platforms, Nexus infrastructure, and core data center migrations.
-  * **Arista:** End-to-end deployment of production infrastructures utilizing modern fabric designs and EVPN-VXLAN.
-  * **Nokia:** Integration of high-performance routing and switching matrices within data center environments.
-  * **Vyos:** Deployment and management of open-source routing solutions for agile and virtualized topologies.
+    <p>
+        🔹 <strong>SD-WAN & Security</strong> → Cisco SD-WAN | Palo Alto Networks | Zero Trust Architecture
+    </p>
 
-* 🟦 **Service Provider Infrastructure**
-  * **Cisco:** Core routing and switching architecture validation, deployment, and lifecycle management for tier-1 accounts.
-  * **Nokia:** Scalable backbone engineering and service provider routing implementation.
-  * **Juniper:** Robust enterprise-grade routing, switching, and secure edge configuration frameworks.
+    <p>
+        🔹 <strong>Automation & NetDevOps</strong> → Python | Ansible | n8n | REST APIs
+    </p>
 
-* 🟦 **SD-WAN & Network Security**
-  * **Cisco:** Design and implementation of secure enterprise wide-area networks and centralized control planes.
-  * **Palo Alto:** Architectural leadership in Zero Trust Architecture, Panorama centralized platforms, and next-generation firewall infrastructure.
+    <p>
+        🔹 <strong>Cloud & Virtualization</strong> → AWS | Azure | VMware NSX-T | Hybrid Cloud
+    </p>
 
-* 🟦 **Automation & NetDevOps**
-  * **Python:** Custom scripting for multi-vendor infrastructure interaction, data parsing, and zero-touch provisioning pipelines.
-  * **Ansible:** Playbook orchestration, Jinja2 template rendering, and YAML data-modeling for multi-vendor validation labs.
-  * **N8N:** Advanced workflow automation and integration of network processes with node-based ecosystem tools.
+    <p>
+        🔹 <strong>Core Technologies</strong> → EVPN-VXLAN | BGP | MPLS | Spine-Leaf | DCI | Infrastructure as Code
+    </p>
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, rgba(33, 150, 243, 0.5), transparent); margin: 25px 0;">
+    <h3>Architecture Focus Areas</h3>
 
-## <span style="color:#2196F3; text-shadow: 0 0 10px rgba(33, 150, 243, 0.2);">Selected Projects</span>
+    <ul>
+        <li>Data Center Transformation & Fabric Design</li>
+        <li>Cloud Networking & Hybrid Connectivity</li>
+        <li>SD-WAN & Zero Trust Architectures</li>
+        <li>Network Automation & Infrastructure as Code</li>
+        <li>Multi-Vendor Network Architecture</li>
+        <li>Technical Leadership & Architecture Governance</li>
+    </ul>
 
-<div style="background-color: #0d1117; border: 1px solid #2196F3; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(33, 150, 243, 0.15);">
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
-    <strong style="font-size: 1.15em; color: #ffffff;">Automated Data Center Fabric Provisioning</strong>
-    <span style="color: #2196F3; font-family: monospace; font-size: 0.9em; font-weight: bold; float: right;">Ansible • Python • Cisco ACI</span>
-  </div>
-  <p style="color: #94a3b8; margin: 10px 0 0 0; font-size: 0.95em; line-height: 1.5;">Playbooks and infrastructure-as-code templates for automated multi-tenant deployment in Cisco ACI and routing under EVPN-VXLAN environments.</p>
-</div>
+    <h3>Selected Architecture Initiatives</h3>
 
-<div style="background-color: #0d1117; border: 1px solid #334155; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);">
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
-    <strong style="font-size: 1.15em; color: #ffffff;">Multi-Vendor Security Automation Workflow</strong>
-    <span style="color: #2196F3; font-family: monospace; font-size: 0.9em; font-weight: bold; float: right;">N8N • Python • Palo Alto</span>
-  </div>
-  <p style="color: #94a3b8; margin: 10px 0 0 0; font-size: 0.95em; line-height: 1.5;">End-to-end automation pipelines to orchestrate policy updates and access reviews across Palo Alto and Fortinet architectures.</p>
-</div>
+    <h4>Automated Data Center Fabric Provisioning</h4>
+    <p>
+        Cisco ACI • Ansible • Python
+    </p>
+    <p>
+        Designed and implemented Infrastructure as Code frameworks enabling
+        automated deployment, validation, and lifecycle management of
+        multi-tenant Cisco ACI environments integrated with EVPN-VXLAN fabrics.
+    </p>
 
-<div style="background-color: #0d1117; border: 1px solid #334155; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);">
-  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
-    <strong style="font-size: 1.15em; color: #ffffff;">Service Provider Configuration Compliance</strong>
-    <span style="color: #2196F3; font-family: monospace; font-size: 0.9em; font-weight: bold; float: right;">Python • Ansible • Juniper</span>
-  </div>
-  <p style="color: #94a3b8; margin: 10px 0 0 0; font-size: 0.95em; line-height: 1.5;">Automated scripts for zero-touch infrastructure provisioning and configuration validation across multi-vendor backbone environments.</p>
-</div>
+    <h4>Multi-Vendor Security Automation Platform</h4>
+    <p>
+        Palo Alto • Python • n8n
+    </p>
+    <p>
+        Architected end-to-end automation workflows for policy governance,
+        compliance validation, and operational security processes across
+        multi-vendor security platforms.
+    </p>
 
-<hr style="border: 0; height: 1px; background: linear-gradient(to right, rgba(33, 150, 243, 0.5), transparent); margin: 25px 0;">
-
-## <span style="color:#2196F3; text-shadow: 0 0 10px rgba(33, 150, 243, 0.2);">Connect</span>
-* 🔗 [LinkedIn Profile](https://www.linkedin.com/in/daniel-blanco-38704914b/)
-
-</div>
+    <h4>Service Provider Configuration Compliance Framework</h4>
+    <p>
+        Juniper • Nokia • Python • Ansible
+    </p>
+    <p>
+        Developed automated compliance and provisioning frameworks enabling
+        configuration validation, operational consistency, and zero-touch
+        deployment across large-scale service provider infrastructures.
+    </p>
+</section>
