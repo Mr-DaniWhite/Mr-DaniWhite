@@ -1,3 +1,5 @@
+![image alt]((https://github.com/Mr-DaniWhite/Mr-DaniWhite/blob/2adb5a8c6a14cefff9d1bffaa9030d3cc18985e6/Daniel%20Blanco%20Banner.jpg))
+
 <div style="font-family: Calibri, 'Segoe UI', Arial, sans-serif;">
 
 📍 **Madrid, Spain**
