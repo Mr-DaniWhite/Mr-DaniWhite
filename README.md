@@ -32,6 +32,11 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
         <strong>Nokia:</strong> Scalable backbone engineering and service provider routing implementation.<br>
         <strong>Juniper:</strong> Robust enterprise-grade routing, switching, and secure edge frameworks.
       </p>
+      <h4 style="color:#2196F3; margin-bottom: 8px;">Cloud Networking</h4>
+      <p style="margin: 0 0 15px 0; font-size: 0.95em;">
+        <strong>AWS:</strong> Design and deployment of cloud infrastructure using VPCs, Transit Gateways, Direct Connect, and Route 53.<br>
+        <strong>Azure:</strong> Implementation of enterprise hub-spoke topologies, Virtual WAN, ExpressRoute, and secure VNet architectures.
+      </p>
       <h4 style="color:#2196F3; margin-bottom: 8px;">Automation & NetDevOps</h4>
       <p style="margin: 0; font-size: 0.95em;">
         <strong>Python:</strong> Custom scripting for multi-vendor interaction and zero-touch provisioning pipelines.<br>
@@ -89,5 +94,3 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
     </td>
   </tr>
 </table>
-
-```
