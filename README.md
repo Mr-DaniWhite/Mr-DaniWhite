@@ -1,3 +1,4 @@
+
 # <span style="color:#2196F3; font-weight: 700;">Daniel Blanco</span>
 ### Data Center Fabric & Network Automation Architect
 📍 **Madrid, Spain**
@@ -13,35 +14,35 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
     <td width="50%" style="vertical-align: top; border: none; padding-right: 25px; padding-top: 0;">
       <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">Data Center Architecture</h4>
       <p style="margin: 0 0 20px 0; font-size: 0.95em; line-height: 1.9;">
-        <a href="https://www.cisco.com" target="_blank"><img src="https://api.iconify.design/logos:cisco.svg" width="24" height="24" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"></a> <strong>Cisco:</strong> Extensive engineering with Cisco ACI platforms, Nexus infrastructure, and core migrations.<br>
-        <a href="https://www.arista.com" target="_blank"><img src="https://api.iconify.design/logos:arista.svg" width="24" height="24" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"></a> <strong>Arista:</strong> End-to-end deployment of production infrastructures using modern fabric designs and EVPN-VXLAN.<br>
-        <a href="https://www.nokia.com" target="_blank"><img src="https://api.iconify.design/logos:nokia.svg" width="24" height="24" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"></a> <strong>Nokia:</strong> Integration of high-performance routing matrices within DC environments.<br>
-        <a href="https://vyos.io" target="_blank"><img src="https://api.iconify.design/logos:linux-tux.svg" width="24" height="24" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"></a> <strong>Vyos:</strong> Deployment of open-source routing solutions for agile virtualized topologies.
+        <a href="https://www.cisco.com" target="_blank">🌐</a> <strong>Cisco:</strong> Extensive engineering with Cisco ACI platforms, Nexus infrastructure, and core migrations.<br>
+        <a href="https://www.arista.com" target="_blank">🔷</a> <strong>Arista:</strong> End-to-end deployment of production infrastructures using modern fabric designs and EVPN-VXLAN.<br>
+        <a href="https://www.nokia.com" target="_blank">🔺</a> <strong>Nokia:</strong> Integration of high-performance routing matrices within DC environments.<br>
+        <a href="https://vyos.io" target="_blank">🐧</a> <strong>Vyos:</strong> Deployment of open-source routing solutions for agile virtualized topologies.
       </p>
       <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">SD-WAN & Network Security</h4>
       <p style="margin: 0; font-size: 0.95em; line-height: 1.9;">
-        <a href="https://www.cisco.com" target="_blank"><img src="https://api.iconify.design/logos:cisco.svg" width="24" height="24" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"></a> <strong>Cisco:</strong> Design and implementation of secure enterprise wide-area networks.<br>
-        <a href="https://www.paloaltonetworks.com" target="_blank"><img src="https://api.iconify.design/logos:paloalto.svg" width="24" height="24" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"></a> <strong>Palo Alto:</strong> Architectural leadership in Zero Trust Architecture and Panorama platforms.<br>
-        <a href="https://www.fortinet.com" target="_blank"><img src="https://api.iconify.design/simple-icons:fortinet.svg" color="#EE3124" width="24" height="24" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"></a> <strong>Fortinet:</strong> Deployment of next-generation firewalls, orchestrating automated policy updates and access reviews.
+        <a href="https://www.cisco.com" target="_blank">🌐</a> <strong>Cisco:</strong> Design and implementation of secure enterprise wide-area networks.<br>
+        <a href="https://www.paloaltonetworks.com" target="_blank">🔸</a> <strong>Palo Alto:</strong> Architectural leadership in Zero Trust Architecture and Panorama platforms.<br>
+        <a href="https://www.fortinet.com" target="_blank">🛡️</a> <strong>Fortinet:</strong> Deployment of next-generation firewalls, orchestrating automated policy updates and access reviews.
       </p>
     </td>
     <td width="50%" style="vertical-align: top; border: none; padding-left: 25px; padding-top: 0;">
       <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">Service Provider Infrastructure</h4>
       <p style="margin: 0 0 20px 0; font-size: 0.95em; line-height: 1.9;">
-        <a href="https://www.cisco.com" target="_blank"><img src="https://api.iconify.design/logos:cisco.svg" width="24" height="24" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"></a> <strong>Cisco:</strong> Core routing/switching architecture validation and lifecycle management for tier-1 accounts.<br>
-        <a href="https://www.nokia.com" target="_blank"><img src="https://api.iconify.design/logos:nokia.svg" width="24" height="24" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"></a> <strong>Nokia:</strong> Scalable backbone engineering and service provider routing implementation.<br>
-        <a href="https://www.juniper.net" target="_blank"><img src="https://api.iconify.design/logos:juniper.svg" width="24" height="24" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"></a> <strong>Juniper:</strong> Robust enterprise-grade routing, switching, and secure edge frameworks.
+        <a href="https://www.cisco.com" target="_blank">🌐</a> <strong>Cisco:</strong> Core routing/switching architecture validation and lifecycle management for tier-1 accounts.<br>
+        <a href="https://www.nokia.com" target="_blank">🔺</a> <strong>Nokia:</strong> Scalable backbone engineering and service provider routing implementation.<br>
+        <a href="https://www.juniper.net" target="_blank">🌿</a> <strong>Juniper:</strong> Robust enterprise-grade routing, switching, and secure edge frameworks.
       </p>
       <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">Cloud Networking</h4>
       <p style="margin: 0 0 20px 0; font-size: 0.95em; line-height: 1.9;">
-        <a href="https://aws.amazon.com" target="_blank"><img src="https://api.iconify.design/logos:aws.svg" width="24" height="24" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"></a> <strong>AWS:</strong> Design and deployment of cloud infrastructure using VPCs, Transit Gateways, Direct Connect, and Route 53.<br>
-        <a href="https://azure.microsoft.com" target="_blank"><img src="https://api.iconify.design/logos:microsoft-azure.svg" width="24" height="24" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"></a> <strong>Azure:</strong> Implementation of enterprise hub-spoke topologies, Virtual WAN, ExpressRoute, and secure VNet architectures.
+        <a href="https://aws.amazon.com" target="_blank">☁️</a> <strong>AWS:</strong> Design and deployment of cloud infrastructure using VPCs, Transit Gateways, Direct Connect, and Route 53.<br>
+        <a href="https://azure.microsoft.com" target="_blank">💎</a> <strong>Azure:</strong> Implementation of enterprise hub-spoke topologies, Virtual WAN, ExpressRoute, and secure VNet architectures.
       </p>
       <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">Automation & NetDevOps</h4>
       <p style="margin: 0; font-size: 0.95em; line-height: 1.9;">
-        <a href="https://www.python.org" target="_blank"><img src="https://api.iconify.design/logos:python.svg" width="24" height="24" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"></a> <strong>Python:</strong> Custom scripting for multi-vendor interaction and zero-touch provisioning pipelines.<br>
-        <a href="https://www.ansible.com" target="_blank"><img src="https://api.iconify.design/logos:ansible.svg" width="24" height="24" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"></a> <strong>Ansible:</strong> Playbook orchestration, Jinja2 template rendering, and YAML data-modeling.<br>
-        <a href="https://n8n.io" target="_blank"><img src="https://api.iconify.design/logos:n8n.svg" width="24" height="24" style="vertical-align: middle; margin-bottom: -4px; margin-right: 6px;"></a> <strong>N8N:</strong> Advanced workflow automation and integration of network processes.
+        <a href="https://www.python.org" target="_blank">🐍</a> <strong>Python:</strong> Custom scripting for multi-vendor interaction and zero-touch provisioning pipelines.<br>
+        <a href="https://www.ansible.com" target="_blank">🔴</a> <strong>Ansible:</strong> Playbook orchestration, Jinja2 template rendering, and YAML data-modeling.<br>
+        <a href="https://n8n.io" target="_blank">⚡</a> <strong>N8N:</strong> Advanced workflow automation and integration of network processes.
       </p>
     </td>
   </tr>
