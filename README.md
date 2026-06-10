@@ -1,6 +1,3 @@
-Aquí tienes todo tu código de GitHub perfectamente unificado. He añadido a **Fortinet** dentro de la sección de seguridad (manteniendo el diseño limpio en dos columnas) y he reemplazado los dos botones del final por un único botón destacado que lleva a tu nuevo Linktree con el texto **Contact Me**.
-
-```markdown
 # <span style="color:#2196F3; font-weight: 700;">Daniel Blanco</span>
 ### Data Center Fabric & Network Automation Architect
 📍 **Madrid, Spain**
