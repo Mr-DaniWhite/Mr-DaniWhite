@@ -1,7 +1,7 @@
 <div style="font-family: Calibri, 'Segoe UI', Arial, sans-serif;">
 
 <p align="center">
-  <img src="Daniel Blanco Banner.jpg" alt="Daniel Blanco - Data Center Fabric & Network Automation Architect" width="100%">
+  <img src="daniel-blanco-banner.jpg" alt="Daniel Blanco - Data Center Fabric & Network Automation Architect" width="100%">
 </p>
 
 📍 **Madrid, Spain**
