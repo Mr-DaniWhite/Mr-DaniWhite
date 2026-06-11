@@ -86,9 +86,9 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 ## <span style="color:#2196F3; font-weight: 600;">Languages</span>
 
-<p style="font-size: 0.95em; line-height: 2.4; margin: 0;">
-  <img src="https://img.shields.io/badge/-English-00247D?style=flat&logo=google-translate&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>English:</strong> Professional Working Proficiency (Technical architecture design, multi-vendor client negotiation, global infrastructure documentation).<br>
-  <img src="https://img.shields.io/badge/-Spanish-AA151B?style=flat&logo=data-ai&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Spanish:</strong> Native or Bilingual Proficiency.
+<p style="font-size: 0.95em; line-height: 2.2; margin: 0;">
+  <strong>English:</strong> Professional Working Proficiency (Technical architecture design, multi-vendor client negotiation, global infrastructure documentation).<br>
+  <strong>Spanish:</strong> Native or Bilingual Proficiency.
 </p>
 
 ---
