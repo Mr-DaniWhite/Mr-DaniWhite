@@ -47,7 +47,7 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
         <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Azure:</strong> Hub-spoke topologies.<br>
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Python:</strong> Automation scripting.<br>
         <img src="https://img.shields.io/badge/-Ansible-CC0000?style=flat&logo=ansible&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Ansible:</strong> Infrastructure as Code.<br>
-        <img src="https://img.shields.io/badge/-Load_Balancing-005A9C?style=flat&logo=nginx&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>L5 Load Balancing:</strong> Application traffic distribution, session persistence, and reverse proxying.
+        <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>L5 Load Balancing:</strong> Application traffic distribution, reverse proxying, and session persistence.
       </p>
       <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">Server Virtualization</h4>
       <p style="margin: 0; font-size: 0.95em; line-height: 2.2;">
