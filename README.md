@@ -10,6 +10,11 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 ---
 
+## <span style="color:#2196F3; font-weight: 600;">⚡ My NetDevOps Manifesto</span>
+> *"Treat the network as software. If configuration isn't version-controlled in Git and driven by a single Source of Truth, it doesn't exist in production. Automation isn't about working less; it's about eliminating human error at scale."*
+
+---
+
 ## <span style="color:#2196F3; font-weight: 600;">Technical Focus & Core Expertise</span>
 
 <table width="100%" style="border-collapse: collapse; border: none;">
@@ -20,7 +25,7 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
         <img src="https://img.shields.io/badge/-Cisco_ACI-1BA0D7?style=flat&logo=cisco&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco ACI:</strong> Fabric homologation & multi-pod architecture design.<br>
         <img src="https://img.shields.io/badge/-Arista-005A9C?style=flat&logo=arista&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Arista:</strong> End-to-end production designs & EVPN-VXLAN topologies.<br>
         <img src="https://img.shields.io/badge/-Nokia-0B409C?style=flat&logo=nokia&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Nokia:</strong> Service Provider routing matrices & core implementations.<br>
-        <img src="https://img.shields.io/badge/-Juniper-F44336?style=flat&logo=juniper-networks&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Juniper:</strong> Robust enterprise switching and secure edge frameworks.
+        <img src="https://img.shields.io/badge/-IP_Fabric_for_Media-1BA0D7?style=flat&logo=cisco&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>IP Fabric for Media:</strong> High-performance broadcast IP architectures.
       </p>
       <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.05em;">Cloud Networking</h4>
       <p style="margin: 0; font-size: 0.9em; line-height: 2.2;">
@@ -32,9 +37,9 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
       <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.05em;">Next-Gen Security & SD-WAN</h4>
       <p style="margin: 0 0 20px 0; font-size: 0.9em; line-height: 2.2;">
         <img src="https://img.shields.io/badge/-Palo_Alto-EC6623?style=flat&logo=palo-alto-networks&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Palo Alto:</strong> Zero Trust Architecture, SD-WAN & Panorama.<br>
-        <img src="https://img.shields.io/badge/-Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Fortinet:</strong> NGFW implementation and automated object rules orchestration.<br>
-        <img src="https://img.shields.io/badge/-Check_Point-003366?style=flat&logo=checkpoint&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Check Point:</strong> Legacy migrations & Gaia production clusters.<br>
-        <img src="https://img.shields.io/badge/-Microsegmentation-333333?style=flat" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Distributed Services:</strong> Granular policy microsegmentation design.
+        <img src="https://img.shields.io/badge/-Aruba_CX_10k-FF6500?style=flat&logo=hpe&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Aruba CX 10000:</strong> Distributed datacenter microsegmentation switching.<br>
+        <img src="https://img.shields.io/badge/-Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Fortinet:</strong> NGFW implementation & automated policy rules orchestration.<br>
+        <img src="https://img.shields.io/badge/-Check_Point-003366?style=flat&logo=checkpoint&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Check Point:</strong> Legacy migrations & Gaia production clusters.
       </p>
       <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.05em;">Modeling & Frameworks</h4>
       <p style="margin: 0; font-size: 0.9em; line-height: 2.2;">
@@ -50,14 +55,24 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
         <img src="https://img.shields.io/badge/-NetBox-1A1A1A?style=flat&logo=netbox&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>NetBox:</strong> Dynamic Source of Truth (SoT) state integration.<br>
         <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Git / Versioning:</strong> Peer code reviews & pipeline configuration management.
       </p>
-      <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.05em;">Virtualization & Traffic</h4>
+      <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.05em;">Virtualization & Observability</h4>
       <p style="margin: 0; font-size: 0.9em; line-height: 2.2;">
-        <img src="https://img.shields.io/badge/-VMware_NSX-60B414?style=flat&logo=vmware&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>VMware:</strong> vSphere infrastructure deployment & NSX controllers.<br>
-        <img src="https://img.shields.io/badge/-F5_BIG--IP-E61C24?style=flat&logo=f5&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>F5 LTM:</strong> Advanced Application Delivery & core traffic engine profiling.
+        <img src="https://img.shields.io/badge/-VMware_NSX-60B414?style=flat&logo=vmware&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>VMware NSX:</strong> Overlay infrastructure deployment & software fabric controllers.<br>
+        <img src="https://img.shields.io/badge/-F5_BIG--IP-E61C24?style=flat&logo=f5&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>F5 LTM:</strong> Advanced Application Delivery & profile engine tuning.<br>
+        <img src="https://img.shields.io/badge/-AppDynamics-0185DE?style=flat&logo=appdynamics&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>AppDynamics:</strong> Application performance analytics observability.
       </p>
     </td>
   </tr>
 </table>
+
+---
+
+## <span style="color:#2196F3; font-weight: 600;">📊 GitHub Activity & Metrics</span>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mr-DaniWhite&show_icons=true&theme=transparent&title_color=2196f3&icon_color=2196f3&text_color=777777&bg_color=00000000&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-DaniWhite&layout=compact&theme=transparent&title_color=2196f3&text_color=777777&bg_color=00000000&hide_border=true" alt="Top Languages" width="48%"/>
+</p>
 
 ---
 
@@ -68,9 +83,9 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
     <td width="50%" style="vertical-align: top; border: none; padding-right: 25px; padding-top: 0;">
       <p style="margin: 0 0 10px 0; font-size: 0.95em; line-height: 2.2;">
         <img src="https://img.shields.io/badge/-Arista-005A9C?style=flat&logo=arista&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Arista Cloud Engineer:</strong> Level 5 (ACE L5) & Level 3 (ACE L3).<br>
-        <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco CCIE:</strong> Routing & Switching (Written) + Advanced ACI Systems.<br>
+        <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco CCIE Framework:</strong> Routing & Switching + Advanced ACI Fabric Architecture.<br>
         <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco CCNP:</strong> Enterprise Routing, Switching & Security Fast Track.<br>
-        <img src="https://img.shields.io/badge/-Palo_Alto-EC6623?style=flat&logo=palo-alto-networks&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Palo Alto Networks:</strong> Advanced SD-WAN Frameworks architecture.
+        <img src="https://img.shields.io/badge/-Palo_Alto-EC6623?style=flat&logo=palo-alto-networks&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Palo Alto Networks:</strong> Advanced SD-WAN Frameworks & Architecture.
       </p>
     </td>
     <td width="50%" style="vertical-align: top; border: none; padding-left: 25px; padding-top: 0;">
@@ -116,6 +131,7 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
   <img src="https://img.shields.io/badge/-NetDevOps-2196F3?style=flat-square" height="24"> &nbsp;
   <img src="https://img.shields.io/badge/-GitOps-F05032?style=flat-square&logo=git&logoColor=white" height="24"> &nbsp;
   <img src="https://img.shields.io/badge/-Infrastructure_as_Code-333333?style=flat-square" height="24"> &nbsp;
+  <img src="https://img.shields.io/square&logoColor=white" height="24"> &nbsp;
   <img src="https://img.shields.io/badge/-CI%2FCD%20Pipelines-1A1A1A?style=flat-square" height="24"> &nbsp;
   <img src="https://img.shields.io/badge/-High--Performance_Leadership-0089D6?style=flat-square" height="24"> &nbsp;
   <img src="https://img.shields.io/badge/-Agile_Operations-60B414?style=flat-square" height="24">
