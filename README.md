@@ -62,6 +62,31 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 ---
 
+## <span style="color:#2196F3; font-weight: 600;">🛠️ Automation Stack & Programmability</span>
+
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none; background: none;">
+    <td width="50%" style="vertical-align: top; border: none; padding-right: 25px; padding-top: 0;">
+      <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.05em;">Network APIs & Modeling</h4>
+      <p style="margin: 0 0 10px 0; font-size: 0.95em; line-height: 2.2;">
+        <strong>Data Models:</strong> YANG, JSON, YAML schema design & structured validation.<br>
+        <strong>Protocols:</strong> NETCONF, RESTCONF & gNMI/gRPC telemetry streaming layers.<br>
+        <strong>Libraries:</strong> Netmiko, NAPALM, Nornir & Cisco Genie/pyATS verification frameworks.
+      </p>
+    </td>
+    <td width="50%" style="vertical-align: top; border: none; padding-left: 25px; padding-top: 0;">
+      <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.05em;">CI/CD & Testing Automation</h4>
+      <p style="margin: 0 0 10px 0; font-size: 0.95em; line-height: 2.2;">
+        <strong>Pipelines:</strong> GitLab CI/CD, GitHub Actions architecture & distributed runners.<br>
+        <strong>Validation:</strong> Batfish (pre-deployment routing verification) & SuzieQ network analysis.<br>
+        <strong>Artifacts:</strong> Jinja2 template engineering & dynamic multi-vendor inventory mapping.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## <span style="color:#2196F3; font-weight: 600;">🛠️ Core Architecture Patterns</span>
 
 - **Cisco Enterprise Data Center Fabrics:** Structural design of high-density **Cisco ACI Multi-Pod & Multi-Site** environments. Orchestration of APIC controllers, design of multi-tenant segmentation policies (VRFs, Bridge Domains, EPGs), and secure external perimeter routing utilizing optimized **L3Out infrastructure profiles**. High-capacity deployments across **Cisco Nexus series switches** utilizing advanced vPC, Fibre Channel over Ethernet (FCoE), and out-of-band management topologies.
