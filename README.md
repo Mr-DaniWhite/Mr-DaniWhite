@@ -1,33 +1,12 @@
 <div style="font-family: Calibri, 'Segoe UI', Arial, sans-serif;">
 
 <p align="center">
-  <img src="Daniel Blanco Banner.jpg" alt="Daniel Blanco - Data Center Fabric & Network Automation Architect" width="100%">
+  <img src="daniel-blanco-banner.jpg" alt="Daniel Blanco - Data Center Fabric & Network Automation Architect" width="100%">
 </p>
 
 📍 **Madrid, Spain**
 
 Senior Network Engineering Leader with over 20 years of experience designing, deploying, and automating enterprise-scale infrastructures. Focused on scaling Infrastructure as Code (IaC) pipelines, NetDevOps workflows, and transforming traditional networking operations into agile, code-driven environments.
-
----
-
-## <span style="color:#2196F3; font-weight: 600;">Scale & Impact Numbers</span>
-
-<table width="100%" style="border-collapse: collapse; border: none; margin-bottom: 20px;">
-  <tr style="border: none; background: none;">
-    <td width="33%" style="text-align: center; border: none;">
-      <h3 style="color:#2196F3; margin: 0; font-size: 2em; font-weight: 700;">20+</h3>
-      <p style="margin: 5px 0 0 0; color: #94a3b8; font-size: 0.9em;">Years of Enterprise Experience</p>
-    </td>
-    <td width="33%" style="text-align: center; border: none;">
-      <h3 style="color:#2196F3; margin: 0; font-size: 2em; font-weight: 700;">100%</h3>
-      <p style="margin: 5px 0 0 0; color: #94a3b8; font-size: 0.9em;">Automated Fabric Provisioning</p>
-    </td>
-    <td width="33%" style="text-align: center; border: none;">
-      <h3 style="color:#2196F3; margin: 0; font-size: 2em; font-weight: 700;">Tier-1</h3>
-      <p style="margin: 5px 0 0 0; color: #94a3b8; font-size: 0.9em;">Infrastructure Architecture</p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -49,7 +28,7 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
         <img src="https://img.shields.io/badge/-Palo_Alto-EC6623?style=flat&logo=palo-alto-networks&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Palo Alto:</strong> Architectural leadership in Zero Trust Architecture and Panorama platforms.<br>
         <img src="https://img.shields.io/badge/-Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Fortinet:</strong> Deployment of next-generation firewalls, orchestrating automated policy updates and access reviews.
       </p>
-      <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">Modeling & Frameworks</h4>
+      <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">Modeling Language</h4>
       <p style="margin: 0; font-size: 0.95em; line-height: 2.2;">
         <img src="https://img.shields.io/badge/-C4_Model-333333?style=flat&logo=diagrams.net&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>C4 Model:</strong> Structural software and infrastructure architecture modeling across context and containers.<br>
         <img src="https://img.shields.io/badge/-PlantUML-4B6F96?style=flat&logo=uml&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>PlantUML:</strong> Component diagram generation via code-driven text-to-diagram specifications.
@@ -115,15 +94,13 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 ---
 
-## <span style="color:#2196F3; font-weight: 600;">Methodologies & Ecosystem</span>
+## <span style="color:#2196F3; font-weight: 600;">Tools & Ecosystem</span>
 <p align="left">
-  <img src="https://img.shields.io/badge/-NetDevOps-2196F3?style=flat-square" height="24"> &nbsp;
-  <img src="https://img.shields.io/badge/-GitOps-F05032?style=flat-square&logo=git&logoColor=white" height="24"> &nbsp;
-  <img src="https://img.shields.io/badge/-CI%2FCD%20Pipelines-333333?style=flat-square" height="24"> &nbsp;
-  <img src="https://img.shields.io/badge/-Source%20of%20Truth%20(SoT)-1A1A1A?style=flat-square" height="24"> &nbsp;
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="24"> &nbsp;
   <img src="https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white" height="24"> &nbsp;
-  <img src="https://img.shields.io/badge/-NetBox-1A1A1A?style=flat-square&logo=netbox&logoColor=white" height="24">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="24"> &nbsp;
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="24"> &nbsp;
+  <img src="https://img.shields.io/badge/-NetBox-1A1A1A?style=flat-square&logo=netbox&logoColor=white" height="24"> &nbsp;
+  <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="24">
 </p>
 
 ---
