@@ -73,8 +73,9 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 ## <span style="color:#2196F3; font-weight: 600;">📡 Open-Source Labs & Production Simulation</span>
 
-- **Virtualized Network Topologies:** Design and orchestration of multi-vendor virtual routing nodes using **VyOS** to mirror production environments.
-- **Sandbox Containerization:** Building isolated automation execution layers and test networks inside **Docker** clusters to continuously evaluate Ansible playbooks and validation workflows.
+- **Containerized Emulation Frameworks:** Rapid prototyping and deployment of lightweight, multi-vendor network fabrics using **Containerlab** coupled with optimized **Docker** sandboxes.
+- **Hypervisor-Based Lab Topologies:** Design, testing, and full orchestration of complex multi-vendor network nodes inside advanced **EVE-NG** and **GNS3** environments.
+- **Virtualized Edge Routing:** Orchestration of isolated routing nodes using **VyOS** to reliably mimic physical service provider and enterprise core edge topologies.
 
 ---
 
