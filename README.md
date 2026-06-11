@@ -37,7 +37,7 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
     <td width="50%" style="vertical-align: top; border: none; padding-left: 25px; padding-top: 0;">
       <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.1em;">Service Provider Infrastructure</h4>
       <p style="margin: 0 0 20px 0; font-size: 0.95em; line-height: 2.2;">
-        <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco:</strong> Core routing/switching architecture validation and lifecycle management for tier-1 accounts.<br>
+        <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco:</strong> Core routing/switching architecture validation and lifecycle management.<br>
         <img src="https://img.shields.io/badge/-Nokia-0B409C?style=flat&logo=nokia&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Nokia:</strong> Scalable backbone engineering and service provider routing implementation.<br>
         <img src="https://img.shields.io/badge/-Juniper-F44336?style=flat&logo=juniper-networks&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Juniper:</strong> Robust enterprise-grade routing, switching, and secure edge frameworks.
       </p>
@@ -54,6 +54,31 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
         <img src="https://img.shields.io/badge/-Proxmox-E74C3C?style=flat&logo=proxmox&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Proxmox:</strong> Virtual environment management and hyperconverged infrastructure clustering.<br>
         <img src="https://img.shields.io/badge/-VMware-60B414?style=flat&logo=vmware&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>VMware:</strong> vSphere architecture, ESXi virtualization, and corporate compute deployment.<br>
         <img src="https://img.shields.io/badge/-KVM-333333?style=flat&logo=linux&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>KVM:</strong> Kernel-based open-source infrastructure design and virtual machine provisioning.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## <span style="color:#2196F3; font-weight: 600;">Technical Certifications</span>
+
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none; background: none;">
+    <td width="50%" style="vertical-align: top; border: none; padding-right: 25px; padding-top: 0;">
+      <p style="margin: 0 0 10px 0; font-size: 0.95em; line-height: 2.2;">
+        <img src="https://img.shields.io/badge/-Arista-005A9C?style=flat&logo=arista&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Arista Cloud Engineer:</strong> Level 5 (ACE L5) & Level 3 (ACE L3).<br>
+        <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco CCIE:</strong> Routing & Switching (Written framework).<br>
+        <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco CCNP:</strong> Enterprise Routing, Switching & Security Fast Track.<br>
+        <img src="https://img.shields.io/badge/-Palo_Alto-EC6623?style=flat&logo=palo-alto-networks&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Palo Alto Networks:</strong> Advanced SD-WAN Frameworks architecture.
+      </p>
+    </td>
+    <td width="50%" style="vertical-align: top; border: none; padding-left: 25px; padding-top: 0;">
+      <p style="margin: 0 0 10px 0; font-size: 0.95em; line-height: 2.2;">
+        <img src="https://img.shields.io/badge/-Juniper-F44336?style=flat&logo=juniper-networks&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Juniper Networks:</strong> JNCIS-ENT & JNCIA Core validation.<br>
+        <img src="https://img.shields.io/badge/-Fortinet-EE3124?style=flat&logo=fortinet&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Fortinet:</strong> FortiGate Security Infrastructure (FCNSA).<br>
+        <img src="https://img.shields.io/badge/-Check_Point-003366?style=flat&logo=checkpoint&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Check Point:</strong> CCSA GAIA Deployment systems.<br>
+        <img src="https://img.shields.io/badge/-Alcatel_Lucent-660033?style=flat&logo=nokia&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Alcatel-Lucent:</strong> ACSE & ACFE Routing & Switching Frameworks.
       </p>
     </td>
   </tr>
@@ -94,13 +119,17 @@ Senior Network Engineering Leader with over 20 years of experience designing, de
 
 ---
 
-## <span style="color:#2196F3; font-weight: 600;">Tools & Ecosystem</span>
+## <span style="color:#2196F3; font-weight: 600;">Methodologies & Ecosystem</span>
+
 <p align="left">
+  <img src="https://img.shields.io/badge/-NetDevOps-2196F3?style=flat-square" height="24"> &nbsp;
+  <img src="https://img.shields.io/badge/-GitOps-F05032?style=flat-square&logo=git&logoColor=white" height="24"> &nbsp;
+  <img src="https://img.shields.io/badge/-CI%2FCD%20Pipelines-333333?style=flat-square" height="24"> &nbsp;
+  <img src="https://img.shields.io/badge/-Source%20of%20Truth%20(SoT)-1A1A1A?style=flat-square" height="24"> &nbsp;
   <img src="https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white" height="24"> &nbsp;
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="24"> &nbsp;
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="24"> &nbsp;
   <img src="https://img.shields.io/badge/-NetBox-1A1A1A?style=flat-square&logo=netbox&logoColor=white" height="24"> &nbsp;
-  <img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="24">
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="24">
 </p>
 
 ---
