@@ -4,7 +4,7 @@
   <img src="daniel-blanco-banner.jpg" alt="Daniel Blanco - Data Center Fabric & Network Automation Architect" width="100%">
 </p>
 
-<p align="right" style="font-size: 0.9em; color: #8b949e; font-weight: 500;">
+<p align="left" style="font-size: 0.95em; color: #8b949e; font-weight: 500; font-style: italic; margin-bottom: 15px;">
   📍 Madrid, Spain &nbsp;&bull;&nbsp; 💼 Senior Infrastructure Security Architect
 </p>
 
@@ -174,26 +174,26 @@
     <td width="32%" style="vertical-align: top; border: none; padding: 18px; background-color: #161b22; border-radius: 8px; border: 1px solid #30363d;">
       <h4 style="color: #58a6ff; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid #30363d; padding-bottom: 6px;">Hybrid & Cloud Networking</h4>
       <p style="margin: 0; font-size: 0.9em; line-height: 2.2; color: #c9d1d9;">
-        <img src="https://img.shields.io/badge/-AWS_Transit_Gateway-FF9900?style=flat&logo=amazon-aws&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>AWS Transit Infrastructure:</strong> Enterprise account Transit Gateways & redundant Direct Connect pipelines.<br>
-        <img src="https://img.shields.io/badge/-Azure_Virtual_WAN-0089D6?style=flat&logo=microsoft-azure&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Azure Cloud Routing:</strong> Virtual WAN routing architectures, hub-spoke secure segmentation & ExpressRoute overlays.<br>
-        <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>GCP Interconnect:</strong> Cloud Routers, Shared VPC architectures & cross-environment dynamic BGP paths.
+        <img src="https://img.shields.io/badge/-AWS_Transit_Gateway-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>AWS Transit Infrastructure:</strong> Enterprise account Transit Gateways & redundant Direct Connect pipelines.<br>
+        <img src="https://img.shields.io/badge/-Azure_Virtual_WAN-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Azure Cloud Routing:</strong> Virtual WAN routing architectures, hub-spoke secure segmentation & ExpressRoute overlays.<br>
+        <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>GCP Interconnect:</strong> Cloud Routers, Shared VPC architectures & cross-environment dynamic BGP paths.
       </p>
     </td>
     <td width="2%" style="border: none; background: none;"></td>
     <td width="32%" style="vertical-align: top; border: none; padding: 18px; background-color: #161b22; border-radius: 8px; border: 1px solid #30363d;">
       <h4 style="color: #58a6ff; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid #30363d; padding-bottom: 6px;">DevOps & Observability</h4>
       <p style="margin: 0; font-size: 0.9em; line-height: 2.2; color: #c9d1d9;">
-        <img src="https://img.shields.io/badge/-GitLab_CI-FCA121?style=flat&logo=gitlab&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>CI/CD Integration:</strong> Automated GitLab CI/CD & GitHub Actions environments for design validation.<br>
-        <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Telemetry Extraction:</strong> Prometheus collectors & responsive Grafana operational tracking environments.<br>
-        <img src="https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Log Architecture:</strong> Splunk Core log parsing, advanced dashboard design & proactive infrastructure metrics.
+        <img src="https://img.shields.io/badge/-GitLab_CI-FCA121?style=flat-square&logo=gitlab&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>CI/CD Integration:</strong> Automated GitLab CI/CD & GitHub Actions environments for design validation.<br>
+        <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Telemetry Extraction:</strong> Prometheus collectors & responsive Grafana operational tracking environments.<br>
+        <img src="https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Log Architecture:</strong> Splunk Core log parsing, advanced dashboard design & proactive infrastructure metrics.
       </p>
     </td>
     <td width="2%" style="border: none; background: none;"></td>
     <td width="32%" style="vertical-align: top; border: none; padding: 18px; background-color: #161b22; border-radius: 8px; border: 1px solid #30363d;">
       <h4 style="color: #58a6ff; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid #30363d; padding-bottom: 6px;">Fortinet Security Fabric Extended</h4>
       <p style="margin: 0; font-size: 0.9em; line-height: 2.2; color: #c9d1d9;">
-        <img src="https://img.shields.io/badge/-FortiAnalyzer-EE3124?style=flat&logo=fortinet&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>FortiAnalyzer & FortiSIEM:</strong> Enterprise log management, data aggregation & cross-vendor event correlation.<br>
-        <img src="https://img.shields.io/badge/-Identity_/_Access-EE3124?style=flat&logo=fortinet&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Access Engineering:</strong> FortiAuthenticator directory interfaces, FortiToken MFA maps & FortiEDR endpoints.
+        <img src="https://img.shields.io/badge/-FortiAnalyzer-EE3124?style=flat-square&logo=fortinet&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>FortiAnalyzer & FortiSIEM:</strong> Enterprise log management, data aggregation & cross-vendor event correlation.<br>
+        <img src="https://img.shields.io/badge/-Identity_/_Access-EE3124?style=flat-square&logo=fortinet&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Access Engineering:</strong> FortiAuthenticator directory interfaces, FortiToken MFA maps & FortiEDR endpoints.
       </p>
     </td>
   </tr>
@@ -207,18 +207,18 @@
     <td width="49%" style="vertical-align: top; border: none; padding: 18px; background-color: #161b22; border-radius: 8px; border: 1px solid #30363d;">
       <h4 style="color:#58a6ff; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid #30363d; padding-bottom: 6px;">Network APIs & Modeling</h4>
       <p style="margin: 0; font-size: 0.95em; line-height: 2.2; color: #c9d1d9;">
-        <img src="https://img.shields.io/badge/-YANG-333333?style=flat" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Data Models:</strong> YANG structured validation, JSON schemas & YAML design blueprints.<br>
-        <img src="https://img.shields.io/badge/-gRPC-828587?style=flat&logo=grpc&logoColor=white" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Protocols:</strong> NETCONF, RESTCONF and high-frequency gNMI/gRPC telemetry streaming layers.<br>
-        <img src="https://img.shields.io/badge/-FortiOS_API-EE3124?style=flat&logo=fortinet&logoColor=white" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Fortinet API Automation:</strong> Automated resource tracking via FortiOS REST API for dynamic address-object and custom application definitions.
+        <img src="https://img.shields.io/badge/-YANG-333333?style=flat-square" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Data Models:</strong> YANG structured validation, JSON schemas & YAML design blueprints.<br>
+        <img src="https://img.shields.io/badge/-gRPC-828587?style=flat-square&logo=grpc&logoColor=white" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Protocols:</strong> NETCONF, RESTCONF and high-frequency gNMI/gRPC telemetry streaming layers.<br>
+        <img src="https://img.shields.io/badge/-FortiOS_API-EE3124?style=flat-square&logo=fortinet&logoColor=white" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Fortinet API Automation:</strong> Automated resource tracking via FortiOS REST API for dynamic address-object and custom application definitions.
       </p>
     </td>
     <td width="2%" style="border: none; background: none;"></td>
     <td width="49%" style="vertical-align: top; border: none; padding: 18px; background-color: #161b22; border-radius: 8px; border: 1px solid #30363d;">
       <h4 style="color:#58a6ff; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid #30363d; padding-bottom: 6px;">Testing Architecture & Validation</h4>
       <p style="margin: 0; font-size: 0.95em; line-height: 2.2; color: #c9d1d9;">
-        <img src="https://img.shields.io/badge/-Batfish-005A9C?style=flat" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Validation Frameworks:</strong> Batfish control-plane routing simulation & SuzieQ network state analytics.<br>
-        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Container Infrastructure:</strong> Multi-vendor isolated routing images for execution testing environments.<br>
-        <img src="https://img.shields.io/badge/-Jinja2-B1140A?style=flat&logo=jinja&logoColor=white" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Artifact Engineering:</strong> Modular Jinja2 code rendering, dynamic inventories & config mapping sheets.
+        <img src="https://img.shields.io/badge/-Batfish-005A9C?style=flat-square" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Validation Frameworks:</strong> Batfish control-plane routing simulation & SuzieQ network state analytics.<br>
+        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Container Infrastructure:</strong> Multi-vendor isolated routing images for execution testing environments.<br>
+        <img src="https://img.shields.io/badge/-Jinja2-B1140A?style=flat-square&logo=jinja&logoColor=white" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Artifact Engineering:</strong> Modular Jinja2 code rendering, dynamic inventories & config mapping sheets.
       </p>
     </td>
   </tr>
@@ -285,9 +285,9 @@
 
 ## <span id="open-source-labs--production-simulation" style="color:#58a6ff; font-weight: 600;">Open-Source Labs & Production Simulation</span>
 
-- <img src="https://img.shields.io/badge/-Containerlab-2496ED?style=flat&logo=docker&logoColor=white" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Containerized Emulation Frameworks:</strong> Rapid prototyping and deployment of lightweight, multi-vendor network fabrics using **Containerlab** coupled with optimized **Docker** sandboxes.
-- <img src="https://img.shields.io/badge/-EVE--NG-1A1A1A?style=flat" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Hypervisor-Based Lab Topologies:</strong> Design, testing, and full orchestration of complex multi-vendor network nodes inside advanced **EVE-NG** and **GNS3** environments.
-- <img src="https://img.shields.io/badge/-VyOS-005A9C?style=flat&logo=linux&logoColor=white" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Virtualized Edge Routing:</strong> Orchestration of isolated routing nodes using **VyOS** to reliably mimic physical service provider and enterprise core edge topologies.
+- <img src="https://img.shields.io/badge/-Containerlab-2496ED?style=flat-square&logo=docker&logoColor=white" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Containerized Emulation Frameworks:</strong> Rapid prototyping and deployment of lightweight, multi-vendor network fabrics using **Containerlab** coupled with optimized **Docker** sandboxes.
+- <img src="https://img.shields.io/badge/-EVE--NG-1A1A1A?style=flat-square" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Hypervisor-Based Lab Topologies:</strong> Design, testing, and full orchestration of complex multi-vendor network nodes inside advanced **EVE-NG** and **GNS3** environments.
+- <img src="https://img.shields.io/badge/-VyOS-005A9C?style=flat-square&logo=linux&logoColor=white" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Virtualized Edge Routing:</strong> Orchestration of isolated routing nodes using **VyOS** to reliably mimic physical service provider and enterprise core edge topologies.
 
 ---
 
@@ -296,18 +296,33 @@
   <tr style="border: none; background: none;">
     <td width="50%" style="vertical-align: top; border: none; padding-right: 25px; padding-top: 0;">
       <p style="margin: 0 0 10px 0; font-size: 0.95em; line-height: 2.2; color: #c9d1d9;">
-        <img src="https://img.shields.io/badge/-Fortinet_NSE_Specialist-EE3124?style=flat&logo=fortinet&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Fortinet Network Security / Expert Track:</strong> Advanced Enterprise Firewall Infrastructure, Cloud Security Architecture, and Centralized Management (FortiGate/FortiManager/FortiAnalyzer) (Training).<br>
-        <img src="https://img.shields.io/badge/-Arista_ACE_L5-005A9C?style=flat&logo=arista&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Arista Cloud Engineer:</strong> Level 5 (ACE L5) & Level 3 (ACE L3).<br>
-        <img src="https://img.shields.io/badge/-Cisco_CCIE-1BA0D7?style=flat&logo=cisco&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco CCIE Framework:</strong> Routing & Switching + Advanced ACI Architecture.
+        <img src="https://img.shields.io/badge/-Fortinet_NSE_Specialist-EE3124?style=flat-square&logo=fortinet&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Fortinet Network Security / Expert Track:</strong> Advanced Enterprise Firewall Infrastructure, Cloud Security Architecture, and Centralized Management (FortiGate/FortiManager/FortiAnalyzer) (Training).<br>
+        <img src="https://img.shields.io/badge/-Arista_ACE_L5-005A9C?style=flat-square&logo=arista&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Arista Cloud Engineer:</strong> Level 5 (ACE L5) & Level 3 (ACE L3).<br>
+        <img src="https://img.shields.io/badge/-Cisco_CCIE-1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco CCIE Framework:</strong> Routing & Switching + Advanced ACI Architecture.
       </p>
     </td>
     <td width="50%" style="vertical-align: top; border: none; padding-left: 25px; padding-top: 0;">
       <p style="margin: 0 0 10px 0; font-size: 0.95em; line-height: 2.2; color: #c9d1d9;">
-        <img src="https://img.shields.io/badge/-Palo_Alto_-EC6623?style=flat&logo=palo-alto-networks&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Palo Alto Networks:</strong> Core Traffic Security & Threat Prevention Policies (Panorama Integration).
+        <img src="https://img.shields.io/badge/-Palo_Alto_-EC6623?style=flat-square&logo=palo-alto-networks&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Palo Alto Networks:</strong> Advanced Firewalls Frameworks & Architecture. (Training).<br>
+        <img src="https://img.shields.io/badge/-Cisco_CCNP-1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco CCNP:</strong> Enterprise Routing, Switching & Security Fast Track.<br>
+        <img src="https://img.shields.io/badge/-VMware_VCA-607078?style=flat-square&logo=vmware&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>VMware VCA-DCV:</strong> Data Center Virtualization infrastructure.
       </p>
     </td>
   </tr>
 </table>
+
+---
+
+## <span id="selected-projects" style="color:#58a6ff; font-weight: 600;">Selected Enterprise Projects</span>
+
+- 🟥 **Global Production Edge Security & Next-Generation Firewall Migration (Vodafone & Telecable):** Directed the architectural engineering, greenfield/brownfield migration, and production rollout of complex edge securities transitioning from legacy Checkpoint frameworks to advanced **Fortinet NGFW platforms**. Spearheaded the deployment of robust hardware security layers, optimizing traffic management via dedicated virtual domains (VDOMs) and managing secure, integrated access layers utilizing **FortiSwitch arrays with FortiLink**.
+- 🟥 **Automated Fortinet Policy & Multi-Tenant Provisioning Engine:** Built a programmatic deployment pipeline utilizing Ansible playbooks and the FortiOS REST API to standardize multi-tenant Next-Generation Firewall rules across **FortiManager**, shrinking lead provisioning cycles for complex firewall object synchronization.
+- 🟥 **Global Multi-Site Enterprise Fortinet Fabric Integration:** Configured structural isolation layers via multi-tenant **VDOMs** and accelerated deep SSL decryption layers across international cloud entry-nodes to secure high-volume distributed infrastructure traffic.
+- 🟦 **Global Cisco ACI Fabric Homologation & Core Migrations (Vodafone & Carrefour):** Led the extensive structural homologation, hardware platform testing, and active production migrations of **Cisco ACI SDN Fabrics**. Designed Multi-Pod interconnections, isolated secure environments within the APIC engine, and orchestrated core migration phases for highly available Nexus clusters and mission-critical International Out-of-Band Data Centers.
+- 🟦 **Production Arista Leaf-Spine EVPN-VXLAN Infrastructure Rollout (Tecnalia & Lunik):** Supervised the technical blueprinting and end-to-end bare-metal installation of modern **Arista hardware switches running EOS**. Architected high-density EVPN-VXLAN virtual overlay topologies to achieve distributed multi-tenant separation, optimizing low-latency data plane traffic across advanced data center compute pools utilizing **Arista CloudVision** management frameworks.
+- 🟧 **Automated Multi-Vendor Infrastructure Validation Lab (Banc Sabadell):** Designed and built a containerized automation ecosystem using Ansible to orchestrate, validate, and test playbooks across complex multi-vendor nodes, including F5 BIG-IP, Checkpoint firewalls, Cisco ACI fabric, Microsoft Azure, and AWS public cloud environments.
+- 🟧 **Zero Trust Security Architecture Implementation (Lunik):** Directed the strategic architectural design and deployment of a corporate-wide Zero Trust Architecture (ZTA), leveraging modern Palo Alto Networks Next-Generation Firewalls to ensure granular micro-segmentation.
+- 🟩 **Secure Virtualized Data Centers Insertion (AEAT & NTT):** Spearheaded the infrastructure deployment of VMware Data Center and NSX systems, orchestrating high-throughput security service insertion using physical and virtual appliances alongside native Kubernetes clusters.
 
 ---
 
@@ -318,7 +333,10 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="26" style="margin-right: 8px;">
   </a>
   <a href="mailto:your-email@domain.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="26">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="26" style="margin-right: 8px;">
+  </a>
+  <a href="https://linktr.ee/daniel.blanco.work" target="_blank">
+    <img src="https://img.shields.io/badge/-Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" height="26">
   </a>
 </p>
 
