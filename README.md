@@ -179,7 +179,7 @@
     <td width="32%" style="vertical-align: top; border: none; padding: 18px; background-color: #161b22; border-radius: 8px; border: 1px solid #30363d;">
       <h4 style="color: #58a6ff; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid #30363d; padding-bottom: 6px;">Hybrid & Cloud Networking</h4>
       <p style="margin: 0; font-size: 0.9em; line-height: 2.2; color: #c9d1d9;">
-        <img src="https://img.shields.io/badge/-AWS_Transit_Gateway-FF9900?style=flat-square&logo=amazon-aws&omega;Color=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>AWS Transit Infrastructure:</strong> Enterprise account Transit Gateways & redundant Direct Connect pipelines.<br>
+        <img src="https://img.shields.io/badge/-AWS_Transit_Gateway-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>AWS Transit Infrastructure:</strong> Enterprise account Transit Gateways & redundant Direct Connect pipelines.<br>
         <img src="https://img.shields.io/badge/-Azure_Virtual_WAN-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Azure Cloud Routing:</strong> Virtual WAN routing architectures, hub-spoke secure segmentation & ExpressRoute overlays.<br>
         <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>GCP Interconnect:</strong> Cloud Routers, Shared VPC architectures & cross-environment dynamic BGP paths.
       </p>
