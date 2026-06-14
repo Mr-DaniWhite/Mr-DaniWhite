@@ -14,17 +14,15 @@
 
 ---
 
-<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 24px; margin: 30px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
-  
-  <div style="font-size: 1.15em; font-weight: 600; color: #58a6ff; letter-spacing: 0.5px; border-bottom: 1px solid #30363d; padding-bottom: 12px; margin-bottom: 20px; display: flex; align-items: center;">
-    📂 ARCHITECTURE BLUEPRINT & NAVIGATION HUB
-  </div>
+## <span id="index" style="color:#58a6ff; font-weight: 600;">📋 INDEX</span>
+
+<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 24px; margin: 20px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 
   <table width="100%" style="border-collapse: collapse; border: none; background: none; margin: 0; padding: 0;">
     <tr style="border: none; background: none;">
       <td width="48.5%" style="vertical-align: top; border: none; padding: 0; margin: 0;">
         <a href="#carrier--telco-architecture-footprint" style="text-decoration: none; display: block; margin-bottom: 12px;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em; transition: all 0.2s ease;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em;">
             <span style="color: #58a6ff; margin-right: 8px;">🌐</span> Carrier & Telco Footprint
           </div>
         </a>
@@ -181,7 +179,7 @@
     <td width="32%" style="vertical-align: top; border: none; padding: 18px; background-color: #161b22; border-radius: 8px; border: 1px solid #30363d;">
       <h4 style="color: #58a6ff; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid #30363d; padding-bottom: 6px;">Hybrid & Cloud Networking</h4>
       <p style="margin: 0; font-size: 0.9em; line-height: 2.2; color: #c9d1d9;">
-        <img src="https://img.shields.io/badge/-AWS_Transit_Gateway-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>AWS Transit Infrastructure:</strong> Enterprise account Transit Gateways & redundant Direct Connect pipelines.<br>
+        <img src="https://img.shields.io/badge/-AWS_Transit_Gateway-FF9900?style=flat-square&logo=amazon-aws&omega;Color=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>AWS Transit Infrastructure:</strong> Enterprise account Transit Gateways & redundant Direct Connect pipelines.<br>
         <img src="https://img.shields.io/badge/-Azure_Virtual_WAN-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Azure Cloud Routing:</strong> Virtual WAN routing architectures, hub-spoke secure segmentation & ExpressRoute overlays.<br>
         <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>GCP Interconnect:</strong> Cloud Routers, Shared VPC architectures & cross-environment dynamic BGP paths.
       </p>
@@ -335,7 +333,7 @@
 - <img src="https://img.shields.io/badge/-Cisco_ACI-1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> **Global Cisco ACI Fabric Homologation & Core Migrations (Vodafone & Carrefour):** Led the extensive structural homologation, hardware platform testing, and active production migrations of **Cisco ACI SDN Fabrics**. Designed Multi-Pod interconnections, isolated secure environments within the APIC engine, and orchestrated core migration phases for highly available Nexus clusters and mission-critical International Out-of-Band Data Centers.
 - <img src="https://img.shields.io/badge/-Arista_EOS-005A9C?style=flat-square&logo=arista&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> **Production Arista Leaf-Spine EVPN-VXLAN Infrastructure Rollout (Tecnalia & Lunik):** Supervised the technical blueprinting and end-to-end bare-metal installation of modern **Arista hardware switches running EOS**. Architected high-density EVPN-VXLAN virtual overlay topologies to achieve distributed multi-tenant separation, optimizing low-latency data plane traffic across advanced data center compute pools utilizing **Arista CloudVision** management frameworks.
 - <img src="https://img.shields.io/badge/-Ansible_IaC-CC0000?style=flat-square&logo=ansible&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> **Automated Multi-Vendor Infrastructure Validation Lab (Banc Sabadell):** Designed and built a containerized automation ecosystem using Ansible to orchestrate, validate, and test playbooks across complex multi-vendor nodes, including F5 BIG-IP, Checkpoint firewalls, Cisco ACI fabric, Microsoft Azure, and AWS public cloud environments.
-- <img src="https://img.shields.io/badge/-Palo_Alto-EC6623?style=flat-square&logo=palo-alto-networks&angle=0&value=Palo%20Alto" height="20" style="vertical-align: middle; margin-right: 6px;"> **Zero Trust Security Architecture Implementation (Lunik):** Directed the strategic architectural design and deployment of a corporate-wide Zero Trust Architecture (ZTA), leveraging modern Palo Alto Networks Next-Generation Firewalls to ensure granular micro-segmentation.
+- <img src="https://img.shields.io/badge/-Palo_Alto-EC6623?style=flat-square&logo=palo-alto-networks" height="20" style="vertical-align: middle; margin-right: 6px;"> **Zero Trust Security Architecture Implementation (Lunik):** Directed the strategic architectural design and deployment of a corporate-wide Zero Trust Architecture (ZTA), leveraging modern Palo Alto Networks Next-Generation Firewalls to ensure granular micro-segmentation.
 - <img src="https://img.shields.io/badge/-VMware_NSX-607078?style=flat-square&logo=vmware&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> **Secure Virtualized Data Centers Insertion (AEAT & NTT):** Spearheaded the infrastructure deployment of VMware Data Center and NSX systems, orchestrating high-throughput security service insertion using physical and virtual appliances alongside native Kubernetes clusters.
 
 ---
