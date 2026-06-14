@@ -16,7 +16,7 @@
 
   <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px; margin: 30px 0;">
     
-    <table width="100%" style="border-collapse: collapse; border: none; background: none; margin: 0 0 20px 0;">
+    <table width="100%" style="border-collapse: collapse; border: none; background: none; margin: 0 0 24px 0;">
       <tr style="border: none; background: none;">
         <td style="border: none; padding: 0 0 14px 0; border-bottom: 1px solid #30363d; text-align: left; vertical-align: middle;">
           <span style="font-size: 1.15em; font-weight: 600; color: #58a6ff; letter-spacing: 0.5px;">
@@ -24,11 +24,7 @@
           </span>
         </td>
         <td style="border: none; padding: 0 0 14px 0; border-bottom: 1px solid #30363d; text-align: right; vertical-align: middle;">
-          <a href="#connect" style="text-decoration: none; display: inline-block;">
-            <span style="background: linear-gradient(135deg, #1f6feb, #238636); color: #ffffff; padding: 6px 14px; border-radius: 6px; font-size: 0.85em; font-weight: 600; border: 1px solid rgba(255,255,255,0.1);">
-              ⚡ Quick Connect
-            </span>
-          </a>
+          <a href="#connect" style="text-decoration: none !important; color: #ffffff !important; display: inline-block;"><span style="background: linear-gradient(135deg, #1f6feb, #238636); color: #ffffff !important; padding: 6px 14px; border-radius: 6px; font-size: 0.85em; font-weight: 600; border: 1px solid rgba(255,255,255,0.1);">⚡ Quick Connect</span></a>
         </td>
       </tr>
     </table>
@@ -37,61 +33,21 @@
       <tr style="border: none; background: none;">
         
         <td width="48%" style="vertical-align: top; border: none; padding: 0;">
-          <div style="margin-bottom: 12px;">
-            <a href="#carrier--telco-architecture-footprint" style="text-decoration: none !important; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: inline-block;">
-              🌐 &nbsp; <span style="color: #c9d1d9;">Carrier & Telco Footprint</span>
-            </a>
-          </div>
-          <div style="margin-bottom: 12px;">
-            <a href="#technical-focus--core-expertise" style="text-decoration: none !important; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: inline-block;">
-              🛡️ &nbsp; <span style="color: #c9d1d9;">Technical Focus & Core Expertise</span>
-            </a>
-          </div>
-          <div style="margin-bottom: 12px;">
-            <a href="#extended-cloud-transit--advanced-systems" style="text-decoration: none !important; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: inline-block;">
-              ☁️ &nbsp; <span style="color: #c9d1d9;">Extended Cloud Transit Systems</span>
-            </a>
-          </div>
-          <div style="margin-bottom: 12px;">
-            <a href="#automation-stack--programmability" style="text-decoration: none !important; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: inline-block;">
-              🤖 &nbsp; <span style="color: #c9d1d9;">Automation Stack & Code</span>
-            </a>
-          </div>
-          <div>
-            <a href="#professional-experience" style="text-decoration: none !important; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: inline-block;">
-              💼 &nbsp; <span style="color: #c9d1d9;">Professional Timeline</span>
-            </a>
-          </div>
+          <a href="#carrier--telco-architecture-footprint" style="text-decoration: none !important; color: #c9d1d9 !important; font-size: 0.95em; font-weight: 500; display: block; margin-bottom: 12px;">🌐&nbsp;&nbsp;<span style="color: #c9d1d9 !important; text-decoration: none !important;">Carrier & Telco Footprint</span></a>
+          <a href="#technical-focus--core-expertise" style="text-decoration: none !important; color: #c9d1d9 !important; font-size: 0.95em; font-weight: 500; display: block; margin-bottom: 12px;">🛡️&nbsp;&nbsp;<span style="color: #c9d1d9 !important; text-decoration: none !important;">Technical Focus & Core Expertise</span></a>
+          <a href="#extended-cloud-transit--advanced-systems" style="text-decoration: none !important; color: #c9d1d9 !important; font-size: 0.95em; font-weight: 500; display: block; margin-bottom: 12px;">☁️&nbsp;&nbsp;<span style="color: #c9d1d9 !important; text-decoration: none !important;">Extended Cloud Transit Systems</span></a>
+          <a href="#automation-stack--programmability" style="text-decoration: none !important; color: #c9d1d9 !important; font-size: 0.95em; font-weight: 500; display: block; margin-bottom: 12px;">🤖&nbsp;&nbsp;<span style="color: #c9d1d9 !important; text-decoration: none !important;">Automation Stack & Code</span></a>
+          <a href="#professional-experience" style="text-decoration: none !important; color: #c9d1d9 !important; font-size: 0.95em; font-weight: 500; display: block;">💼&nbsp;&nbsp;<span style="color: #c9d1d9 !important; text-decoration: none !important;">Professional Timeline</span></a>
         </td>
         
         <td width="4%" style="border: none; background: none;"></td>
         
         <td width="48%" style="vertical-align: top; border: none; padding: 0;">
-          <div style="margin-bottom: 12px;">
-            <a href="#core-architecture-patterns" style="text-decoration: none !important; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: inline-block;">
-              🏛️ &nbsp; <span style="color: #c9d1d9;">Core Architecture Patterns</span>
-            </a>
-          </div>
-          <div style="margin-bottom: 12px;">
-            <a href="#ecosystem-interoperability--presales-edge" style="text-decoration: none !important; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: inline-block;">
-              🔀 &nbsp; <span style="color: #c9d1d9;">Ecosystem & Presales Edge</span>
-            </a>
-          </div>
-          <div style="margin-bottom: 12px;">
-            <a href="#open-source-labs--production-simulation" style="text-decoration: none !important; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: inline-block;">
-              🔬 &nbsp; <span style="color: #c9d1d9;">Open-Source Simulation Labs</span>
-            </a>
-          </div>
-          <div style="margin-bottom: 12px;">
-            <a href="#technical-certifications--specialized-courses" style="text-decoration: none !important; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: inline-block;">
-              📜 &nbsp; <span style="color: #c9d1d9;">Certifications & Frameworks</span>
-            </a>
-          </div>
-          <div>
-            <a href="#selected-projects" style="text-decoration: none !important; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: inline-block;">
-              🚀 &nbsp; <span style="color: #c9d1d9;">Selected Enterprise Projects</span>
-            </a>
-          </div>
+          <a href="#core-architecture-patterns" style="text-decoration: none !important; color: #c9d1d9 !important; font-size: 0.95em; font-weight: 500; display: block; margin-bottom: 12px;">🏛️&nbsp;&nbsp;<span style="color: #c9d1d9 !important; text-decoration: none !important;">Core Architecture Patterns</span></a>
+          <a href="#ecosystem-interoperability--presales-edge" style="text-decoration: none !important; color: #c9d1d9 !important; font-size: 0.95em; font-weight: 500; display: block; margin-bottom: 12px;">🔀&nbsp;&nbsp;<span style="color: #c9d1d9 !important; text-decoration: none !important;">Ecosystem & Presales Edge</span></a>
+          <a href="#open-source-labs--production-simulation" style="text-decoration: none !important; color: #c9d1d9 !important; font-size: 0.95em; font-weight: 500; display: block; margin-bottom: 12px;">🔬&nbsp;&nbsp;<span style="color: #c9d1d9 !important; text-decoration: none !important;">Open-Source Simulation Labs</span></a>
+          <a href="#technical-certifications--specialized-courses" style="text-decoration: none !important; color: #c9d1d9 !important; font-size: 0.95em; font-weight: 500; display: block; margin-bottom: 12px;">📜&nbsp;&nbsp;<span style="color: #c9d1d9 !important; text-decoration: none !important;">Certifications & Frameworks</span></a>
+          <a href="#selected-projects" style="text-decoration: none !important; color: #c9d1d9 !important; font-size: 0.95em; font-weight: 500; display: block;">🚀&nbsp;&nbsp;<span style="color: #c9d1d9 !important; text-decoration: none !important;">Selected Enterprise Projects</span></a>
         </td>
 
       </tr>
@@ -100,7 +56,14 @@
 
   <hr style="border: 0; border-top: 1px solid #30363d; margin: 30px 0;">
 
-  <h2 id="technical-focus--core-expertise" style="color: #f0f6fc; font-size: 1.5em; margin: 0 0 20px 0; font-weight: 600;">Technical Focus & Core Expertise</h2>
+  <h2 id="carrier--telco-architecture-footprint" style="color: #f0f6fc; font-size: 1.5em; margin: 0 0 10px 0; font-weight: 600;">🌐 Carrier & Telco Architecture Footprint</h2>
+  <p style="font-size: 1em; line-height: 1.6; color: #8b949e; margin: 0 0 20px 0;">
+    Extensive background engineering massive-scale Service Provider core networks, deploying dynamic multi-homed BGP edge topologies, MPLS traffic paths, and deeply layered routing policies to guarantee maximum uptime, sub-second failover thresholds, and clean structural segmentation.
+  </p>
+
+  <br>
+
+  <h2 id="technical-focus--core-expertise" style="color: #f0f6fc; font-size: 1.5em; margin: 0 0 20px 0; font-weight: 600;">🛡️ Technical Focus & Core Expertise</h2>
   
   <table width="100%" style="border-collapse: collapse; border: none; background: none;">
     <tr style="border: none; background: none;">
@@ -108,7 +71,7 @@
       <td width="32%" style="vertical-align: top; background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
         <h3 style="color: #f0f6fc; font-size: 1.05em; margin: 0 0 14px 0; font-weight: 600;">Data Center & SDN Fabrics</h3>
         <p style="font-size: 0.9em; line-height: 1.5; margin: 0 0 10px 0;">
-          <img src="https://img.shields.io/badge/Cisco_ACI-005A9C?style=flat-square&logo=cisco&logoColor=white" alt="Cisco ACI"> <strong>Cisco ACI / Nexus:</strong> Multi-Pod/Multi-Site fabrics, APIC clustering & L3Out enrutamiento.
+          <img src="https://img.shields.io/badge/Cisco_ACI-005A9C?style=flat-square&logo=cisco&logoColor=white" alt="Cisco ACI"> <strong>Cisco ACI / Nexus:</strong> Multi-Pod/Multi-Site fabrics, APIC clustering & L3Out routing profiles.
         </p>
         <p style="font-size: 0.9em; line-height: 1.5; margin: 0 0 10px 0;">
           <img src="https://img.shields.io/badge/Arista_EOS-004B87?style=flat-square&logo=arista&logoColor=white" alt="Arista EOS"> <strong>Arista EVPN-VXLAN:</strong> Leaf-Spine overlay topologies & Anycast Gateways.
@@ -120,7 +83,7 @@
           <img src="https://img.shields.io/badge/IP_Fabric-01A09E?style=flat-square" alt="IP Fabric"> <strong>Cisco IPFM:</strong> High-performance broadcast IP video/audio matrix architectures.
         </p>
         <p style="font-size: 0.9em; line-height: 1.5; margin: 0;">
-          <img src="https://img.shields.io/badge/Juniper_Apstra-CC0000?style=flat-square&logo=junipernetworks&logoColor=white" alt="Juniper Apstra"> <strong>Juniper Apstra:</strong> Intent-Based Networking (IBN) for autonomous DC data operations.
+          <img src="https://img.shields.io/badge/Juniper_Apstra-CC0000?style=flat-square&logo=junipernetworks&logoColor=white" alt="Juniper Apstra"> <strong>Juniper Apstra:</strong> Intent-Based Networking (IBN) for autonomous DC operations.
         </p>
       </td>
 
@@ -150,16 +113,16 @@
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <strong>Python Programmability:</strong> Scripting interfaces, custom API processing & extraction modules.
         </p>
         <p style="font-size: 0.9em; line-height: 1.5; margin: 0 0 10px 0;">
-          <img src="https://img.shields.io/badge/Ansible_/_AWX-CC0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"> <strong>Ansible Networks:</strong> Infrastructure as Code playbook tracking & Jinja2 configuration maps.
+          <img src="https://img.shields.io/badge/Ansible_/_AWX-CC0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"> <strong>Ansible Networks:</strong> Infrastructure as Code playbook tracking & Jinja2 maps.
         </p>
         <p style="font-size: 0.9em; line-height: 1.5; margin: 0 0 10px 0;">
           <img src="https://img.shields.io/badge/NetBox-3A3A3A?style=flat-square" alt="NetBox"> <strong>Source of Truth:</strong> Dynamic NetBox inventory hooks for live automated provisioning.
         </p>
         <p style="font-size: 0.9em; line-height: 1.5; margin: 0 0 10px 0;">
-          <img src="https://img.shields.io/badge/FortiManager-EE3124?style=flat-square" alt="FortiManager"> <strong>FortiManager API:</strong> Global multi-ADOM policy deployment workflows & template provisioning.
+          <img src="https://img.shields.io/badge/FortiManager-EE3124?style=flat-square" alt="FortiManager"> <strong>FortiManager API:</strong> Global multi-ADOM policy deployment workflows & template engine maps.
         </p>
         <p style="font-size: 0.9em; line-height: 1.5; margin: 0;">
-          <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"> <strong>Declarative IaC:</strong> Multi-cloud edge networks, transit VPCs & cloud secure insertion profiles.
+          <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"> <strong>Declarative IaC:</strong> Multi-cloud edge networks, transit VPCs & secure insertion profiles.
         </p>
       </td>
 
@@ -168,7 +131,7 @@
 
   <br>
 
-  <h2 id="extended-cloud-transit--advanced-systems" style="color: #f0f6fc; font-size: 1.5em; margin: 20px 0 20px 0; font-weight: 600;">Extended Cloud Transit & Advanced Systems</h2>
+  <h2 id="extended-cloud-transit--advanced-systems" style="color: #f0f6fc; font-size: 1.5em; margin: 20px 0 20px 0; font-weight: 600;">☁️ Extended Cloud Transit Systems</h2>
 
   <table width="100%" style="border-collapse: collapse; border: none; background: none;">
     <tr style="border: none; background: none;">
@@ -191,7 +154,7 @@
       <td width="32%" style="vertical-align: top; background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
         <h3 style="color: #f0f6fc; font-size: 1.05em; margin: 0 0 14px 0; font-weight: 600;">DevOps & Observability</h3>
         <p style="font-size: 0.9em; line-height: 1.5; margin: 0 0 10px 0;">
-          <img src="https://img.shields.io/badge/GitLab_CI-FCA121?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI"> <strong>CI/CD Integration:</strong> Automated GitLab CI/CD & GitHub Actions environments for design validation.
+          <img src="https://img.shields.io/badge/GitLab_CI-FCA121?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab CI"> <strong>CI/CD Integration:</strong> Automated GitLab CI/CD & GitHub Actions environments for validation rules.
         </p>
         <p style="font-size: 0.9em; line-height: 1.5; margin: 0 0 10px 0;">
           <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"> <strong>Telemetry Extraction:</strong> Prometheus collectors & responsive Grafana operational tracking environments.
@@ -215,5 +178,67 @@
 
     </tr>
   </table>
+
+  <br>
+
+  <h2 id="automation-stack--programmability" style="color: #f0f6fc; font-size: 1.5em; margin: 20px 0 10px 0; font-weight: 600;">🤖 Automation Stack & Programmability</h2>
+  <p style="font-size: 1em; line-height: 1.6; color: #8b949e; margin: 0 0 20px 0;">
+    Orchestrating deterministic networks through source-controlled configuration maps. Replacing box-by-box manual configuration models with scalable Jinja2 templates, strict programmatic validation, and self-documenting Source of Truth data trees.
+  </p>
+
+  <br>
+
+  <h2 id="core-architecture-patterns" style="color: #f0f6fc; font-size: 1.5em; margin: 20px 0 10px 0; font-weight: 600;">🏛️ Core Architecture Patterns</h2>
+  <p style="font-size: 1em; line-height: 1.6; color: #8b949e; margin: 0 0 20px 0;">
+    Designing modular networks based on predictable structural execution blocks. Specializing in highly resilient Next-Generation Firewalls (NGFW) sandboxing topologies, Multi-Site overlay convergence matrices, and granular micro-segmentation blueprints built directly for regulatory compliance standards.
+  </p>
+
+  <br>
+
+  <h2 id="ecosystem-interoperability--presales-edge" style="color: #f0f6fc; font-size: 1.5em; margin: 20px 0 10px 0; font-weight: 600;">🔀 Ecosystem Interoperability & Presales Edge</h2>
+  <p style="font-size: 1em; line-height: 1.6; color: #8b949e; margin: 0 0 20px 0;">
+    Bridging complex cross-vendor operational dependencies smoothly. Blending technical systems architecture blueprints with strategic pre-sales management pipelines to draft accurate High-Level Designs (HLD), scoping metrics, and investment business reviews for C-Suite executives.
+  </p>
+
+  <br>
+
+  <h2 id="open-source-labs--production-simulation" style="color: #f0f6fc; font-size: 1.5em; margin: 20px 0 10px 0; font-weight: 600;">🔬 Open-Source Simulation Labs</h2>
+  <p style="font-size: 1em; line-height: 1.6; color: #8b949e; margin: 0 0 20px 0;">
+    Building hyper-realistic non-production simulation systems using containerized network operating systems (clab / containerlab) and virtualized hypervisors. Validating structural code execution pipelines, configuration templates, and failure responses before pushing to production networks.
+  </p>
+
+  <br>
+
+  <h2 id="technical-certifications--specialized-courses" style="color: #f0f6fc; font-size: 1.5em; margin: 20px 0 10px 0; font-weight: 600;">📜 Certifications & Frameworks</h2>
+  <p style="font-size: 1em; line-height: 1.6; color: #8b949e; margin: 0 0 20px 0;">
+    Backed by rigorous vendor validations across leading infrastructure tracks including Cisco Advanced Enterprise Routing, Fortinet Network Security Expert (NSE) tracks, Palo Alto Security Frameworks, and Modern Infrastructure as Code paradigms.
+  </p>
+
+  <br>
+
+  <h2 id="selected-projects" style="color: #f0f6fc; font-size: 1.5em; margin: 20px 0 10px 0; font-weight: 600;">🚀 Selected Enterprise Projects</h2>
+  <p style="font-size: 1em; line-height: 1.6; color: #8b949e; margin: 0 0 20px 0;">
+    Proven record managing multi-million Euro infrastructure transformation life-cycles. From designing cloud multi-region transport boundaries for international financial services to automating multi-site software-defined campus architectures for global industrial groups.
+  </p>
+
+  <br>
+
+  <h2 id="professional-experience" style="color: #f0f6fc; font-size: 1.5em; margin: 20px 0 10px 0; font-weight: 600;">💼 Professional Timeline</h2>
+  <p style="font-size: 1em; line-height: 1.6; color: #8b949e; margin: 0 0 20px 0;">
+    Over two decades of linear operational evolution: climbing through technical engineering positions, senior consultant pipelines, and strategic structural leadership roles inside dominant multi-national infrastructure providers and enterprise architectural divisions.
+  </p>
+
+  <br>
+
+  <hr style="border: 0; border-top: 1px solid #30363d; margin: 30px 0;">
+  
+  <p align="center" id="connect" style="font-size: 1.1em; font-weight: 600; color: #58a6ff; margin: 0 0 16px 0;">
+    🤝 Let's Collaborate & Build Resilient Infrastructures
+  </p>
+  
+  <p align="center" style="margin: 0;">
+    <a href="https://linkedin.com" style="text-decoration: none !important; color: #c9d1d9 !important;"><span style="background-color: #1f6feb; color: #ffffff !important; padding: 8px 16px; border-radius: 6px; font-size: 0.9em; font-weight: 600; margin: 0 5px; display: inline-block;">👔 LinkedIn Profile</span></a>
+    <a href="mailto:email@example.com" style="text-decoration: none !important; color: #c9d1d9 !important;"><span style="background-color: #238636; color: #ffffff !important; padding: 8px 16px; border-radius: 6px; font-size: 0.9em; font-weight: 600; margin: 0 5px; display: inline-block;">✉️ Direct Mail</span></a>
+  </p>
 
 </div>
