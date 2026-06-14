@@ -353,7 +353,7 @@
 
 ---
 
-## <span id="connect" style="color:#58a6ff; font-weight: 600;">📩 Ponte en contacto conmigo</span>
+## <span id="connect" style="color:#58a6ff; font-weight: 600;">📩 Get in Touch</span>
 
 <p align="left" style="margin-top: 15px;">
   <a href="https://linktr.ee/daniel.blanco.work" target="_blank" style="text-decoration: none;">
