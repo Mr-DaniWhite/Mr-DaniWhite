@@ -14,91 +14,87 @@
 
 ---
 
-<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px; margin: 30px 0;">
+<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 24px; margin: 30px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
   
-  <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #30363d; padding-bottom: 14px; margin-bottom: 20px;">
-    <div style="font-size: 1.15em; font-weight: 600; color: #58a6ff; letter-spacing: 0.5px;">
-      📂 ARCHITECTURE BLUEPRINT & NAVIGATION HUB
-    </div>
+  <div style="font-size: 1.15em; font-weight: 600; color: #58a6ff; letter-spacing: 0.5px; border-bottom: 1px solid #30363d; padding-bottom: 12px; margin-bottom: 20px; display: flex; align-items: center;">
+    📂 ARCHITECTURE BLUEPRINT & NAVIGATION HUB
   </div>
 
-  <table width="100%" style="border-collapse: collapse; border: none; background: none; margin: 0;">
+  <table width="100%" style="border-collapse: collapse; border: none; background: none; margin: 0; padding: 0;">
     <tr style="border: none; background: none;">
-      <td width="49%" style="vertical-align: top; border: none; padding: 0 8px 0 0;">
-        <a href="#carrier--telco-architecture-footprint" style="text-decoration: none; display: block; margin-bottom: 10px;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
-            🌐 &nbsp; Carrier & Telco Footprint
+      <td width="48.5%" style="vertical-align: top; border: none; padding: 0; margin: 0;">
+        <a href="#carrier--telco-architecture-footprint" style="text-decoration: none; display: block; margin-bottom: 12px;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em; transition: all 0.2s ease;">
+            <span style="color: #58a6ff; margin-right: 8px;">🌐</span> Carrier & Telco Footprint
           </div>
         </a>
-        <a href="#technical-focus--core-expertise" style="text-decoration: none; display: block; margin-bottom: 10px;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
-            🛡️ &nbsp; Technical Focus & Core Expertise
+        <a href="#technical-focus--core-expertise" style="text-decoration: none; display: block; margin-bottom: 12px;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em;">
+            <span style="color: #58a6ff; margin-right: 8px;">🛡️</span> Technical Focus & Core Expertise
           </div>
         </a>
-        <a href="#extended-cloud-transit--advanced-systems" style="text-decoration: none; display: block; margin-bottom: 10px;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
-            ☁️ &nbsp; Extended Cloud Transit Systems
+        <a href="#extended-cloud-transit--advanced-systems" style="text-decoration: none; display: block; margin-bottom: 12px;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em;">
+            <span style="color: #58a6ff; margin-right: 8px;">☁️</span> Extended Cloud Transit Systems
           </div>
         </a>
-        <a href="#automation-stack--programmability" style="text-decoration: none; display: block; margin-bottom: 10px;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
-            🤖 &nbsp; Automation Stack & Code
+        <a href="#automation-stack--programmability" style="text-decoration: none; display: block; margin-bottom: 12px;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em;">
+            <span style="color: #58a6ff; margin-right: 8px;">🤖</span> Automation Stack & Code
           </div>
         </a>
-        <a href="#professional-experience" style="text-decoration: none; display: block; margin-bottom: 10px;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
-            💼 &nbsp; Professional Timeline
+        <a href="#professional-experience" style="text-decoration: none; display: block; margin-bottom: 12px;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em;">
+            <span style="color: #58a6ff; margin-right: 8px;">💼</span> Professional Timeline
           </div>
         </a>
-        <a href="#languages" style="text-decoration: none; display: block; margin-bottom: 10px;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
-            🗣️ &nbsp; Languages
+        <a href="#languages" style="text-decoration: none; display: block;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em;">
+            <span style="color: #58a6ff; margin-right: 8px;">🗣️</span> Languages
           </div>
         </a>
       </td>
-      <td width="2%" style="border: none; background: none;"></td>
-      <td width="49%" style="vertical-align: top; border: none; padding: 0 0 0 8px;">
-        <a href="#core-architecture-patterns" style="text-decoration: none; display: block; margin-bottom: 10px;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
-            🏛️ &nbsp; Core Architecture Patterns
+      <td width="3%" style="border: none; background: none;"></td>
+      <td width="48.5%" style="vertical-align: top; border: none; padding: 0; margin: 0;">
+        <a href="#core-architecture-patterns" style="text-decoration: none; display: block; margin-bottom: 12px;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em;">
+            <span style="color: #58a6ff; margin-right: 8px;">🏛️</span> Core Architecture Patterns
           </div>
         </a>
-        <a href="#ecosystem-interoperability--presales-edge" style="text-decoration: none; display: block; margin-bottom: 10px;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
-            🔀 &nbsp; Ecosystem & Presales Edge
+        <a href="#ecosystem-interoperability--presales-edge" style="text-decoration: none; display: block; margin-bottom: 12px;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em;">
+            <span style="color: #58a6ff; margin-right: 8px;">🔀</span> Ecosystem & Presales Edge
           </div>
         </a>
-        <a href="#open-source-labs--production-simulation" style="text-decoration: none; display: block; margin-bottom: 10px;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
-            🔬 &nbsp; Open-Source Simulation Labs
+        <a href="#open-source-labs--production-simulation" style="text-decoration: none; display: block; margin-bottom: 12px;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em;">
+            <span style="color: #58a6ff; margin-right: 8px;">🔬</span> Open-Source Simulation Labs
           </div>
         </a>
-        <a href="#technical-certifications--specialized-courses" style="text-decoration: none; display: block; margin-bottom: 10px;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
-            📜 &nbsp; Certifications & Frameworks
+        <a href="#technical-certifications--specialized-courses" style="text-decoration: none; display: block; margin-bottom: 12px;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em;">
+            <span style="color: #58a6ff; margin-right: 8px;">📜</span> Certifications & Frameworks
           </div>
         </a>
-        <a href="#selected-projects" style="text-decoration: none; display: block; margin-bottom: 10px;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
-            🚀 &nbsp; Selected Projects
+        <a href="#selected-projects" style="text-decoration: none; display: block; margin-bottom: 12px;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em;">
+            <span style="color: #58a6ff; margin-right: 8px;">🚀</span> Selected Projects
           </div>
         </a>
-        <a href="#methodologies--philosophy" style="text-decoration: none; display: block; margin-bottom: 10px;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
-            🧠 &nbsp; Methodologies & Philosophy
+        <a href="#methodologies--philosophy" style="text-decoration: none; display: block; margin-bottom: 12px;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em;">
+            <span style="color: #58a6ff; margin-right: 8px;">🧠</span> Methodologies & Philosophy
+          </div>
+        </a>
+        <a href="#connect" style="text-decoration: none; display: block;">
+          <div style="background: linear-gradient(135deg, #1f6feb, #238636); border: 1px solid rgba(255,255,255,0.1); border-radius: 6px; padding: 12px 16px; color: #ffffff; font-weight: 600; font-size: 0.95em; box-shadow: inset 0 1px 0 rgba(255,255,255,0.2);">
+            <span style="margin-right: 8px;">⚡</span> Quick Contact
           </div>
         </a>
       </td>
     </tr>
   </table>
-  
-  <div align="center" style="margin-top: 15px; border-top: 1px solid #30363d; padding-top: 15px;">
-    <a href="#connect" style="text-decoration: none;">
-      <span style="background: linear-gradient(135deg, #1f6feb, #238636); color: #ffffff; padding: 8px 24px; border-radius: 6px; font-size: 0.9em; font-weight: 600; border: 1px solid rgba(255,255,255,0.1); display: inline-block;">
-        ⚡ Quick Contact
-      </span>
-    </a>
-  </div>
+
 </div>
 
 ---
@@ -357,7 +353,7 @@
 
 ---
 
-## <span id="connect" style="color:#58a6ff; font-weight: 600;">📩 Connect With Me</span>
+## <span id="connect" style="color:#58a6ff; font-weight: 600;">📩 Ponte en contacto conmigo</span>
 
 <p align="left" style="margin-top: 15px;">
   <a href="https://linktr.ee/daniel.blanco.work" target="_blank" style="text-decoration: none;">
