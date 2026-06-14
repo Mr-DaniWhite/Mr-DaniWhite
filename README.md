@@ -10,17 +10,85 @@ Senior Network & Infrastructure Security Architect with over 20 years of experie
 
 ---
 
-### 📌 Table of Contents
-- [Carrier & Telco Architecture Footprint](#carrier--telco-architecture-footprint)
-- [Technical Focus & Core Expertise](#technical-focus--core-expertise)
-- [Extended Cloud Transit & Advanced Systems](#extended-cloud-transit--advanced-systems)
-- [Automation Stack & Programmability](#automation-stack--programmability)
-- [Professional Experience](#professional-experience)
-- [Core Architecture Patterns](#core-architecture-patterns)
-- [Ecosystem Interoperability & Presales Edge](#ecosystem-interoperability--presales-edge)
-- [Open-Source Labs & Production Simulation](#open-source-labs--production-simulation)
-- [Technical Certifications & Specialized Courses](#technical-certifications--specialized-courses)
-- [Selected Projects](#selected-projects)
+<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px; margin: 25px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  
+  <div style="display: table; width: 100%; border-bottom: 1px solid #30363d; padding-bottom: 14px; margin-bottom: 20px;">
+    <div style="display: table-cell; vertical-align: middle;">
+      <span style="font-size: 1.25em; font-weight: 600; color: #58a6ff; letter-spacing: 0.5px;">
+        📂 DOCUMENT ARCHITECTURE & HUB
+      </span>
+    </div>
+    <div style="display: table-cell; text-align: right; vertical-align: middle;">
+      <a href="#connect" style="text-decoration: none; display: inline-block;">
+        <span style="background: linear-gradient(135deg, #1f6feb, #238636); color: #ffffff; padding: 6px 14px; border-radius: 6px; font-size: 0.85em; font-weight: 600; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
+          ⚡ Quick Connect
+        </span>
+      </a>
+    </div>
+  </div>
+
+  <table width="100%" style="border-collapse: collapse; border: none; background: none; margin-bottom: 0;">
+    <tr style="border: none; background: none;">
+      <td width="48%" style="vertical-align: top; border: none; padding: 0 10px 0 0;">
+        <div style="margin-bottom: 12px;">
+          <a href="#carrier--telco-architecture-footprint" style="text-decoration: none; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: block; padding: 8px 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px; transition: 0.2s;">
+            🌐 <span style="margin-left: 6px;">Carrier & Telco Footprint</span>
+          </a>
+        </div>
+        <div style="margin-bottom: 12px;">
+          <a href="#technical-focus--core-expertise" style="text-decoration: none; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: block; padding: 8px 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px;">
+            🛡️ <span style="margin-left: 6px;">Technical Focus & Core Expertise</span>
+          </a>
+        </div>
+        <div style="margin-bottom: 12px;">
+          <a href="#extended-cloud-transit--advanced-systems" style="text-decoration: none; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: block; padding: 8px 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px;">
+            ☁️ <span style="margin-left: 6px;">Extended Cloud Transit Systems</span>
+          </a>
+        </div>
+        <div style="margin-bottom: 12px;">
+          <a href="#automation-stack--programmability" style="text-decoration: none; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: block; padding: 8px 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px;">
+            🤖 <span style="margin-left: 6px;">Automation Stack & Code</span>
+          </a>
+        </div>
+        <div style="margin-bottom: 12px;">
+          <a href="#professional-experience" style="text-decoration: none; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: block; padding: 8px 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px;">
+            💼 <span style="margin-left: 6px;">Professional Timeline</span>
+          </a>
+        </div>
+      </td>
+      
+      <td width="4%" style="border: none; background: none;"></td>
+      
+      <td width="48%" style="vertical-align: top; border: none; padding: 0 0 0 10px;">
+        <div style="margin-bottom: 12px;">
+          <a href="#core-architecture-patterns" style="text-decoration: none; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: block; padding: 8px 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px;">
+            🏛️ <span style="margin-left: 6px;">Core Architecture Patterns</span>
+          </a>
+        </div>
+        <div style="margin-bottom: 12px;">
+          <a href="#ecosystem-interoperability--presales-edge" style="text-decoration: none; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: block; padding: 8px 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px;">
+            🔀 <span style="margin-left: 6px;">Ecosystem & Presales Edge</span>
+          </a>
+        </div>
+        <div style="margin-bottom: 12px;">
+          <a href="#open-source-labs--production-simulation" style="text-decoration: none; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: block; padding: 8px 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px;">
+            🔬 <span style="margin-left: 6px;">Open-Source Simulation Labs</span>
+          </a>
+        </div>
+        <div style="margin-bottom: 12px;">
+          <a href="#technical-certifications--specialized-courses" style="text-decoration: none; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: block; padding: 8px 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px;">
+            📜 <span style="margin-left: 6px;">Certifications & Frameworks</span>
+          </a>
+        </div>
+        <div style="margin-bottom: 12px;">
+          <a href="#selected-projects" style="text-decoration: none; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: block; padding: 8px 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px;">
+            🚀 <span style="margin-left: 6px;">Selected Enterprise Projects</span>
+          </a>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -285,13 +353,19 @@ Senior Network & Infrastructure Security Architect with over 20 years of experie
 
 ---
 
-## <span style="color:#2196F3; font-weight: 600;">Connect</span>
+## <span id="connect" style="color:#2196F3; font-weight: 600;">Connect & Engagement</span>
 
-<table style="border-collapse: collapse; border: none; background: none;">
+<p style="font-size: 1.05em; line-height: 1.6; margin-bottom: 20px;">
+  If you are looking to scale your infrastructure security perimeter, migrate to intent-based SDN architectures, or automate complex multi-vendor network operations pipelines, let's open a technical execution track:
+</p>
+
+<table style="border-collapse: collapse; border: none; background: none; margin-top: 15px;">
   <tr style="border: none; background: none;">
     <td style="border: none; padding: 0;">
       <a href="https://linktr.ee/daniel.blanco.work" target="_blank" style="text-decoration: none;">
-        <div style="background-color: #2196F3; color: white; padding: 10px 24px; border-radius: 5px; font-weight: bold; font-family: sans-serif; display: inline-block;">Contact Me</div>
+        <div style="background: linear-gradient(135deg, #1f6feb, #134da5); color: #ffffff; padding: 14px 32px; border-radius: 6px; font-weight: 600; font-size: 1.05em; letter-spacing: 0.3px; border: 1px solid rgba(255,255,255,0.15); box-shadow: 0 4px 15px rgba(31,111,235,0.25); display: inline-block; font-family: sans-serif;">
+          💼 Open Technical Consultation Track
+        </div>
       </a>
     </td>
   </tr>
