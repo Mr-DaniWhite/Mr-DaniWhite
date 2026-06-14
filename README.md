@@ -14,7 +14,7 @@
 
 ---
 
-## <span id="index" style="color:#58a6ff; font-weight: 600;">📋 INDEX</span>
+## <span id="index" style="color:#58a6ff; font-weight: 600;">📋 Index</span>
 
 <div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 24px; margin: 20px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
 
