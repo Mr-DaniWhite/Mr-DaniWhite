@@ -1,90 +1,90 @@
-<div style="font-family: Calibri, 'Segoe UI', Arial, sans-serif;">
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; color: #c9d1d9;">
 
 <p align="center">
   <img src="daniel-blanco-banner.jpg" alt="Daniel Blanco - Data Center Fabric & Network Automation Architect" width="100%">
 </p>
 
-Madrid, Spain
+<p align="right" style="font-size: 0.9em; color: #8b949e; font-weight: 500;">
+  📍 Madrid, Spain &nbsp;&bull;&nbsp; 💼 Senior Infrastructure Security Architect
+</p>
 
-Senior Network & Infrastructure Security Architect with over 20 years of experience designing, deploying, and automating enterprise-scale infrastructures. Focused on scaling Security Fabric frameworks, Infrastructure as Code (IaC) pipelines, NetDevOps workflows, and transforming traditional networking operations into agile, code-driven environments.
+<p style="font-size: 1.1em; line-height: 1.7; color: #8b949e;">
+  Senior Network & Infrastructure Security Architect with over 20 years of experience designing, deploying, and automating enterprise-scale infrastructures. Focused on scaling Security Fabric frameworks, Infrastructure as Code (IaC) pipelines, NetDevOps workflows, and transforming traditional networking operations into agile, code-driven environments.
+</p>
 
 ---
 
-<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px; margin: 25px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 24px; margin: 30px 0;">
   
-  <div style="display: table; width: 100%; border-bottom: 1px solid #30363d; padding-bottom: 14px; margin-bottom: 20px;">
-    <div style="display: table-cell; vertical-align: middle;">
-      <span style="font-size: 1.25em; font-weight: 600; color: #58a6ff; letter-spacing: 0.5px;">
-        📂 DOCUMENT ARCHITECTURE & HUB
-      </span>
+  <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #30363d; padding-bottom: 14px; margin-bottom: 20px;">
+    <div style="font-size: 1.15em; font-weight: 600; color: #58a6ff; letter-spacing: 0.5px;">
+      📂 ARCHITECTURE BLUEPRINT & NAVIGATION HUB
     </div>
-    <div style="display: table-cell; text-align: right; vertical-align: middle;">
-      <a href="#connect" style="text-decoration: none; display: inline-block;">
-        <span style="background: linear-gradient(135deg, #1f6feb, #238636); color: #ffffff; padding: 6px 14px; border-radius: 6px; font-size: 0.85em; font-weight: 600; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 2px 5px rgba(0,0,0,0.2);">
-          ⚡ Quick Connect
+    <div>
+      <a href="#connect" style="text-decoration: none;">
+        <span style="background: linear-gradient(135deg, #1f6feb, #238636); color: #ffffff; padding: 6px 14px; border-radius: 6px; font-size: 0.85em; font-weight: 600; border: 1px solid rgba(255,255,255,0.1); display: inline-block;">
+          ⚡ Quick Contact
         </span>
       </a>
     </div>
   </div>
 
-  <table width="100%" style="border-collapse: collapse; border: none; background: none; margin-bottom: 0;">
+  <table width="100%" style="border-collapse: collapse; border: none; background: none; margin: 0;">
     <tr style="border: none; background: none;">
-      <td width="48%" style="vertical-align: top; border: none; padding: 0 10px 0 0;">
-        <div style="margin-bottom: 12px;">
-          <a href="#carrier--telco-architecture-footprint" style="text-decoration: none; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: block; padding: 8px 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px; transition: 0.2s;">
-            🌐 <span style="margin-left: 6px;">Carrier & Telco Footprint</span>
-          </a>
-        </div>
-        <div style="margin-bottom: 12px;">
-          <a href="#technical-focus--core-expertise" style="text-decoration: none; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: block; padding: 8px 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px;">
-            🛡️ <span style="margin-left: 6px;">Technical Focus & Core Expertise</span>
-          </a>
-        </div>
-        <div style="margin-bottom: 12px;">
-          <a href="#extended-cloud-transit--advanced-systems" style="text-decoration: none; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: block; padding: 8px 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px;">
-            ☁️ <span style="margin-left: 6px;">Extended Cloud Transit Systems</span>
-          </a>
-        </div>
-        <div style="margin-bottom: 12px;">
-          <a href="#automation-stack--programmability" style="text-decoration: none; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: block; padding: 8px 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px;">
-            🤖 <span style="margin-left: 6px;">Automation Stack & Code</span>
-          </a>
-        </div>
-        <div style="margin-bottom: 12px;">
-          <a href="#professional-experience" style="text-decoration: none; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: block; padding: 8px 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px;">
-            💼 <span style="margin-left: 6px;">Professional Timeline</span>
-          </a>
-        </div>
+      <td width="49%" style="vertical-align: top; border: none; padding: 0 8px 0 0;">
+        <a href="#carrier--telco-architecture-footprint" style="text-decoration: none; display: block; margin-bottom: 10px;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
+            🌐 &nbsp; Carrier & Telco Footprint
+          </div>
+        </a>
+        <a href="#technical-focus--core-expertise" style="text-decoration: none; display: block; margin-bottom: 10px;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
+            🛡️ &nbsp; Technical Focus & Core Expertise
+          </div>
+        </a>
+        <a href="#extended-cloud-transit--advanced-systems" style="text-decoration: none; display: block; margin-bottom: 10px;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
+            ☁️ &nbsp; Extended Cloud Transit Systems
+          </div>
+        </a>
+        <a href="#automation-stack--programmability" style="text-decoration: none; display: block; margin-bottom: 10px;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
+            🤖 &nbsp; Automation Stack & Code
+          </div>
+        </a>
+        <a href="#professional-experience" style="text-decoration: none; display: block; margin-bottom: 10px;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
+            💼 &nbsp; Professional Timeline
+          </div>
+        </a>
       </td>
-      
-      <td width="4%" style="border: none; background: none;"></td>
-      
-      <td width="48%" style="vertical-align: top; border: none; padding: 0 0 0 10px;">
-        <div style="margin-bottom: 12px;">
-          <a href="#core-architecture-patterns" style="text-decoration: none; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: block; padding: 8px 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px;">
-            🏛️ <span style="margin-left: 6px;">Core Architecture Patterns</span>
-          </a>
-        </div>
-        <div style="margin-bottom: 12px;">
-          <a href="#ecosystem-interoperability--presales-edge" style="text-decoration: none; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: block; padding: 8px 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px;">
-            🔀 <span style="margin-left: 6px;">Ecosystem & Presales Edge</span>
-          </a>
-        </div>
-        <div style="margin-bottom: 12px;">
-          <a href="#open-source-labs--production-simulation" style="text-decoration: none; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: block; padding: 8px 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px;">
-            🔬 <span style="margin-left: 6px;">Open-Source Simulation Labs</span>
-          </a>
-        </div>
-        <div style="margin-bottom: 12px;">
-          <a href="#technical-certifications--specialized-courses" style="text-decoration: none; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: block; padding: 8px 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px;">
-            📜 <span style="margin-left: 6px;">Certifications & Frameworks</span>
-          </a>
-        </div>
-        <div style="margin-bottom: 12px;">
-          <a href="#selected-projects" style="text-decoration: none; color: #c9d1d9; font-size: 0.95em; font-weight: 500; display: block; padding: 8px 12px; background-color: #161b22; border: 1px solid #21262d; border-radius: 6px;">
-            🚀 <span style="margin-left: 6px;">Selected Enterprise Projects</span>
-          </a>
-        </div>
+      <td width="2%" style="border: none; background: none;"></td>
+      <td width="49%" style="vertical-align: top; border: none; padding: 0 0 0 8px;">
+        <a href="#core-architecture-patterns" style="text-decoration: none; display: block; margin-bottom: 10px;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
+            🏛️ &nbsp; Core Architecture Patterns
+          </div>
+        </a>
+        <a href="#ecosystem-interoperability--presales-edge" style="text-decoration: none; display: block; margin-bottom: 10px;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
+            🔀 &nbsp; Ecosystem & Presales Edge
+          </div>
+        </a>
+        <a href="#open-source-labs--production-simulation" style="text-decoration: none; display: block; margin-bottom: 10px;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
+            🔬 &nbsp; Open-Source Simulation Labs
+          </div>
+        </a>
+        <a href="#technical-certifications--specialized-courses" style="text-decoration: none; display: block; margin-bottom: 10px;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
+            📜 &nbsp; Certifications & Frameworks
+          </div>
+        </a>
+        <a href="#selected-projects" style="text-decoration: none; display: block; margin-bottom: 10px;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
+            🚀 &nbsp; Selected Enterprise Projects
+          </div>
+        </a>
       </td>
     </tr>
   </table>
@@ -92,77 +92,77 @@ Senior Network & Infrastructure Security Architect with over 20 years of experie
 
 ---
 
-## <span id="carrier--telco-architecture-footprint" style="color:#2196F3; font-weight: 600;">Carrier & Telco Architecture Footprint</span>
+## <span id="carrier--telco-architecture-footprint" style="color:#58a6ff; font-weight: 600;">Carrier & Telco Architecture Footprint</span>
 
-<p style="font-size: 1.05em; line-height: 1.6; margin-bottom: 20px;">
+<p style="font-size: 1.05em; line-height: 1.6; margin-bottom: 20px; color: #c9d1d9;">
   A significant portion of my professional career has been deeply focused on <strong>High-Scale Telecommunications and Core Provider Environments</strong>. I have spent years architecting, scaling, and operating mission-critical network infrastructures within major global carriers and wholesale operators:
 </p>
 
-<div style="background-color: #fcfcfc; border-left: 5px solid #E60000; padding: 15px; margin-bottom: 15px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-  <h3 style="margin-top: 0; margin-bottom: 8px; color: #E60000;">
-    <img src="https://img.shields.io/badge/-Vodafone_Environments-E60000?style=flat-square&logo=vodafone&logoColor=white" height="24" style="vertical-align: middle; margin-right: 8px;"> 
+<div style="background-color: #161b22; border-left: 5px solid #E60000; border-top: 1px solid #30363d; border-right: 1px solid #30363d; border-bottom: 1px solid #30363d; padding: 15px; margin-bottom: 15px; border-radius: 6px;">
+  <h3 style="margin-top: 0; margin-bottom: 8px; color: #ff7b72; font-size: 1.1em;">
+    <img src="https://img.shields.io/badge/-Vodafone_Environments-E60000?style=flat-square&logo=vodafone&logoColor=white" height="22" style="vertical-align: middle; margin-right: 8px;"> 
     Core Fabric & Infrastructure Homologation
   </h3>
-  <p style="margin: 0; font-size: 0.95em; line-height: 1.6; color: #333;">
+  <p style="margin: 0; font-size: 0.95em; line-height: 1.6; color: #8b949e;">
     Years of hands-on engineering dedicated to the structural homologation of next-generation SDN architectures. Led the integration of complex multi-tenant data center environments, active core migrations for highly available routing layers, and production edge security deployment frameworks.
   </p>
 </div>
 
-<div style="background-color: #fcfcfc; border-left: 5px solid #00A2BB; padding: 15px; margin-bottom: 15px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-  <h3 style="margin-top: 0; margin-bottom: 8px; color: #00A2BB;">
-    <img src="https://img.shields.io/badge/-Telefonica_Environments-00A2BB?style=flat-square&logo=telefonica&logoColor=white" height="24" style="vertical-align: middle; margin-right: 8px;"> 
+<div style="background-color: #161b22; border-left: 5px solid #00A2BB; border-top: 1px solid #30363d; border-right: 1px solid #30363d; border-bottom: 1px solid #30363d; padding: 15px; margin-bottom: 15px; border-radius: 6px;">
+  <h3 style="margin-top: 0; margin-bottom: 8px; color: #79c0ff; font-size: 1.1em;">
+    <img src="https://img.shields.io/badge/-Telefonica_Environments-00A2BB?style=flat-square&logo=telefonica&logoColor=white" height="22" style="vertical-align: middle; margin-right: 8px;"> 
     Service Provider Routing & Edge Operations
   </h3>
-  <p style="margin: 0; font-size: 0.95em; line-height: 1.6; color: #333;">
+  <p style="margin: 0; font-size: 0.95em; line-height: 1.6; color: #8b949e;">
     Deep alignment with carrier-grade transport environments, engineering large-scale routing platforms, multi-protocol core transport infrastructures, and sophisticated edge perimeter security solutions designed to support mass-volume business critical telemetry.
   </p>
 </div>
 
-<div style="background-color: #fcfcfc; border-left: 5px solid #60B414; padding: 15px; margin-bottom: 15px; border-radius: 4px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-  <h3 style="margin-top: 0; margin-bottom: 8px; color: #60B414;">
-    <img src="https://img.shields.io/badge/-Aire_Networks_Backbone-60B414?style=flat-square" height="24" style="vertical-align: middle; margin-right: 8px;"> 
+<div style="background-color: #161b22; border-left: 5px solid #60B414; border-top: 1px solid #30363d; border-right: 1px solid #30363d; border-bottom: 1px solid #30363d; padding: 15px; margin-bottom: 15px; border-radius: 6px;">
+  <h3 style="margin-top: 0; margin-bottom: 8px; color: #56d364; font-size: 1.1em;">
+    <img src="https://img.shields.io/badge/-Aire_Networks_Backbone-60B414?style=flat-square" height="22" style="vertical-align: middle; margin-right: 8px;"> 
     Wholesale Carrier Networks & Backbone Systems
   </h3>
-  <p style="margin: 0; font-size: 0.95em; line-height: 1.6; color: #333;">
+  <p style="margin: 0; font-size: 0.95em; line-height: 1.6; color: #8b949e;">
     Design and operational deployment optimization inside specialized wholesale telecommunications backbones. Streamlining transit routing nodes, structural interconnection profiles, and security infrastructure matrices built for resilient data-plane delivery at national scale.
   </p>
 </div>
 
 ---
 
-## <span id="technical-focus--core-expertise" style="color:#2196F3; font-weight: 600;">Technical Focus & Core Expertise</span>
+## <span id="technical-focus--core-expertise" style="color:#58a6ff; font-weight: 600;">Technical Focus & Core Expertise</span>
 
 <table width="100%" style="border-collapse: collapse; border: none; background: none;">
   <tr style="border: none; background: none;">
-    <td width="32%" style="vertical-align: top; border: none; padding: 18px; background-color: rgba(30, 58, 138, 0.1); border-radius: 8px; border: 1px solid #1e3a8a; color: inherit;">
-      <h4 style="color: #2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid rgba(30, 58, 138, 0.4); padding-bottom: 6px;">Data Center & SDN Fabrics</h4>
-      <p style="margin: 0; font-size: 0.9em; line-height: 2.2;">
-        <img src="https://img.shields.io/badge/-Cisco_ACI-1BA0D7?style=flat&logo=cisco&logoColor=white" height="24" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco ACI / Nexus:</strong> Multi-Pod/Multi-Site fabrics, APIC clustering & L3Out enrutamiento.<br>
-        <img src="https://img.shields.io/badge/-Arista_EOS-005A9C?style=flat&logo=arista&logoColor=white" height="24" style="vertical-align: middle; margin-right: 6px;"> <strong>Arista EVPN-VXLAN:</strong> Leaf-Spine overlay topologies & Anycast Gateways.<br>
-        <img src="https://img.shields.io/badge/-CloudVision-005A9C?style=flat&logo=arista&logoColor=white" height="24" style="vertical-align: middle; margin-right: 6px;"> <strong>Arista CVP:</strong> Automated configlets, change control & state telemetry.<br>
-        <img src="https://img.shields.io/badge/-IP_Fabric_for_Media-1BA0D7?style=flat&logo=cisco&logoColor=white" height="24" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco IPFM:</strong> High-performance broadcast IP video/audio matrix architectures.<br>
-        <img src="https://img.shields.io/badge/-Juniper_Apstra-F44336?style=flat&logo=junipernetworks&logoColor=white" height="24" style="vertical-align: middle; margin-right: 6px;"> <strong>Juniper Apstra:</strong> Intent-Based Networking (IBN) for autonomous DC data operations.
+    <td width="32%" style="vertical-align: top; border: none; padding: 18px; background-color: #161b22; border-radius: 8px; border: 1px solid #30363d;">
+      <h4 style="color: #58a6ff; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid #30363d; padding-bottom: 6px;">Data Center & SDN Fabrics</h4>
+      <p style="margin: 0; font-size: 0.9em; line-height: 2.2; color: #c9d1d9;">
+        <img src="https://img.shields.io/badge/-Cisco_ACI-1BA0D7?style=flat&logo=cisco&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco ACI / Nexus:</strong> Multi-Pod/Multi-Site fabrics, APIC clustering & L3Out enrutamiento.<br>
+        <img src="https://img.shields.io/badge/-Arista_EOS-005A9C?style=flat&logo=arista&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Arista EVPN-VXLAN:</strong> Leaf-Spine overlay topologies & Anycast Gateways.<br>
+        <img src="https://img.shields.io/badge/-CloudVision-005A9C?style=flat&logo=arista&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Arista CVP:</strong> Automated configlets, change control & state telemetry.<br>
+        <img src="https://img.shields.io/badge/-IP_Fabric_for_Media-1BA0D7?style=flat&logo=cisco&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco IPFM:</strong> High-performance broadcast IP video/audio matrix architectures.<br>
+        <img src="https://img.shields.io/badge/-Juniper_Apstra-F44336?style=flat&logo=junipernetworks&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Juniper Apstra:</strong> Intent-Based Networking (IBN) for autonomous DC data operations.
       </p>
     </td>
     <td width="2%" style="border: none; background: none;"></td>
-    <td width="32%" style="vertical-align: top; border: none; padding: 18px; background-color: rgba(30, 58, 138, 0.1); border-radius: 8px; border: 1px solid #1e3a8a; color: inherit;">
-      <h4 style="color: #2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid rgba(30, 58, 138, 0.4); padding-bottom: 6px;">Fortinet Enterprise Security</h4>
-      <p style="margin: 0; font-size: 0.9em; line-height: 2.2;">
-        <img src="https://img.shields.io/badge/-FortiGate_NGFW-EE3124?style=flat&logo=fortinet&logoColor=white" height="24" style="vertical-align: middle; margin-right: 6px;"> <strong>FortiGate Infrastructure:</strong> High-Availability clustering, multi-tenant VDOMs & hardware SSL inspection.<br>
-        <img src="https://img.shields.io/badge/-FortiSwitch_Fabric-EE3124?style=flat&logo=fortinet&logoColor=white" height="24" style="vertical-align: middle; margin-right: 6px;"> <strong>FortiSwitch & FortiAP:</strong> Secure access layers under unified FortiLink software management.<br>
-        <img src="https://img.shields.io/badge/-Palo_Alto-EC6623?style=flat&logo=palo-alto-networks&logoColor=white" height="24" style="vertical-align: middle; margin-right: 6px;"> <strong>Palo Alto Networks:</strong> Zero Trust architecture orchestration & Panorama service policies.<br>
-        <img src="https://img.shields.io/badge/-Zscaler_ZTNA-005A9C?style=flat&logo=zscaler&logoColor=white" height="24" style="vertical-align: middle; margin-right: 6px;"> <strong>Zscaler SSE:</strong> Cloud-delivered perimeter protection via ZPA & ZIA secure edge gateways.
+    <td width="32%" style="vertical-align: top; border: none; padding: 18px; background-color: #161b22; border-radius: 8px; border: 1px solid #30363d;">
+      <h4 style="color: #58a6ff; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid #30363d; padding-bottom: 6px;">Fortinet Enterprise Security</h4>
+      <p style="margin: 0; font-size: 0.9em; line-height: 2.2; color: #c9d1d9;">
+        <img src="https://img.shields.io/badge/-FortiGate_NGFW-EE3124?style=flat&logo=fortinet&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>FortiGate Infrastructure:</strong> High-Availability clustering, multi-tenant VDOMs & hardware SSL inspection.<br>
+        <img src="https://img.shields.io/badge/-FortiSwitch_Fabric-EE3124?style=flat&logo=fortinet&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>FortiSwitch & FortiAP:</strong> Secure access layers under unified FortiLink software management.<br>
+        <img src="https://img.shields.io/badge/-Palo_Alto-EC6623?style=flat&logo=palo-alto-networks&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Palo Alto Networks:</strong> Zero Trust architecture orchestration & Panorama service policies.<br>
+        <img src="https://img.shields.io/badge/-Zscaler_ZTNA-005A9C?style=flat&logo=zscaler&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Zscaler SSE:</strong> Cloud-delivered perimeter protection via ZPA & ZIA secure edge gateways.
       </p>
     </td>
     <td width="2%" style="border: none; background: none;"></td>
-    <td width="32%" style="vertical-align: top; border: none; padding: 18px; background-color: rgba(30, 58, 138, 0.1); border-radius: 8px; border: 1px solid #1e3a8a; color: inherit;">
-      <h4 style="color: #2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid rgba(30, 58, 138, 0.4); padding-bottom: 6px;">NetDevOps & Automation</h4>
-      <p style="margin: 0; font-size: 0.9em; line-height: 2.2;">
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow" height="24" style="vertical-align: middle; margin-right: 6px;"> <strong>Python Programmability:</strong> Scripting interfaces, custom API processing & extraction modules.<br>
-        <img src="https://img.shields.io/badge/-Ansible_/_AWX-CC0000?style=flat&logo=ansible&logoColor=white" height="24" style="vertical-align: middle; margin-right: 6px;"> <strong>Ansible Networks:</strong> Infrastructure as Code playbook tracking & Jinja2 configuration maps.<br>
-        <img src="https://img.shields.io/badge/-NetBox-1A1A1A?style=flat&logo=netbox&logoColor=white" height="24" style="vertical-align: middle; margin-right: 6px;"> <strong>Source of Truth:</strong> Dynamic NetBox inventory hooks for live automated provisioning.<br>
-        <img src="https://img.shields.io/badge/-FortiManager-EE3124?style=flat&logo=fortinet&logoColor=white" height="24" style="vertical-align: middle; margin-right: 6px;"> <strong>FortiManager API:</strong> Global multi-ADOM policy deployment workflows & template provisioning.<br>
-        <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" height="24" style="vertical-align: middle; margin-right: 6px;"> <strong>Declarative IaC:</strong> Multi-cloud edge networks, transit VPCs & cloud secure insertion profiles.
+    <td width="32%" style="vertical-align: top; border: none; padding: 18px; background-color: #161b22; border-radius: 8px; border: 1px solid #30363d;">
+      <h4 style="color: #58a6ff; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid #30363d; padding-bottom: 6px;">NetDevOps & Automation</h4>
+      <p style="margin: 0; font-size: 0.9em; line-height: 2.2; color: #c9d1d9;">
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Python Programmability:</strong> Scripting interfaces, custom API processing & extraction modules.<br>
+        <img src="https://img.shields.io/badge/-Ansible_/_AWX-CC0000?style=flat&logo=ansible&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Ansible Networks:</strong> Infrastructure as Code playbook tracking & Jinja2 configuration maps.<br>
+        <img src="https://img.shields.io/badge/-NetBox-1A1A1A?style=flat&logo=netbox&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Source of Truth:</strong> Dynamic NetBox inventory hooks for live automated provisioning.<br>
+        <img src="https://img.shields.io/badge/-FortiManager-EE3124?style=flat&logo=fortinet&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>FortiManager API:</strong> Global multi-ADOM policy deployment workflows & template provisioning.<br>
+        <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Declarative IaC:</strong> Multi-cloud edge networks, transit VPCs & cloud secure insertion profiles.
       </p>
     </td>
   </tr>
@@ -170,33 +170,33 @@ Senior Network & Infrastructure Security Architect with over 20 years of experie
 
 ---
 
-## <span id="extended-cloud-transit--advanced-systems" style="color:#2196F3; font-weight: 600;">Extended Cloud Transit & Advanced Systems</span>
+## <span id="extended-cloud-transit--advanced-systems" style="color:#58a6ff; font-weight: 600;">Extended Cloud Transit & Advanced Systems</span>
 
 <table width="100%" style="border-collapse: collapse; border: none; background: none;">
   <tr style="border: none; background: none;">
-    <td width="32%" style="vertical-align: top; border: none; padding: 18px; background-color: rgba(30, 58, 138, 0.1); border-radius: 8px; border: 1px solid #1e3a8a; color: inherit;">
-      <h4 style="color: #2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid rgba(30, 58, 138, 0.4); padding-bottom: 6px;">Hybrid & Cloud Networking</h4>
-      <p style="margin: 0; font-size: 0.9em; line-height: 2.2;">
-        <img src="https://img.shields.io/badge/-AWS_Transit_Gateway-FF9900?style=flat&logo=amazon-aws&logoColor=white" height="24" style="vertical-align: middle; margin-right: 6px;"> <strong>AWS Transit Infrastructure:</strong> Enterprise account Transit Gateways & redundant Direct Connect pipelines.<br>
-        <img src="https://img.shields.io/badge/-Azure_Virtual_WAN-0089D6?style=flat&logo=microsoft-azure&logoColor=white" height="24" style="vertical-align: middle; margin-right: 6px;"> <strong>Azure Cloud Routing:</strong> Virtual WAN routing architectures, hub-spoke secure segmentation & ExpressRoute overlays.<br>
-        <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" height="24" style="vertical-align: middle; margin-right: 6px;"> <strong>GCP Interconnect:</strong> Cloud Routers, Shared VPC architectures & cross-environment dynamic BGP paths.
+    <td width="32%" style="vertical-align: top; border: none; padding: 18px; background-color: #161b22; border-radius: 8px; border: 1px solid #30363d;">
+      <h4 style="color: #58a6ff; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid #30363d; padding-bottom: 6px;">Hybrid & Cloud Networking</h4>
+      <p style="margin: 0; font-size: 0.9em; line-height: 2.2; color: #c9d1d9;">
+        <img src="https://img.shields.io/badge/-AWS_Transit_Gateway-FF9900?style=flat&logo=amazon-aws&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>AWS Transit Infrastructure:</strong> Enterprise account Transit Gateways & redundant Direct Connect pipelines.<br>
+        <img src="https://img.shields.io/badge/-Azure_Virtual_WAN-0089D6?style=flat&logo=microsoft-azure&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Azure Cloud Routing:</strong> Virtual WAN routing architectures, hub-spoke secure segmentation & ExpressRoute overlays.<br>
+        <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>GCP Interconnect:</strong> Cloud Routers, Shared VPC architectures & cross-environment dynamic BGP paths.
       </p>
     </td>
     <td width="2%" style="border: none; background: none;"></td>
-    <td width="32%" style="vertical-align: top; border: none; padding: 18px; background-color: rgba(30, 58, 138, 0.1); border-radius: 8px; border: 1px solid #1e3a8a; color: inherit;">
-      <h4 style="color: #2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid rgba(30, 58, 138, 0.4); padding-bottom: 6px;">DevOps & Observability</h4>
-      <p style="margin: 0; font-size: 0.9em; line-height: 2.2;">
-        <img src="https://img.shields.io/badge/-GitLab_CI-FCA121?style=flat&logo=gitlab&logoColor=white" height="24" style="vertical-align: middle; margin-right: 6px;"> <strong>CI/CD Integration:</strong> Automated GitLab CI/CD & GitHub Actions environments for design validation.<br>
-        <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" height="24" style="vertical-align: middle; margin-right: 6px;"> <strong>Telemetry Extraction:</strong> Prometheus collectors & responsive Grafana operational tracking environments.<br>
-        <img src="https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&logoColor=white" height="24" style="vertical-align: middle; margin-right: 6px;"> <strong>Log Architecture:</strong> Splunk Core log parsing, advanced dashboard design & proactive infrastructure metrics.
+    <td width="32%" style="vertical-align: top; border: none; padding: 18px; background-color: #161b22; border-radius: 8px; border: 1px solid #30363d;">
+      <h4 style="color: #58a6ff; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid #30363d; padding-bottom: 6px;">DevOps & Observability</h4>
+      <p style="margin: 0; font-size: 0.9em; line-height: 2.2; color: #c9d1d9;">
+        <img src="https://img.shields.io/badge/-GitLab_CI-FCA121?style=flat&logo=gitlab&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>CI/CD Integration:</strong> Automated GitLab CI/CD & GitHub Actions environments for design validation.<br>
+        <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Telemetry Extraction:</strong> Prometheus collectors & responsive Grafana operational tracking environments.<br>
+        <img src="https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Log Architecture:</strong> Splunk Core log parsing, advanced dashboard design & proactive infrastructure metrics.
       </p>
     </td>
     <td width="2%" style="border: none; background: none;"></td>
-    <td width="32%" style="vertical-align: top; border: none; padding: 18px; background-color: rgba(30, 58, 138, 0.1); border-radius: 8px; border: 1px solid #1e3a8a; color: inherit;">
-      <h4 style="color: #2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid rgba(30, 58, 138, 0.4); padding-bottom: 6px;">Fortinet Security Fabric Extended</h4>
-      <p style="margin: 0; font-size: 0.9em; line-height: 2.2;">
-        <img src="https://img.shields.io/badge/-FortiAnalyzer-EE3124?style=flat&logo=fortinet&logoColor=white" height="24" style="vertical-align: middle; margin-right: 6px;"> <strong>FortiAnalyzer & FortiSIEM:</strong> Enterprise log management, data aggregation & cross-vendor event correlation.<br>
-        <img src="https://img.shields.io/badge/-Identity_/_Access-EE3124?style=flat&logo=fortinet&logoColor=white" height="24" style="vertical-align: middle; margin-right: 6px;"> <strong>Access Engineering:</strong> FortiAuthenticator directory interfaces, FortiToken MFA maps & FortiEDR endpoints.
+    <td width="32%" style="vertical-align: top; border: none; padding: 18px; background-color: #161b22; border-radius: 8px; border: 1px solid #30363d;">
+      <h4 style="color: #58a6ff; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid #30363d; padding-bottom: 6px;">Fortinet Security Fabric Extended</h4>
+      <p style="margin: 0; font-size: 0.9em; line-height: 2.2; color: #c9d1d9;">
+        <img src="https://img.shields.io/badge/-FortiAnalyzer-EE3124?style=flat&logo=fortinet&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>FortiAnalyzer & FortiSIEM:</strong> Enterprise log management, data aggregation & cross-vendor event correlation.<br>
+        <img src="https://img.shields.io/badge/-Identity_/_Access-EE3124?style=flat&logo=fortinet&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Access Engineering:</strong> FortiAuthenticator directory interfaces, FortiToken MFA maps & FortiEDR endpoints.
       </p>
     </td>
   </tr>
@@ -204,25 +204,25 @@ Senior Network & Infrastructure Security Architect with over 20 years of experie
 
 ---
 
-## <span id="automation-stack--programmability" style="color:#2196F3; font-weight: 600;">Automation Stack & Programmability</span>
+## <span id="automation-stack--programmability" style="color:#58a6ff; font-weight: 600;">Automation Stack & Programmability</span>
 
 <table width="100%" style="border-collapse: collapse; border: none; background: none;">
   <tr style="border: none; background: none;">
-    <td width="49%" style="vertical-align: top; border: none; padding: 18px; background-color: rgba(30, 58, 138, 0.1); border-radius: 8px; border: 1px solid #1e3a8a; color: inherit;">
-      <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid rgba(30, 58, 138, 0.4); padding-bottom: 6px;">Network APIs & Modeling</h4>
-      <p style="margin: 0; font-size: 0.95em; line-height: 2.2;">
-        <img src="https://img.shields.io/badge/-YANG-333333?style=flat" height="24" style="vertical-align: middle; margin-right: 4px;"> <strong>Data Models:</strong> YANG structured validation, JSON schemas & YAML design blueprints.<br>
-        <img src="https://img.shields.io/badge/-gRPC-828587?style=flat&logo=grpc&logoColor=white" height="24" style="vertical-align: middle; margin-right: 4px;"> <strong>Protocols:</strong> NETCONF, RESTCONF and high-frequency gNMI/gRPC telemetry streaming layers.<br>
-        <img src="https://img.shields.io/badge/-FortiOS_API-EE3124?style=flat&logo=fortinet&logoColor=white" height="24" style="vertical-align: middle; margin-right: 4px;"> <strong>Fortinet API Automation:</strong> Automated resource tracking via FortiOS REST API for dynamic address-object and custom application definitions.
+    <td width="49%" style="vertical-align: top; border: none; padding: 18px; background-color: #161b22; border-radius: 8px; border: 1px solid #30363d;">
+      <h4 style="color:#58a6ff; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid #30363d; padding-bottom: 6px;">Network APIs & Modeling</h4>
+      <p style="margin: 0; font-size: 0.95em; line-height: 2.2; color: #c9d1d9;">
+        <img src="https://img.shields.io/badge/-YANG-333333?style=flat" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Data Models:</strong> YANG structured validation, JSON schemas & YAML design blueprints.<br>
+        <img src="https://img.shields.io/badge/-gRPC-828587?style=flat&logo=grpc&logoColor=white" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Protocols:</strong> NETCONF, RESTCONF and high-frequency gNMI/gRPC telemetry streaming layers.<br>
+        <img src="https://img.shields.io/badge/-FortiOS_API-EE3124?style=flat&logo=fortinet&logoColor=white" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Fortinet API Automation:</strong> Automated resource tracking via FortiOS REST API for dynamic address-object and custom application definitions.
       </p>
     </td>
     <td width="2%" style="border: none; background: none;"></td>
-    <td width="49%" style="vertical-align: top; border: none; padding: 18px; background-color: rgba(30, 58, 138, 0.1); border-radius: 8px; border: 1px solid #1e3a8a; color: inherit;">
-      <h4 style="color:#2196F3; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid rgba(30, 58, 138, 0.4); padding-bottom: 6px;">Testing Architecture & Validation</h4>
-      <p style="margin: 0; font-size: 0.95em; line-height: 2.2;">
-        <img src="https://img.shields.io/badge/-Batfish-005A9C?style=flat" height="24" style="vertical-align: middle; margin-right: 4px;"> <strong>Validation Frameworks:</strong> Batfish control-plane routing simulation & SuzieQ network state analytics.<br>
-        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height="24" style="vertical-align: middle; margin-right: 4px;"> <strong>Container Infrastructure:</strong> Multi-vendor isolated routing images for execution testing environments.<br>
-        <img src="https://img.shields.io/badge/-Jinja2-B1140A?style=flat&logo=jinja&logoColor=white" height="24" style="vertical-align: middle; margin-right: 4px;"> <strong>Artifact Engineering:</strong> Modular Jinja2 code rendering, dynamic inventories & config mapping sheets.
+    <td width="49%" style="vertical-align: top; border: none; padding: 18px; background-color: #161b22; border-radius: 8px; border: 1px solid #30363d;">
+      <h4 style="color:#58a6ff; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid #30363d; padding-bottom: 6px;">Testing Architecture & Validation</h4>
+      <p style="margin: 0; font-size: 0.95em; line-height: 2.2; color: #c9d1d9;">
+        <img src="https://img.shields.io/badge/-Batfish-005A9C?style=flat" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Validation Frameworks:</strong> Batfish control-plane routing simulation & SuzieQ network state analytics.<br>
+        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Container Infrastructure:</strong> Multi-vendor isolated routing images for execution testing environments.<br>
+        <img src="https://img.shields.io/badge/-Jinja2-B1140A?style=flat&logo=jinja&logoColor=white" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Artifact Engineering:</strong> Modular Jinja2 code rendering, dynamic inventories & config mapping sheets.
       </p>
     </td>
   </tr>
@@ -230,7 +230,7 @@ Senior Network & Infrastructure Security Architect with over 20 years of experie
 
 ---
 
-## <span id="professional-experience" style="color:#2196F3; font-weight: 600;">Professional Experience</span>
+## <span id="professional-experience" style="color:#58a6ff; font-weight: 600;">Professional Experience</span>
 
 ### <img src="https://img.shields.io/badge/-Lunik-5E2750?style=flat-square" height="20" style="vertical-align: middle; margin-right: 6px;"> Network Design Manager | Lunik
 *March 2024 - Present*
@@ -267,7 +267,7 @@ Senior Network & Infrastructure Security Architect with over 20 years of experie
 
 ---
 
-## <span id="core-architecture-patterns" style="color:#2196F3; font-weight: 600;">Core Architecture Patterns</span>
+## <span id="core-architecture-patterns" style="color:#58a6ff; font-weight: 600;">Core Architecture Patterns</span>
 
 - **Advanced Fortinet NGFW Security & Edge Cluster Engineering:** Architecture and implementation of enterprise security perimeters running on **FortiGate NGFW appliances** in active-active/active-passive high availability (**FGCP/FGSP clustering**). Advanced deployment of policy segmentation via virtual domains (**VDOMs**), hardware-accelerated **SSL/TLS Deep Packet Inspection** at scale, and centralized contextual access controls utilizing **FortiNAC** for automated asset discovery and dynamic network access isolation.
 - **Secure Access Layer Integration:** Design and provisioning of secure enterprise switching access topologies. Implementation of automated deployment workflows for **FortiSwitch arrays and FortiAP access nodes via hardware-enforced FortiLink control planes** to consolidate management within the central firewall core.
@@ -280,14 +280,14 @@ Senior Network & Infrastructure Security Architect with over 20 years of experie
 
 ---
 
-## <span id="ecosystem-interoperability--presales-edge" style="color:#2196F3; font-weight: 600;">Ecosystem Interoperability & Presales Edge</span>
+## <span id="ecosystem-interoperability--presales-edge" style="color:#58a6ff; font-weight: 600;">Ecosystem Interoperability & Presales Edge</span>
 
 - **Multi-Vendor Core Integration:** Seamless fabric interoperability experience connecting Fortinet security environments with **Cisco (IOS-XR/Nexus)** backbones, **F5 BIG-IP** high-availability local/global load balancers, and legacy **Check Point/Palo Alto** architectures during migration phases.
 - **Technical Consulting & Whiteboarding:** Strong background translating high-level business requirements and complex RFPs into solid, low-level technical reference architectures. Experienced in defending designs in front of Tier-1 operators' engineering steering committees.
 
 ---
 
-## <span id="open-source-labs--production-simulation" style="color:#2196F3; font-weight: 600;">Open-Source Labs & Production Simulation</span>
+## <span id="open-source-labs--production-simulation" style="color:#58a6ff; font-weight: 600;">Open-Source Labs & Production Simulation</span>
 
 - <img src="https://img.shields.io/badge/-Containerlab-2496ED?style=flat&logo=docker&logoColor=white" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Containerized Emulation Frameworks:</strong> Rapid prototyping and deployment of lightweight, multi-vendor network fabrics using **Containerlab** coupled with optimized **Docker** sandboxes.
 - <img src="https://img.shields.io/badge/-EVE--NG-1A1A1A?style=flat" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Hypervisor-Based Lab Topologies:</strong> Design, testing, and full orchestration of complex multi-vendor network nodes inside advanced **EVE-NG** and **GNS3** environments.
@@ -295,22 +295,22 @@ Senior Network & Infrastructure Security Architect with over 20 years of experie
 
 ---
 
-## <span id="technical-certifications--specialized-courses" style="color:#2196F3; font-weight: 600;">Technical Certifications & Specialized Courses</span>
+## <span id="technical-certifications--specialized-courses" style="color:#58a6ff; font-weight: 600;">Technical Certifications & Specialized Courses</span>
 
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none; background: none;">
     <td width="50%" style="vertical-align: top; border: none; padding-right: 25px; padding-top: 0;">
-      <p style="margin: 0 0 10px 0; font-size: 0.95em; line-height: 2.2;">
-        <img src="https://img.shields.io/badge/-Fortinet_NSE_Specialist-EE3124?style=flat&logo=fortinet&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Fortinet Network Security / Expert Track:</strong> Advanced Enterprise Firewall Infrastructure, Cloud Security Architecture, and Centralized Management (FortiGate/FortiManager/FortiAnalyzer) (Training).<br>
-        <img src="https://img.shields.io/badge/-Arista_ACE_L5-005A9C?style=flat&logo=arista&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Arista Cloud Engineer:</strong> Level 5 (ACE L5) & Level 3 (ACE L3).<br>
-        <img src="https://img.shields.io/badge/-Cisco_CCIE-1BA0D7?style=flat&logo=cisco&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco CCIE Framework:</strong> Routing & Switching + Advanced ACI Architecture.
+      <p style="margin: 0 0 10px 0; font-size: 0.95em; line-height: 2.2; color: #c9d1d9;">
+        <img src="https://img.shields.io/badge/-Fortinet_NSE_Specialist-EE3124?style=flat&logo=fortinet&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Fortinet Network Security / Expert Track:</strong> Advanced Enterprise Firewall Infrastructure, Cloud Security Architecture, and Centralized Management (FortiGate/FortiManager/FortiAnalyzer) (Training).<br>
+        <img src="https://img.shields.io/badge/-Arista_ACE_L5-005A9C?style=flat&logo=arista&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Arista Cloud Engineer:</strong> Level 5 (ACE L5) & Level 3 (ACE L3).<br>
+        <img src="https://img.shields.io/badge/-Cisco_CCIE-1BA0D7?style=flat&logo=cisco&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco CCIE Framework:</strong> Routing & Switching + Advanced ACI Architecture.
       </p>
     </td>
     <td width="50%" style="vertical-align: top; border: none; padding-left: 25px; padding-top: 0;">
-      <p style="margin: 0 0 10px 0; font-size: 0.95em; line-height: 2.2;">
-        <img src="https://img.shields.io/badge/-Palo_Alto_-EC6623?style=flat&logo=palo-alto-networks&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Palo Alto Networks:</strong> Advanced Firewalls Frameworks & Architecture. (Training)<br>
-        <img src="https://img.shields.io/badge/-Cisco_CCNP-1BA0D7?style=flat&logo=cisco&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco CCNP:</strong> Enterprise Routing, Switching & Security Fast Track.<br>
-        <img src="https://img.shields.io/badge/-VMware_VCA-60B414?style=flat&logo=vmware&logoColor=white" height="32" style="vertical-align: middle; margin-right: 6px;"> <strong>VMware VCA-DCV:</strong> Data Center Virtualization infrastructure.
+      <p style="margin: 0 0 10px 0; font-size: 0.95em; line-height: 2.2; color: #c9d1d9;">
+        <img src="https://img.shields.io/badge/-Palo_Alto_-EC6623?style=flat&logo=palo-alto-networks&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Palo Alto Networks:</strong> Advanced Firewalls Frameworks & Architecture. (Training)<br>
+        <img src="https://img.shields.io/badge/-Cisco_CCNP-1BA0D7?style=flat&logo=cisco&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco CCNP:</strong> Enterprise Routing, Switching & Security Fast Track.<br>
+        <img src="https://img.shields.io/badge/-VMware_VCA-60B414?style=flat&logo=vmware&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>VMware VCA-DCV:</strong> Data Center Virtualization infrastructure.
       </p>
     </td>
   </tr>
@@ -318,7 +318,7 @@ Senior Network & Infrastructure Security Architect with over 20 years of experie
 
 ---
 
-## <span id="selected-projects" style="color:#2196F3; font-weight: 600;">Selected Projects</span>
+## <span id="selected-projects" style="color:#58a6ff; font-weight: 600;">Selected Projects</span>
 
 - <img src="https://img.shields.io/badge/-Fortinet_Security_Fabric-EE3124?style=flat-square&logo=fortinet&logoColor=white" height="18" style="vertical-align: middle; margin-right: 4px;"> <strong>Global Production Edge Security & Next-Generation Firewall Migration (Vodafone & Telecable):</strong> Directed the architectural engineering, greenfield/brownfield migration, and production rollout of complex edge securities transitioning from legacy Checkpoint frameworks to advanced **Fortinet NGFW platforms**. Spearheaded the deployment of robust hardware security layers, optimizing traffic management via dedicated virtual domains (VDOMs) and managing secure, integrated access layers utilizing **FortiSwitch arrays with FortiLink**.
 - <img src="https://img.shields.io/badge/-FortiManager-EE3124?style=flat-square&logo=fortinet&logoColor=white" height="18" style="vertical-align: middle; margin-right: 4px;"> <strong>Automated Fortinet Policy & Multi-Tenant Provisioning Engine:</strong> Built a programmatic deployment pipeline utilizing Ansible playbooks and the FortiOS REST API to standardize multi-tenant Next-Generation Firewall rules across **FortiManager**, shrinking lead provisioning cycles for complex firewall object synchronization.
@@ -331,18 +331,18 @@ Senior Network & Infrastructure Security Architect with over 20 years of experie
 
 ---
 
-## <span style="color:#2196F3; font-weight: 600;">Languages</span>
+## <span style="color:#58a6ff; font-weight: 600;">Languages</span>
 
-<p style="font-size: 0.95em; line-height: 2.2; margin: 0;">
+<p style="font-size: 0.95em; line-height: 2.2; margin: 0; color: #c9d1d9;">
   <strong>English:</strong> Professional Working Proficiency (Technical architecture design, multi-vendor client negotiation, global infrastructure documentation).<br>
   <strong>Spanish:</strong> Native or Bilingual Proficiency.
 </p>
 
 ---
 
-## <span style="color:#2196F3; font-weight: 600;">Methodologies & Philosophy</span>
+## <span style="color:#58a6ff; font-weight: 600;">Methodologies & Philosophy</span>
 
-<p align="left">
+<p align="left" style="margin-top: 15px;">
   <img src="https://img.shields.io/badge/-NetDevOps-2196F3?style=flat-square" height="24"> &nbsp;
   <img src="https://img.shields.io/badge/-GitOps-F05032?style=flat-square&logo=git&logoColor=white" height="24"> &nbsp;
   <img src="https://img.shields.io/badge/-Infrastructure_as_Code-333333?style=flat-square" height="24"> &nbsp;
@@ -353,9 +353,9 @@ Senior Network & Infrastructure Security Architect with over 20 years of experie
 
 ---
 
-## <span id="connect" style="color:#2196F3; font-weight: 600;">Connect & Engagement</span>
+## <span id="connect" style="color:#58a6ff; font-weight: 600;">Connect & Engagement</span>
 
-<p style="font-size: 1.05em; line-height: 1.6; margin-bottom: 20px;">
+<p style="font-size: 1.05em; line-height: 1.6; margin-bottom: 20px; color: #c9d1d9;">
   If you are looking to scale your infrastructure security perimeter, migrate to intent-based SDN architectures, or automate complex multi-vendor network operations pipelines, let's open a technical execution track:
 </p>
 
@@ -363,8 +363,8 @@ Senior Network & Infrastructure Security Architect with over 20 years of experie
   <tr style="border: none; background: none;">
     <td style="border: none; padding: 0;">
       <a href="https://linktr.ee/daniel.blanco.work" target="_blank" style="text-decoration: none;">
-        <div style="background: linear-gradient(135deg, #1f6feb, #134da5); color: #ffffff; padding: 14px 32px; border-radius: 6px; font-weight: 600; font-size: 1.05em; letter-spacing: 0.3px; border: 1px solid rgba(255,255,255,0.15); box-shadow: 0 4px 15px rgba(31,111,235,0.25); display: inline-block; font-family: sans-serif;">
-          💼 Open Technical Consultation Track
+        <div style="background: linear-gradient(135deg, #1f6feb, #134da5); color: #ffffff; padding: 14px 32px; border-radius: 6px; font-weight: 600; font-size: 1.05em; letter-spacing: 0.3px; border: 1px solid rgba(255,255,255,0.15); box-shadow: 0 4px 15px rgba(31,111,235,0.25); display: inline-block;">
+          🤝 Open Technical Consultation Track
         </div>
       </a>
     </td>
