@@ -164,16 +164,16 @@
       <p style="margin: 0; font-size: 0.95em; line-height: 2.2;">
         <img src="https://img.shields.io/badge/-Arista_ACE_L5-005A9C?style=flat-square&logo=arista&logoColor=white" height="24"> <strong>Arista Cloud Engineer:</strong> Level 5 (ACE L5) & Level 3 (ACE L3).<br>
         <img src="https://img.shields.io/badge/-Cisco_CCIE-1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="24"> <strong>Cisco CCIE Frame:</strong> R&S (Written) & Advanced ACI.<br>
-        <img src="https://img.shields.io/badge/-Palo_Alto_Course-EC6623?style=flat-square&logo=palo-alto-networks&logoColor=white" height="24"> <strong>Palo Alto Networks Course:</strong> Advanced SD-WAN & Micro-segmentation.<br>
-        <img src="https://img.shields.io/badge/-Fortinet_Course-EE3124?style=flat-square" height="24"> <strong>Fortinet Course:</strong> Advanced Enterprise Firewall Infrastructure, Cloud Security Architecture & Centralized Management.
+        <img src="https://img.shields.io/badge/-Palo_Alto_Architecture-EC6623?style=flat-square&logo=palo-alto-networks&logoColor=white" height="24"> <strong>Palo Alto Networks:</strong> Advanced SD-WAN & Micro-segmentation.<br>
+        <img src="https://img.shields.io/badge/-Fortinet_FCNSA-EE3124?style=flat-square" height="24"> <strong>Fortinet:</strong> FortiGate Security Infrastructure (FCNSA).
       </p>
     </td>
     <td width="50%" style="vertical-align: top; border: none; padding-left: 15px; color: white;">
       <p style="margin: 0; font-size: 0.95em; line-height: 2.2;">
-        <img src="https://img.shields.io/badge/-Fortinet_Course-EE3124?style=flat-square" height="24"> <strong>Fortinet Course:</strong> Enterprise Log Management, Data Aggregation, Cross-Vendor Event Correlation & Access Engineering.<br>
         <img src="https://img.shields.io/badge/-VMware_VCA--DCV-60B414?style=flat-square&logo=vmware&logoColor=white" height="24"> <strong>VMware Certified Associate:</strong> Data Center Virtualization.<br>
         <img src="https://img.shields.io/badge/-AWS_Training-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" height="24"> <strong>AWS Professional Training:</strong> Architecture & Core Services.<br>
-        <img src="https://img.shields.io/badge/-Juniper_JNCIS-F44336?style=flat-square" height="24"> <strong>Juniper Networks:</strong> JNCIS-ENT (Routing & Switching).
+        <img src="https://img.shields.io/badge/-Juniper_JNCIS-F44336?style=flat-square" height="24"> <strong>Juniper Networks:</strong> JNCIS-ENT (Routing & Switching).<br>
+        <img src="https://img.shields.io/badge/-Checkpoint_CCSA-005A9C?style=flat-square" height="24"> <strong>Checkpoint:</strong> CCSA GAIA R77.30 Deployment.
       </p>
     </td>
   </tr>
