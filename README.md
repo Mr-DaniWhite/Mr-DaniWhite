@@ -20,13 +20,6 @@
     <div style="font-size: 1.15em; font-weight: 600; color: #58a6ff; letter-spacing: 0.5px;">
       📂 ARCHITECTURE BLUEPRINT & NAVIGATION HUB
     </div>
-    <div>
-      <a href="#connect" style="text-decoration: none;">
-        <span style="background: linear-gradient(135deg, #1f6feb, #238636); color: #ffffff; padding: 6px 14px; border-radius: 6px; font-size: 0.85em; font-weight: 600; border: 1px solid rgba(255,255,255,0.1); display: inline-block;">
-          ⚡ Quick Contact
-        </span>
-      </a>
-    </div>
   </div>
 
   <table width="100%" style="border-collapse: collapse; border: none; background: none; margin: 0;">
@@ -57,6 +50,11 @@
             💼 &nbsp; Professional Timeline
           </div>
         </a>
+        <a href="#languages" style="text-decoration: none; display: block; margin-bottom: 10px;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
+            🗣️ &nbsp; Languages
+          </div>
+        </a>
       </td>
       <td width="2%" style="border: none; background: none;"></td>
       <td width="49%" style="vertical-align: top; border: none; padding: 0 0 0 8px;">
@@ -85,9 +83,22 @@
             🚀 &nbsp; Selected Projects
           </div>
         </a>
+        <a href="#methodologies--philosophy" style="text-decoration: none; display: block; margin-bottom: 10px;">
+          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
+            🧠 &nbsp; Methodologies & Philosophy
+          </div>
+        </a>
       </td>
     </tr>
   </table>
+  
+  <div align="center" style="margin-top: 15px; border-top: 1px solid #30363d; padding-top: 15px;">
+    <a href="#connect" style="text-decoration: none;">
+      <span style="background: linear-gradient(135deg, #1f6feb, #238636); color: #ffffff; padding: 8px 24px; border-radius: 6px; font-size: 0.9em; font-weight: 600; border: 1px solid rgba(255,255,255,0.1); display: inline-block;">
+        ⚡ Quick Contact
+      </span>
+    </a>
+  </div>
 </div>
 
 ---
@@ -144,7 +155,7 @@
     </td>
     <td width="2%" style="border: none; background: none;"></td>
     <td width="32%" style="vertical-align: top; border: none; padding: 18px; background-color: #161b22; border-radius: 8px; border: 1px solid #30363d;">
-      <h4 style="color: #58a6ff; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid #30363d; padding-bottom: 6px;">Fortinet Enterprise Security</h4>
+      <h4 style="color: #58a6ff; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid #30363d; padding-bottom: 6px;">Fortinet Security</h4>
       <p style="margin: 0; font-size: 0.9em; line-height: 2.2; color: #c9d1d9;">
         <img src="https://img.shields.io/badge/-FortiGate_NGFW-EE3124?style=flat&logo=fortinet&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>FortiGate Infrastructure:</strong> High-Availability clustering, multi-tenant VDOMs & hardware SSL inspection.<br>
         <img src="https://img.shields.io/badge/-FortiSwitch_Fabric-EE3124?style=flat&logo=fortinet&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>FortiSwitch & FortiAP:</strong> Secure access layers under unified FortiLink software management.<br>
@@ -263,6 +274,13 @@
 
 ---
 
+## <span id="languages" style="color:#58a6ff; font-weight: 600;">🗣️ Languages</span>
+
+- **English:** Professional Working Proficiency (Technical architecture design, multi-vendor client negotiation, global infrastructure documentation).
+- **Spanish:** Native or Bilingual Proficiency.
+
+---
+
 ## <span id="core-architecture-patterns" style="color:#58a6ff; font-weight: 600;">Core Architecture Patterns</span>
 
 - **Advanced Fortinet NGFW Security & Edge Cluster Engineering:** Architecture and implementation of enterprise security perimeters running on **FortiGate NGFW appliances** in active-active/active-passive high availability (**FGCP/FGSP clustering**). Advanced deployment of policy segmentation via virtual domains (**VDOMs**), hardware-accelerated **SSL/TLS Deep Packet Inspection** at scale, and centralized contextual access controls utilizing **FortiNAC** for automated asset discovery and dynamic network access isolation.
@@ -321,8 +339,21 @@
 - <img src="https://img.shields.io/badge/-Cisco_ACI-1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> **Global Cisco ACI Fabric Homologation & Core Migrations (Vodafone & Carrefour):** Led the extensive structural homologation, hardware platform testing, and active production migrations of **Cisco ACI SDN Fabrics**. Designed Multi-Pod interconnections, isolated secure environments within the APIC engine, and orchestrated core migration phases for highly available Nexus clusters and mission-critical International Out-of-Band Data Centers.
 - <img src="https://img.shields.io/badge/-Arista_EOS-005A9C?style=flat-square&logo=arista&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> **Production Arista Leaf-Spine EVPN-VXLAN Infrastructure Rollout (Tecnalia & Lunik):** Supervised the technical blueprinting and end-to-end bare-metal installation of modern **Arista hardware switches running EOS**. Architected high-density EVPN-VXLAN virtual overlay topologies to achieve distributed multi-tenant separation, optimizing low-latency data plane traffic across advanced data center compute pools utilizing **Arista CloudVision** management frameworks.
 - <img src="https://img.shields.io/badge/-Ansible_IaC-CC0000?style=flat-square&logo=ansible&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> **Automated Multi-Vendor Infrastructure Validation Lab (Banc Sabadell):** Designed and built a containerized automation ecosystem using Ansible to orchestrate, validate, and test playbooks across complex multi-vendor nodes, including F5 BIG-IP, Checkpoint firewalls, Cisco ACI fabric, Microsoft Azure, and AWS public cloud environments.
-- <img src="https://img.shields.io/badge/-Palo_Alto-EC6623?style=flat-square&logo=palo-alto-networks&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> **Zero Trust Security Architecture Implementation (Lunik):** Directed the strategic architectural design and deployment of a corporate-wide Zero Trust Architecture (ZTA), leveraging modern Palo Alto Networks Next-Generation Firewalls to ensure granular micro-segmentation.
+- <img src="https://img.shields.io/badge/-Palo_Alto-EC6623?style=flat-square&logo=palo-alto-networks&angle=0&value=Palo%20Alto" height="20" style="vertical-align: middle; margin-right: 6px;"> **Zero Trust Security Architecture Implementation (Lunik):** Directed the strategic architectural design and deployment of a corporate-wide Zero Trust Architecture (ZTA), leveraging modern Palo Alto Networks Next-Generation Firewalls to ensure granular micro-segmentation.
 - <img src="https://img.shields.io/badge/-VMware_NSX-607078?style=flat-square&logo=vmware&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> **Secure Virtualized Data Centers Insertion (AEAT & NTT):** Spearheaded the infrastructure deployment of VMware Data Center and NSX systems, orchestrating high-throughput security service insertion using physical and virtual appliances alongside native Kubernetes clusters.
+
+---
+
+## <span id="methodologies--philosophy" style="color:#58a6ff; font-weight: 600;">🧠 Methodologies & Philosophy</span>
+
+<p align="left" style="margin-top: 15px;">
+  <img src="https://img.shields.io/badge/-NetDevOps-005A9C?style=flat-square" height="25" style="vertical-align: middle; margin-right: 4px;">
+  <img src="https://img.shields.io/badge/-GitOps-F05032?style=flat-square&logo=git&logoColor=white" height="25" style="vertical-align: middle; margin-right: 4px;">
+  <img src="https://img.shields.io/badge/-Infrastructure_as_Code-333333?style=flat-square" height="25" style="vertical-align: middle; margin-right: 4px;">
+  <img src="https://img.shields.io/badge/-CI/CD_Pipelines-222222?style=flat-square" height="25" style="vertical-align: middle; margin-right: 4px;">
+  <img src="https://img.shields.io/badge/-High--Performance_Leadership-007acc?style=flat-square" height="25" style="vertical-align: middle; margin-right: 4px;">
+  <img src="https://img.shields.io/badge/-Agile_Operations-4caf50?style=flat-square" height="25" style="vertical-align: middle; margin-right: 4px;">
+</p>
 
 ---
 
