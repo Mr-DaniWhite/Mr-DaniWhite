@@ -226,40 +226,94 @@
 
 ---
 
-## <span id="professional-experience" style="color:#58a6ff; font-weight: 600;">Professional Experience</span>
+## <span id="professional-experience" style="color:#58a6ff; font-weight: 600;">💼 Professional Timeline</span>
 
-### <img src="https://img.shields.io/badge/-Lunik-5E2750?style=flat-square" height="20" style="vertical-align: middle; margin-right: 6px;"> Network Design Manager | Lunik
-*March 2024 - Present*
-- Leading comprehensive network design and strategy implementations across multi-vendor hybrid architectures.
-- Overseeing Zero Trust architecture integration, large scale Software-Defined datacenter fabrics, and high-performance **Fortinet Security Fabric** expansions.
-- Orchestrating cross-functional teams to replace legacy enterprise perimeters with modern automated networks and centralized firewall orchestration ecosystems.
-- **Key Achievement:** Reduced network service provisioning lead times by 65% through the implementation of automated Infrastructure as Code workflows.
+<div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px; margin-bottom: 20px;">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px;">
+    <div>
+      <h3 style="margin: 0; color: #58a6ff; font-size: 1.2em; font-weight: 600;">Platform Engineer</h3>
+      <p style="margin: 4px 0 0 0; color: #ff7b72; font-weight: 500; font-size: 1em;">Lunik</p>
+    </div>
+    <div style="text-align: right;">
+      <span style="background-color: rgba(35, 134, 54, 0.15); color: #56d364; border: 1px solid rgba(56, 139, 60, 0.4); padding: 4px 10px; border-radius: 20px; font-size: 0.85em; font-weight: 500;">
+        Dec 2024 – Present
+      </span>
+    </div>
+  </div>
+  
+  <p style="margin: 0 0 14px 0; line-height: 1.8;">
+    <img src="https://img.shields.io/badge/-ArgoCD-FF7A00?style=flat-square&logo=argocd&logoColor=white" height="20">
+    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="20">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="20">
+    <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" height="20">
+    <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="20">
+    <img src="https://img.shields.io/badge/-n8n-FF6C37?style=flat-square&logo=n8n&logoColor=white" height="20">
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="20">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20">
+  </p>
+  
+  <p style="margin: 0; font-size: 0.95em; line-height: 1.6; color: #8b949e;">
+    My work in this period has been heavily focused on automation, standardisation, and platform management as code: reducing manual setup, moving configuration into versioned systems, and making internal tooling easier to operate and easier for other teams to consume.
+  </p>
+</div>
 
-### <img src="https://img.shields.io/badge/-NTT-006699?style=flat-square&logo=ntt&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> Technical Services Team Leader - Digital Infrastructure | NTT
-*May 2008 - March 2024*
-- Managed and directed Professional Services for core data networks, unified security architectures, and advanced virtualized systems.
-- Spearheaded complex networking and design engineering projects across globally distributed Data Centers and public cloud landing zones (AWS and Azure).
-- Acted as key point of technical orchestration with premier industry vendors including Cisco, Checkpoint, Fortinet, Arista, Microsoft, VMware, Palo Alto, and Aruba.
-- Promoted to Team Leader in 2016 following a highly successful tenure as a dedicated Professional Services Engineer from 2008.
-- **Key Achievement:** Designed and deployed unified security perimeters using Fortinet clusters, achieving 99.999% uptime for business-critical core applications.
+<div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px; margin-bottom: 20px;">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px;">
+    <div>
+      <h3 style="margin: 0; color: #58a6ff; font-size: 1.2em; font-weight: 600;">DevOps and Cloud Engineer</h3>
+      <p style="margin: 4px 0 0 0; color: #ff7b72; font-weight: 500; font-size: 1em;">Plain Concepts</p>
+    </div>
+    <div style="text-align: right;">
+      <span style="background-color: rgba(139, 148, 158, 0.1); color: #8b949e; border: 1px solid #30363d; padding: 4px 10px; border-radius: 20px; font-size: 0.85em; font-weight: 500;">
+        Feb 2024 – Dec 2024
+      </span>
+    </div>
+  </div>
+  
+  <p style="margin: 0 0 14px 0; line-height: 1.8;">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20">
+    <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="20">
+    <img src="https://img.shields.io/badge/-Advanced_Security-2088FF?style=flat-square&logo=github&logoColor=white" height="20">
+    <img src="https://img.shields.io/badge/-GitHub_Copilot-663399?style=flat-square&logo=githubcopilot&logoColor=white" height="20">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="20">
+    <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" height="20">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20">
+    <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="20">
+  </p>
+  
+  <p style="margin: 0; font-size: 0.95em; line-height: 1.6; color: #8b949e;">
+    At Plain Concepts, I worked with multiple teams to improve their GitHub usage and delivery workflows, helping them get more value out of the platform and its ecosystem.
+  </p>
+</div>
 
-### <img src="https://img.shields.io/badge/-Ditelma-4CAF50?style=flat-square" height="20" style="vertical-align: middle; margin-right: 6px;"> Technical Services Engineer | Ditelma
-*2006 - 2008*
-- Executed the deployment, provisioning, and daily lifecycle management of enterprise-grade voice and data network platforms.
-- Managed multi-protocol routing environments and hardware infrastructure optimizations for business-critical communications.
-
-### <img src="https://img.shields.io/badge/-Carose-FF9800?style=flat-square" height="20" style="vertical-align: middle; margin-right: 6px;"> Technical Services Engineer | Carose
-*2004 - 2006*
-- Managed infrastructure operations, system configurations, and physical deployments for integrated voice and data infrastructures.
-- Diagnosed complex layer 2 and layer 3 issues ensuring high availability across corporate access nodes.
-
-### <img src="https://img.shields.io/badge/-Lidernet-005A9C?style=flat-square" height="20" style="vertical-align: middle; margin-right: 6px;"> Technical Services Engineer | Lidernet
-*2003 - 2004*
-- Handled technical deployment blueprints, system maintenance, and routing management for custom client networking solutions.
-
-### <img src="https://img.shields.io/badge/-HC_2000-9C27B0?style=flat-square" height="20" style="vertical-align: middle; margin-right: 6px;"> Technical Services Engineer | HC 2000
-*2002 - 2003*
-- Delivered technical support and physical infrastructure provisioning, optimizing computing hardware architectures as an enterprise systems solution.
+<div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 20px; margin-bottom: 20px;">
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px;">
+    <div>
+      <h3 style="margin: 0; color: #58a6ff; font-size: 1.2em; font-weight: 600;">Site Reliability Engineer</h3>
+      <p style="margin: 4px 0 0 0; color: #ff7b72; font-weight: 500; font-size: 1em;">NomuPay</p>
+    </div>
+    <div style="text-align: right;">
+      <span style="background-color: rgba(139, 148, 158, 0.1); color: #8b949e; border: 1px solid #30363d; padding: 4px 10px; border-radius: 20px; font-size: 0.85em; font-weight: 500;">
+        Jan 2022 – Feb 2024
+      </span>
+    </div>
+  </div>
+  
+  <p style="margin: 0 0 14px 0; line-height: 1.8;">
+    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" height="20">
+    <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" height="20">
+    <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" height="20">
+    <img src="https://img.shields.io/badge/-Ansible-CC0000?style=flat-square&logo=ansible&logoColor=white" height="20">
+    <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="20">
+    <img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" height="20">
+    <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" height="20">
+    <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" height="20">
+  </p>
+  
+  <p style="margin: 0; font-size: 0.95em; line-height: 1.6; color: #8b949e;">
+    At NomuPay, I helped build the platform foundations from zero in a small team, combining platform engineering, production operations, incident response, and observability.
+  </p>
+</div>
 
 ---
 
