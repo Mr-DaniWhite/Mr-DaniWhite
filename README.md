@@ -82,7 +82,7 @@
         </a>
         <a href="#selected-projects" style="text-decoration: none; display: block; margin-bottom: 10px;">
           <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 10px 14px; color: #58a6ff; font-weight: 500; font-size: 0.95em;">
-            🚀 &nbsp; Selected Enterprise Projects
+            🚀 &nbsp; Selected Projects
           </div>
         </a>
       </td>
@@ -313,30 +313,26 @@
 
 ---
 
-## <span id="selected-projects" style="color:#58a6ff; font-weight: 600;">Selected Enterprise Projects</span>
+## <span id="selected-projects" style="color:#58a6ff; font-weight: 600;">Selected Projects</span>
 
-- 🟥 **Global Production Edge Security & Next-Generation Firewall Migration (Vodafone & Telecable):** Directed the architectural engineering, greenfield/brownfield migration, and production rollout of complex edge securities transitioning from legacy Checkpoint frameworks to advanced **Fortinet NGFW platforms**. Spearheaded the deployment of robust hardware security layers, optimizing traffic management via dedicated virtual domains (VDOMs) and managing secure, integrated access layers utilizing **FortiSwitch arrays with FortiLink**.
-- 🟥 **Automated Fortinet Policy & Multi-Tenant Provisioning Engine:** Built a programmatic deployment pipeline utilizing Ansible playbooks and the FortiOS REST API to standardize multi-tenant Next-Generation Firewall rules across **FortiManager**, shrinking lead provisioning cycles for complex firewall object synchronization.
-- 🟥 **Global Multi-Site Enterprise Fortinet Fabric Integration:** Configured structural isolation layers via multi-tenant **VDOMs** and accelerated deep SSL decryption layers across international cloud entry-nodes to secure high-volume distributed infrastructure traffic.
-- 🟦 **Global Cisco ACI Fabric Homologation & Core Migrations (Vodafone & Carrefour):** Led the extensive structural homologation, hardware platform testing, and active production migrations of **Cisco ACI SDN Fabrics**. Designed Multi-Pod interconnections, isolated secure environments within the APIC engine, and orchestrated core migration phases for highly available Nexus clusters and mission-critical International Out-of-Band Data Centers.
-- 🟦 **Production Arista Leaf-Spine EVPN-VXLAN Infrastructure Rollout (Tecnalia & Lunik):** Supervised the technical blueprinting and end-to-end bare-metal installation of modern **Arista hardware switches running EOS**. Architected high-density EVPN-VXLAN virtual overlay topologies to achieve distributed multi-tenant separation, optimizing low-latency data plane traffic across advanced data center compute pools utilizing **Arista CloudVision** management frameworks.
-- 🟧 **Automated Multi-Vendor Infrastructure Validation Lab (Banc Sabadell):** Designed and built a containerized automation ecosystem using Ansible to orchestrate, validate, and test playbooks across complex multi-vendor nodes, including F5 BIG-IP, Checkpoint firewalls, Cisco ACI fabric, Microsoft Azure, and AWS public cloud environments.
-- 🟧 **Zero Trust Security Architecture Implementation (Lunik):** Directed the strategic architectural design and deployment of a corporate-wide Zero Trust Architecture (ZTA), leveraging modern Palo Alto Networks Next-Generation Firewalls to ensure granular micro-segmentation.
-- 🟩 **Secure Virtualized Data Centers Insertion (AEAT & NTT):** Spearheaded the infrastructure deployment of VMware Data Center and NSX systems, orchestrating high-throughput security service insertion using physical and virtual appliances alongside native Kubernetes clusters.
+- <img src="https://img.shields.io/badge/-Fortinet_Security_Fabric-EE3124?style=flat-square&logo=fortinet&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> **Global Production Edge Security & Next-Generation Firewall Migration (Vodafone & Telecable):** Directed the architectural engineering, greenfield/brownfield migration, and production rollout of complex edge securities transitioning from legacy Checkpoint frameworks to advanced **Fortinet NGFW platforms**. Spearheaded the deployment of robust hardware security layers, optimizing traffic management via dedicated virtual domains (VDOMs) and managing secure, integrated access layers utilizing **FortiSwitch arrays with FortiLink**.
+- <img src="https://img.shields.io/badge/-FortiManager-EE3124?style=flat-square&logo=fortinet&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> **Automated Fortinet Policy & Multi-Tenant Provisioning Engine:** Built a programmatic deployment pipeline utilizing Ansible playbooks and the FortiOS REST API to standardize multi-tenant Next-Generation Firewall rules across **FortiManager**, shrinking lead provisioning cycles for complex firewall object synchronization.
+- <img src="https://img.shields.io/badge/-Fortinet_Security_Fabric-EE3124?style=flat-square&logo=fortinet&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> **Global Multi-Site Enterprise Fortinet Fabric Integration:** Configured structural isolation layers via multi-tenant **VDOMs** and accelerated deep SSL decryption layers across international cloud entry-nodes to secure high-volume distributed infrastructure traffic.
+- <img src="https://img.shields.io/badge/-Cisco_ACI-1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> **Global Cisco ACI Fabric Homologation & Core Migrations (Vodafone & Carrefour):** Led the extensive structural homologation, hardware platform testing, and active production migrations of **Cisco ACI SDN Fabrics**. Designed Multi-Pod interconnections, isolated secure environments within the APIC engine, and orchestrated core migration phases for highly available Nexus clusters and mission-critical International Out-of-Band Data Centers.
+- <img src="https://img.shields.io/badge/-Arista_EOS-005A9C?style=flat-square&logo=arista&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> **Production Arista Leaf-Spine EVPN-VXLAN Infrastructure Rollout (Tecnalia & Lunik):** Supervised the technical blueprinting and end-to-end bare-metal installation of modern **Arista hardware switches running EOS**. Architected high-density EVPN-VXLAN virtual overlay topologies to achieve distributed multi-tenant separation, optimizing low-latency data plane traffic across advanced data center compute pools utilizing **Arista CloudVision** management frameworks.
+- <img src="https://img.shields.io/badge/-Ansible_IaC-CC0000?style=flat-square&logo=ansible&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> **Automated Multi-Vendor Infrastructure Validation Lab (Banc Sabadell):** Designed and built a containerized automation ecosystem using Ansible to orchestrate, validate, and test playbooks across complex multi-vendor nodes, including F5 BIG-IP, Checkpoint firewalls, Cisco ACI fabric, Microsoft Azure, and AWS public cloud environments.
+- <img src="https://img.shields.io/badge/-Palo_Alto-EC6623?style=flat-square&logo=palo-alto-networks&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> **Zero Trust Security Architecture Implementation (Lunik):** Directed the strategic architectural design and deployment of a corporate-wide Zero Trust Architecture (ZTA), leveraging modern Palo Alto Networks Next-Generation Firewalls to ensure granular micro-segmentation.
+- <img src="https://img.shields.io/badge/-VMware_NSX-607078?style=flat-square&logo=vmware&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> **Secure Virtualized Data Centers Insertion (AEAT & NTT):** Spearheaded the infrastructure deployment of VMware Data Center and NSX systems, orchestrating high-throughput security service insertion using physical and virtual appliances alongside native Kubernetes clusters.
 
 ---
 
 ## <span id="connect" style="color:#58a6ff; font-weight: 600;">📩 Connect With Me</span>
 
 <p align="left" style="margin-top: 15px;">
-  <a href="https://linkedin.com/in/YOUR-KEY" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="26" style="margin-right: 8px;">
-  </a>
-  <a href="mailto:your-email@domain.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="26" style="margin-right: 8px;">
-  </a>
-  <a href="https://linktr.ee/daniel.blanco.work" target="_blank">
-    <img src="https://img.shields.io/badge/-Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" height="26">
+  <a href="https://linktr.ee/daniel.blanco.work" target="_blank" style="text-decoration: none;">
+    <span style="background: linear-gradient(135deg, #1f6feb, #238636); color: #ffffff; padding: 10px 22px; border-radius: 6px; font-size: 0.95em; font-weight: 600; border: 1px solid rgba(255,255,255,0.1); display: inline-block;">
+      💬 Contact Me
+    </span>
   </a>
 </p>
 
