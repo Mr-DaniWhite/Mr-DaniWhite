@@ -10,7 +10,21 @@ Senior Network & Infrastructure Security Architect with over 20 years of experie
 
 ---
 
-## <span style="color:#2196F3; font-weight: 600;">Carrier & Telco Architecture Footprint</span>
+### 📌 Table of Contents
+- [Carrier & Telco Architecture Footprint](#carrier--telco-architecture-footprint)
+- [Technical Focus & Core Expertise](#technical-focus--core-expertise)
+- [Extended Cloud Transit & Advanced Systems](#extended-cloud-transit--advanced-systems)
+- [Automation Stack & Programmability](#automation-stack--programmability)
+- [Professional Experience](#professional-experience)
+- [Core Architecture Patterns](#core-architecture-patterns)
+- [Ecosystem Interoperability & Presales Edge](#ecosystem-interoperability--presales-edge)
+- [Open-Source Labs & Production Simulation](#open-source-labs--production-simulation)
+- [Technical Certifications & Specialized Courses](#technical-certifications--specialized-courses)
+- [Selected Projects](#selected-projects)
+
+---
+
+## <span id="carrier--telco-architecture-footprint" style="color:#2196F3; font-weight: 600;">Carrier & Telco Architecture Footprint</span>
 
 <p style="font-size: 1.05em; line-height: 1.6; margin-bottom: 20px;">
   A significant portion of my professional career has been deeply focused on <strong>High-Scale Telecommunications and Core Provider Environments</strong>. I have spent years architecting, scaling, and operating mission-critical network infrastructures within major global carriers and wholesale operators:
@@ -48,7 +62,7 @@ Senior Network & Infrastructure Security Architect with over 20 years of experie
 
 ---
 
-## <span style="color:#2196F3; font-weight: 600;">Technical Focus & Core Expertise</span>
+## <span id="technical-focus--core-expertise" style="color:#2196F3; font-weight: 600;">Technical Focus & Core Expertise</span>
 
 <table width="100%" style="border-collapse: collapse; border: none; background: none;">
   <tr style="border: none; background: none;">
@@ -88,7 +102,7 @@ Senior Network & Infrastructure Security Architect with over 20 years of experie
 
 ---
 
-## <span style="color:#2196F3; font-weight: 600;">Extended Cloud Transit & Advanced Systems</span>
+## <span id="extended-cloud-transit--advanced-systems" style="color:#2196F3; font-weight: 600;">Extended Cloud Transit & Advanced Systems</span>
 
 <table width="100%" style="border-collapse: collapse; border: none; background: none;">
   <tr style="border: none; background: none;">
@@ -122,7 +136,7 @@ Senior Network & Infrastructure Security Architect with over 20 years of experie
 
 ---
 
-## <span style="color:#2196F3; font-weight: 600;">Automation Stack & Programmability</span>
+## <span id="automation-stack--programmability" style="color:#2196F3; font-weight: 600;">Automation Stack & Programmability</span>
 
 <table width="100%" style="border-collapse: collapse; border: none; background: none;">
   <tr style="border: none; background: none;">
@@ -148,7 +162,7 @@ Senior Network & Infrastructure Security Architect with over 20 years of experie
 
 ---
 
-## <span style="color:#2196F3; font-weight: 600;">Professional Experience</span>
+## <span id="professional-experience" style="color:#2196F3; font-weight: 600;">Professional Experience</span>
 
 ### <img src="https://img.shields.io/badge/-Lunik-5E2750?style=flat-square" height="20" style="vertical-align: middle; margin-right: 6px;"> Network Design Manager | Lunik
 *March 2024 - Present*
@@ -185,7 +199,7 @@ Senior Network & Infrastructure Security Architect with over 20 years of experie
 
 ---
 
-## <span style="color:#2196F3; font-weight: 600;">Core Architecture Patterns</span>
+## <span id="core-architecture-patterns" style="color:#2196F3; font-weight: 600;">Core Architecture Patterns</span>
 
 - **Advanced Fortinet NGFW Security & Edge Cluster Engineering:** Architecture and implementation of enterprise security perimeters running on **FortiGate NGFW appliances** in active-active/active-passive high availability (**FGCP/FGSP clustering**). Advanced deployment of policy segmentation via virtual domains (**VDOMs**), hardware-accelerated **SSL/TLS Deep Packet Inspection** at scale, and centralized contextual access controls utilizing **FortiNAC** for automated asset discovery and dynamic network access isolation.
 - **Secure Access Layer Integration:** Design and provisioning of secure enterprise switching access topologies. Implementation of automated deployment workflows for **FortiSwitch arrays and FortiAP access nodes via hardware-enforced FortiLink control planes** to consolidate management within the central firewall core.
@@ -198,14 +212,14 @@ Senior Network & Infrastructure Security Architect with over 20 years of experie
 
 ---
 
-## <span style="color:#2196F3; font-weight: 600;">Ecosystem Interoperability & Presales Edge</span>
+## <span id="ecosystem-interoperability--presales-edge" style="color:#2196F3; font-weight: 600;">Ecosystem Interoperability & Presales Edge</span>
 
 - **Multi-Vendor Core Integration:** Seamless fabric interoperability experience connecting Fortinet security environments with **Cisco (IOS-XR/Nexus)** backbones, **F5 BIG-IP** high-availability local/global load balancers, and legacy **Check Point/Palo Alto** architectures during migration phases.
 - **Technical Consulting & Whiteboarding:** Strong background translating high-level business requirements and complex RFPs into solid, low-level technical reference architectures. Experienced in defending designs in front of Tier-1 operators' engineering steering committees.
 
 ---
 
-## <span style="color:#2196F3; font-weight: 600;">Open-Source Labs & Production Simulation</span>
+## <span id="open-source-labs--production-simulation" style="color:#2196F3; font-weight: 600;">Open-Source Labs & Production Simulation</span>
 
 - <img src="https://img.shields.io/badge/-Containerlab-2496ED?style=flat&logo=docker&logoColor=white" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Containerized Emulation Frameworks:</strong> Rapid prototyping and deployment of lightweight, multi-vendor network fabrics using **Containerlab** coupled with optimized **Docker** sandboxes.
 - <img src="https://img.shields.io/badge/-EVE--NG-1A1A1A?style=flat" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Hypervisor-Based Lab Topologies:</strong> Design, testing, and full orchestration of complex multi-vendor network nodes inside advanced **EVE-NG** and **GNS3** environments.
@@ -213,7 +227,7 @@ Senior Network & Infrastructure Security Architect with over 20 years of experie
 
 ---
 
-## <span style="color:#2196F3; font-weight: 600;">Technical Certifications & Specialized Courses</span>
+## <span id="technical-certifications--specialized-courses" style="color:#2196F3; font-weight: 600;">Technical Certifications & Specialized Courses</span>
 
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none; background: none;">
@@ -236,7 +250,7 @@ Senior Network & Infrastructure Security Architect with over 20 years of experie
 
 ---
 
-## <span style="color:#2196F3; font-weight: 600;">Selected Projects</span>
+## <span id="selected-projects" style="color:#2196F3; font-weight: 600;">Selected Projects</span>
 
 - <img src="https://img.shields.io/badge/-Fortinet_Security_Fabric-EE3124?style=flat-square&logo=fortinet&logoColor=white" height="18" style="vertical-align: middle; margin-right: 4px;"> <strong>Global Production Edge Security & Next-Generation Firewall Migration (Vodafone & Telecable):</strong> Directed the architectural engineering, greenfield/brownfield migration, and production rollout of complex edge securities transitioning from legacy Checkpoint frameworks to advanced **Fortinet NGFW platforms**. Spearheaded the deployment of robust hardware security layers, optimizing traffic management via dedicated virtual domains (VDOMs) and managing secure, integrated access layers utilizing **FortiSwitch arrays with FortiLink**.
 - <img src="https://img.shields.io/badge/-FortiManager-EE3124?style=flat-square&logo=fortinet&logoColor=white" height="18" style="vertical-align: middle; margin-right: 4px;"> <strong>Automated Fortinet Policy & Multi-Tenant Provisioning Engine:</strong> Built a programmatic deployment pipeline utilizing Ansible playbooks and the FortiOS REST API to standardize multi-tenant Next-Generation Firewall rules across **FortiManager**, shrinking lead provisioning cycles for complex firewall object synchronization.
