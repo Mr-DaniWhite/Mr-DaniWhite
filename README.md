@@ -12,25 +12,6 @@
   Senior Network & Infrastructure Security Architect with over 20 years of experience designing, deploying, and automating enterprise-scale infrastructures. Focused on scaling Security Fabric frameworks, Infrastructure as Code (IaC) pipelines, NetDevOps workflows, and transforming traditional networking operations into agile, code-driven environments.
 </p>
 
-<table width="100%" style="border-collapse: collapse; border: none; background: none; margin-bottom: 30px;">
-  <tr style="border: none; background: none;">
-    <td width="32%" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px; text-align: center;">
-      <div style="font-size: 2em; font-weight: 700; color: #58a6ff; margin-bottom: 4px;">20+</div>
-      <div style="font-size: 0.85em; color: #8b949e; text-transform: uppercase; letter-spacing: 1px; font-weight: 600;">Years of Experience</div>
-    </td>
-    <td width="2%" style="border: none; background: none;"></td>
-    <td width="32%" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px; text-align: center;">
-      <div style="font-size: 2em; font-weight: 700; color: #56d364; margin-bottom: 4px;">65%</div>
-      <div style="font-size: 0.85em; color: #8b949e; text-transform: uppercase; letter-spacing: 1px; font-weight: 600;">Provisioning Lead Time Cut</div>
-    </td>
-    <td width="2%" style="border: none; background: none;"></td>
-    <td width="32%" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px; text-align: center;">
-      <div style="font-size: 2em; font-weight: 700; color: #ff7b72; margin-bottom: 4px;">Global</div>
-      <div style="font-size: 0.85em; color: #8b949e; text-transform: uppercase; letter-spacing: 1px; font-weight: 600;">Carrier & Telco Footprint</div>
-    </td>
-  </tr>
-</table>
-
 <div style="height: 2px; background: linear-gradient(90deg, #1f6feb, #238636, transparent); margin: 25px 0;"></div>
 
 ## <span id="index" style="color:#58a6ff; font-weight: 600;">📋 INDEX</span>
