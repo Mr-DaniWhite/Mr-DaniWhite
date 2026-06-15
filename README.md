@@ -12,20 +12,24 @@
   Senior Network & Infrastructure Security Architect with over 20 years of experience designing, deploying, and automating enterprise-scale infrastructures. Focused on scaling Security Fabric frameworks, Infrastructure as Code (IaC) pipelines, NetDevOps workflows, and transforming traditional networking operations into agile, code-driven environments.
 </p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; margin-bottom: 30px; width: 100%;">
-  <div style="flex: 1; min-width: 200px; background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
-    <div style="font-size: 2em; font-weight: 700; color: #58a6ff; margin-bottom: 4px;">20+</div>
-    <div style="font-size: 0.85em; color: #8b949e; text-transform: uppercase; letter-spacing: 1px; font-weight: 600;">Years of Experience</div>
-  </div>
-  <div style="flex: 1; min-width: 200px; background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
-    <div style="font-size: 2em; font-weight: 700; color: #56d364; margin-bottom: 4px;">65%</div>
-    <div style="font-size: 0.85em; color: #8b949e; text-transform: uppercase; letter-spacing: 1px; font-weight: 600;">Provisioning Lead Time Cut</div>
-  </div>
-  <div style="flex: 1; min-width: 200px; background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px; text-align: center; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
-    <div style="font-size: 2em; font-weight: 700; color: #ff7b72; margin-bottom: 4px;">Global</div>
-    <div style="font-size: 0.85em; color: #8b949e; text-transform: uppercase; letter-spacing: 1px; font-weight: 600;">Carrier & Telco Footprint</div>
-  </div>
-</div>
+<table width="100%" style="border-collapse: collapse; border: none; background: none; margin-bottom: 30px;">
+  <tr style="border: none; background: none;">
+    <td width="32%" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px; text-align: center;">
+      <div style="font-size: 2em; font-weight: 700; color: #58a6ff; margin-bottom: 4px;">20+</div>
+      <div style="font-size: 0.85em; color: #8b949e; text-transform: uppercase; letter-spacing: 1px; font-weight: 600;">Years of Experience</div>
+    </td>
+    <td width="2%" style="border: none; background: none;"></td>
+    <td width="32%" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px; text-align: center;">
+      <div style="font-size: 2em; font-weight: 700; color: #56d364; margin-bottom: 4px;">65%</div>
+      <div style="font-size: 0.85em; color: #8b949e; text-transform: uppercase; letter-spacing: 1px; font-weight: 600;">Provisioning Lead Time Cut</div>
+    </td>
+    <td width="2%" style="border: none; background: none;"></td>
+    <td width="32%" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px; text-align: center;">
+      <div style="font-size: 2em; font-weight: 700; color: #ff7b72; margin-bottom: 4px;">Global</div>
+      <div style="font-size: 0.85em; color: #8b949e; text-transform: uppercase; letter-spacing: 1px; font-weight: 600;">Carrier & Telco Footprint</div>
+    </td>
+  </tr>
+</table>
 
 <div style="height: 2px; background: linear-gradient(90deg, #1f6feb, #238636, transparent); margin: 25px 0;"></div>
 
@@ -290,9 +294,9 @@
 
 <div style="height: 2px; background: linear-gradient(90deg, #1f6feb, #238636, transparent); margin: 25px 0;"></div>
 
-<details style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px; margin-bottom: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  <summary style="font-size: 1.3em; font-weight: 600; color: #58a6ff; cursor: pointer; user-select: none; list-style: none;"><span id="core-architecture-patterns">🏛️ Click to expand: Core Architecture Patterns</span></summary>
-  <div style="margin-top: 15px; border-top: 1px solid #30363d; padding-top: 15px; line-height: 1.6;">
+<details style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px; margin-bottom: 15px;">
+  <summary style="font-size: 1.25em; font-weight: 600; color: #58a6ff; cursor: pointer; padding: 5px;"><strong>🏛️ Click to expand: Core Architecture Patterns</strong></summary>
+  <div style="margin-top: 15px; border-top: 1px solid #30363d; padding-top: 15px; line-height: 1.6; color: #c9d1d9;">
     <ul>
       <li style="margin-bottom: 10px;"><strong>Advanced Fortinet NGFW Security & Edge Cluster Engineering:</strong> Architecture and implementation of enterprise security perimeters running on <strong>FortiGate NGFW appliances</strong> in active-active/active-passive high availability (<strong>FGCP/FGSP clustering</strong>). Advanced deployment of policy segmentation via virtual domains (<strong>VDOMs</strong>), hardware-accelerated <strong>SSL/TLS Deep Packet Inspection</strong> at scale, and centralized contextual access controls utilizing <strong>FortiNAC</strong> for automated asset discovery and dynamic network access isolation.</li>
       <li style="margin-bottom: 10px;"><strong>Secure Access Layer Integration:</strong> Design and provisioning of secure enterprise switching access topologies. Implementation of automated deployment workflows for <strong>FortiSwitch arrays and FortiAP access nodes via hardware-enforced FortiLink control planes</strong> to consolidate management within the central firewall core.</li>
@@ -306,9 +310,9 @@
   </div>
 </details>
 
-<details style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px; margin-bottom: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-  <summary style="font-size: 1.3em; font-weight: 600; color: #58a6ff; cursor: pointer; user-select: none; list-style: none;"><span id="ecosystem-interoperability--presales-edge">🔀 Click to expand: Ecosystem Interoperability & Presales Edge</span></summary>
-  <div style="margin-top: 15px; border-top: 1px solid #30363d; padding-top: 15px; line-height: 1.6;">
+<details style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px; margin-bottom: 15px;">
+  <summary style="font-size: 1.25em; font-weight: 600; color: #58a6ff; cursor: pointer; padding: 5px;"><strong>🔀 Click to expand: Ecosystem Interoperability & Presales Edge</strong></summary>
+  <div style="margin-top: 15px; border-top: 1px solid #30363d; padding-top: 15px; line-height: 1.6; color: #c9d1d9;">
     <ul>
       <li style="margin-bottom: 10px;"><strong>Multi-Vendor Core Integration:</strong> Seamless fabric interoperability experience connecting Fortinet security environments with <strong>Cisco (IOS-XR/Nexus)</strong> backbones, <strong>F5 BIG-IP</strong> high-availability local/global load balancers, and legacy <strong>Check Point/Palo Alto</strong> architectures during migration phases.</li>
       <li style="margin-bottom: 10px;"><strong>Technical Consulting & Whiteboarding:</strong> Strong background translating high-level business requirements and complex RFPs into solid, low-level technical reference architectures. Experienced in defending designs in front of Tier-1 operators' engineering steering committees.</li>
@@ -350,65 +354,71 @@
 
 ## <span id="selected-projects" style="color:#58a6ff; font-weight: 600;">🚀 Selected Projects</span>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(45%, 1fr)); gap: 16px; margin-top: 15px;">
-
-  <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 18px; box-shadow: 0 4px 6px rgba(0,0,0,0.15);">
-    <h4 style="margin-top: 0; color: #58a6ff; font-size: 1em; display: flex; align-items: center; gap: 8px;">
-      <img src="https://img.shields.io/badge/-Fortinet_Fabric-EE3124?style=flat-square&logo=fortinet&logoColor=white" height="18"> Edge Security Migration
-    </h4>
-    <p style="font-size: 0.9em; line-height: 1.5; color: #8b949e; margin-bottom: 0;"><strong>Vodafone & Telecable:</strong> Greenfield/brownfield migration from legacy Checkpoint to advanced Fortinet NGFW platforms. Optimized traffic via VDOMs and secured access layers using FortiSwitch/FortiLink.</p>
-  </div>
-
-  <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 18px; box-shadow: 0 4px 6px rgba(0,0,0,0.15);">
-    <h4 style="margin-top: 0; color: #58a6ff; font-size: 1em; display: flex; align-items: center; gap: 8px;">
-      <img src="https://img.shields.io/badge/-FortiManager-EE3124?style=flat-square&logo=fortinet&logoColor=white" height="18"> Policy Provisioning Engine
-    </h4>
-    <p style="font-size: 0.9em; line-height: 1.5; color: #8b949e; margin-bottom: 0;">Programmatic IaC deployment pipeline utilizing Ansible playbooks and FortiOS REST API to standardize Next-Gen Firewall rules across FortiManager, reducing lead object synchronization cycles.</p>
-  </div>
-
-  <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 18px; box-shadow: 0 4px 6px rgba(0,0,0,0.15);">
-    <h4 style="margin-top: 0; color: #58a6ff; font-size: 1em; display: flex; align-items: center; gap: 8px;">
-      <img src="https://img.shields.io/badge/-Fortinet_Fabric-EE3124?style=flat-square&logo=fortinet&logoColor=white" height="18"> Global Fabric Integration
-    </h4>
-    <p style="font-size: 0.9em; line-height: 1.5; color: #8b949e; margin-bottom: 0;">Configured multi-tenant structural isolation layers (VDOMs) and accelerated high-throughput SSL decryption layers across international cloud entry-nodes to secure high-volume distributed traffic.</p>
-  </div>
-
-  <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 18px; box-shadow: 0 4px 6px rgba(0,0,0,0.15);">
-    <h4 style="margin-top: 0; color: #58a6ff; font-size: 1em; display: flex; align-items: center; gap: 8px;">
-      <img src="https://img.shields.io/badge/-Cisco_ACI-1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="18"> ACI Fabric Homologation
-    </h4>
-    <p style="font-size: 0.9em; line-height: 1.5; color: #8b949e; margin-bottom: 0;"><strong>Vodafone & Carrefour:</strong> Structural homologation, platform validation, and production migrations of Cisco ACI SDN Fabrics. Designed Multi-Pod topologies and isolated APIC ecosystems.</p>
-  </div>
-
-  <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 18px; box-shadow: 0 4px 6px rgba(0,0,0,0.15);">
-    <h4 style="margin-top: 0; color: #58a6ff; font-size: 1em; display: flex; align-items: center; gap: 8px;">
-      <img src="https://img.shields.io/badge/-Arista_EOS-005A9C?style=flat-square&logo=arista&logoColor=white" height="18"> EVPN-VXLAN Infrastructure
-    </h4>
-    <p style="font-size: 0.9em; line-height: 1.5; color: #8b949e; margin-bottom: 0;"><strong>Tecnalia & Lunik:</strong> Bare-metal deployment of Arista EOS switches. Architected high-density leaf-spine virtual overlays with CloudVision for full data plane orchestration.</p>
-  </div>
-
-  <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 18px; box-shadow: 0 4px 6px rgba(0,0,0,0.15);">
-    <h4 style="margin-top: 0; color: #58a6ff; font-size: 1em; display: flex; align-items: center; gap: 8px;">
-      <img src="https://img.shields.io/badge/-Ansible_IaC-CC0000?style=flat-square&logo=ansible&logoColor=white" height="18"> Multi-Vendor Validation Lab
-    </h4>
-    <p style="font-size: 0.9em; line-height: 1.5; color: #8b949e; margin-bottom: 0;"><strong>Banc Sabadell:</strong> Built an automated container lab using Ansible to test and validate network profiles across F5 BIG-IP, Checkpoint firewalls, Cisco ACI fabrics, Azure, and AWS cloud environments.</p>
-  </div>
-
-  <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 18px; box-shadow: 0 4px 6px rgba(0,0,0,0.15);">
-    <h4 style="margin-top: 0; color: #58a6ff; font-size: 1em; display: flex; align-items: center; gap: 8px;">
-      <img src="https://img.shields.io/badge/-Palo_Alto-EC6623?style=flat-square&logo=palo-alto-networks" height="18"> Zero Trust Architecture
-    </h4>
-    <p style="font-size: 0.9em; line-height: 1.5; color: #8b949e; margin-bottom: 0;"><strong>Lunik:</strong> Guided strategic design of corporate perimeters using Palo Alto Networks Next-Gen Firewalls to introduce strict macro/micro-segmentation security profiles.</p>
-  </div>
-
-  <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 18px; box-shadow: 0 4px 6px rgba(0,0,0,0.15);">
-    <h4 style="margin-top: 0; color: #58a6ff; font-size: 1em; display: flex; align-items: center; gap: 8px;">
-      <img src="https://img.shields.io/badge/-VMware_NSX-607078?style=flat-square&logo=vmware&logoColor=white" height="18"> Virtualized Secure Insertion
-    </h4>
-    <p style="font-size: 0.9em; line-height: 1.5; color: #8b949e; margin-bottom: 0;"><strong>AEAT & NTT:</strong> Managed core deployment of VMware NSX ecosystems, enforcing complex firewall service insertion maps alongside on-prem Kubernetes cluster instances.</p>
-  </div>
-
-</div>
+<table width="100%" style="border-collapse: collapse; border: none; background: none; margin-top: 15px;">
+  <tr style="border: none; background: none;">
+    <td width="49%" style="vertical-align: top; background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 18px;">
+      <h4 style="margin-top: 0; color: #58a6ff; font-size: 1em; margin-bottom: 10px;">
+        <img src="https://img.shields.io/badge/-Fortinet_Fabric-EE3124?style=flat-square&logo=fortinet&logoColor=white" height="18" style="vertical-align: middle; margin-right: 5px;"> Edge Security Migration
+      </h4>
+      <p style="font-size: 0.9em; line-height: 1.5; color: #8b949e; margin: 0;"><strong>Vodafone & Telecable:</strong> Greenfield/brownfield migration from legacy Checkpoint to advanced Fortinet NGFW platforms. Optimized traffic via VDOMs and secured access layers using FortiSwitch/FortiLink.</p>
+    </td>
+    <td width="2%" style="border: none; background: none;"></td>
+    <td width="49%" style="vertical-align: top; background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 18px;">
+      <h4 style="margin-top: 0; color: #58a6ff; font-size: 1em; margin-bottom: 10px;">
+        <img src="https://img.shields.io/badge/-FortiManager-EE3124?style=flat-square&logo=fortinet&logoColor=white" height="18" style="vertical-align: middle; margin-right: 5px;"> Policy Provisioning Engine
+      </h4>
+      <p style="font-size: 0.9em; line-height: 1.5; color: #8b949e; margin: 0;">Programmatic IaC deployment pipeline utilizing Ansible playbooks and FortiOS REST API to standardize Next-Gen Firewall rules across FortiManager, reducing lead object synchronization cycles.</p>
+    </td>
+  </tr>
+  <tr style="height: 15px; border: none; background: none;"><td colspan="3" style="border: none; background: none;"></td></tr>
+  <tr style="border: none; background: none;">
+    <td width="49%" style="vertical-align: top; background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 18px;">
+      <h4 style="margin-top: 0; color: #58a6ff; font-size: 1em; margin-bottom: 10px;">
+        <img src="https://img.shields.io/badge/-Fortinet_Fabric-EE3124?style=flat-square&logo=fortinet&logoColor=white" height="18" style="vertical-align: middle; margin-right: 5px;"> Global Fabric Integration
+      </h4>
+      <p style="font-size: 0.9em; line-height: 1.5; color: #8b949e; margin: 0;">Configured multi-tenant structural isolation layers (VDOMs) and accelerated high-throughput SSL decryption layers across international cloud entry-nodes to secure high-volume distributed traffic.</p>
+    </td>
+    <td width="2%" style="border: none; background: none;"></td>
+    <td width="49%" style="vertical-align: top; background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 18px;">
+      <h4 style="margin-top: 0; color: #58a6ff; font-size: 1em; margin-bottom: 10px;">
+        <img src="https://img.shields.io/badge/-Cisco_ACI-1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="18" style="vertical-align: middle; margin-right: 5px;"> ACI Fabric Homologation
+      </h4>
+      <p style="font-size: 0.9em; line-height: 1.5; color: #8b949e; margin: 0;"><strong>Vodafone & Carrefour:</strong> Structural homologation, platform validation, and production migrations of Cisco ACI SDN Fabrics. Designed Multi-Pod topologies and isolated APIC ecosystems.</p>
+    </td>
+  </tr>
+  <tr style="height: 15px; border: none; background: none;"><td colspan="3" style="border: none; background: none;"></td></tr>
+  <tr style="border: none; background: none;">
+    <td width="49%" style="vertical-align: top; background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 18px;">
+      <h4 style="margin-top: 0; color: #58a6ff; font-size: 1em; margin-bottom: 10px;">
+        <img src="https://img.shields.io/badge/-Arista_EOS-005A9C?style=flat-square&logo=arista&logoColor=white" height="18" style="vertical-align: middle; margin-right: 5px;"> EVPN-VXLAN Infrastructure
+      </h4>
+      <p style="font-size: 0.9em; line-height: 1.5; color: #8b949e; margin: 0;"><strong>Tecnalia & Lunik:</strong> Bare-metal deployment of Arista EOS switches. Architected high-density leaf-spine virtual overlays with CloudVision for full data plane orchestration.</p>
+    </td>
+    <td width="2%" style="border: none; background: none;"></td>
+    <td width="49%" style="vertical-align: top; background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 18px;">
+      <h4 style="margin-top: 0; color: #58a6ff; font-size: 1em; margin-bottom: 10px;">
+        <img src="https://img.shields.io/badge/-Ansible_IaC-CC0000?style=flat-square&logo=ansible&logoColor=white" height="18" style="vertical-align: middle; margin-right: 5px;"> Multi-Vendor Validation Lab
+      </h4>
+      <p style="font-size: 0.9em; line-height: 1.5; color: #8b949e; margin: 0;"><strong>Banc Sabadell:</strong> Built an automated container lab using Ansible to test and validate network profiles across F5 BIG-IP, Checkpoint firewalls, Cisco ACI fabrics, Azure, and AWS cloud environments.</p>
+    </td>
+  </tr>
+  <tr style="height: 15px; border: none; background: none;"><td colspan="3" style="border: none; background: none;"></td></tr>
+  <tr style="border: none; background: none;">
+    <td width="49%" style="vertical-align: top; background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 18px;">
+      <h4 style="margin-top: 0; color: #58a6ff; font-size: 1em; margin-bottom: 10px;">
+        <img src="https://img.shields.io/badge/-Palo_Alto-EC6623?style=flat-square&logo=palo-alto-networks" height="18" style="vertical-align: middle; margin-right: 5px;"> Zero Trust Architecture
+      </h4>
+      <p style="font-size: 0.9em; line-height: 1.5; color: #8b949e; margin: 0;"><strong>Lunik:</strong> Guided strategic design of corporate perimeters using Palo Alto Networks Next-Gen Firewalls to introduce strict macro/micro-segmentation security profiles.</p>
+    </td>
+    <td width="2%" style="border: none; background: none;"></td>
+    <td width="49%" style="vertical-align: top; background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 18px;">
+      <h4 style="margin-top: 0; color: #58a6ff; font-size: 1em; margin-bottom: 10px;">
+        <img src="https://img.shields.io/badge/-VMware_NSX-607078?style=flat-square&logo=vmware&logoColor=white" height="18" style="vertical-align: middle; margin-right: 5px;"> Virtualized Secure Insertion
+      </h4>
+      <p style="font-size: 0.9em; line-height: 1.5; color: #8b949e; margin: 0;"><strong>AEAT & NTT:</strong> Managed core deployment of VMware NSX ecosystems, enforcing complex firewall service insertion maps alongside on-prem Kubernetes cluster instances.</p>
+    </td>
+  </tr>
+</table>
 
 <div style="height: 2px; background: linear-gradient(90deg, #1f6feb, #238636, transparent); margin: 25px 0;"></div>
 
