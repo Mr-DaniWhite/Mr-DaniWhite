@@ -179,7 +179,7 @@
     <td width="32%" style="vertical-align: top; border: none; padding: 18px; background-color: #161b22; border-radius: 8px; border: 1px solid #30363d;">
       <h4 style="color: #58a6ff; margin-top: 0; margin-bottom: 12px; font-size: 1.05em; border-bottom: 1px solid #30363d; padding-bottom: 6px;">Hybrid & Cloud Networking</h4>
       <p style="margin: 0; font-size: 0.9em; line-height: 2.2; color: #c9d1d9;">
-        <img src="https://img.shields.io/badge/-AWS_Transit_Gateway-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>AWS Transit Infrastructure:</strong> Enterprise account Transit Gateways & redundant Direct Connect pipelines.<br>
+        <img src="https://img.shields.io/badge/-AWS_Transit-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>AWS Transit Infrastructure:</strong> Enterprise account Transit Gateways & redundant Direct Connect pipelines.<br>
         <img src="https://img.shields.io/badge/-Azure_Virtual_WAN-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>Azure Cloud Routing:</strong> Virtual WAN routing architectures, hub-spoke secure segmentation & ExpressRoute overlays.<br>
         <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> <strong>GCP Interconnect:</strong> Cloud Routers, Shared VPC architectures & cross-environment dynamic BGP paths.
       </p>
@@ -231,52 +231,123 @@
 
 <div style="height: 2px; background: linear-gradient(90deg, #1f6feb, #238636, transparent); margin: 25px 0;"></div>
 
-## <span id="professional-experience" style="color:#58a6ff; font-weight: 600;">Professional Experience</span>
+## <span id="professional-experience" style="color:#58a6ff; font-weight: 600;">💼 Professional Experience</span>
 
-### <img src="https://img.shields.io/badge/-Lunik-5E2750?style=flat-square" height="20" style="vertical-align: middle; margin-right: 6px;"> Network Design Manager | Lunik
-*March 2024 - Present*
-- Leading comprehensive network design and strategy implementations across multi-vendor hybrid architectures.
-- Overseeing Zero Trust architecture integration, large scale Software-Defined datacenter fabrics, and high-performance **Fortinet Security Fabric** expansions.
-- Orchestrating cross-functional teams to replace legacy enterprise perimeters with modern automated networks and centralized firewall orchestration ecosystems.
-- **Key Achievement:** Reduced network service provisioning lead times by 65% through the implementation of automated Infrastructure as Code workflows.
-
-### <img src="https://img.shields.io/badge/-NTT-006699?style=flat-square&logo=ntt&logoColor=white" height="20" style="vertical-align: middle; margin-right: 6px;"> Technical Services Team Leader - Digital Infrastructure | NTT
-*May 2008 - March 2024*
-- Managed and directed Professional Services for core data networks, unified security architectures, and advanced virtualized systems.
-- Spearheaded complex networking and design engineering projects across globally distributed Data Centers and public cloud landing zones (AWS and Azure).
-- Acted as key point of technical orchestration with premier industry vendors including Cisco, Checkpoint, Fortinet, Arista, Microsoft, VMware, Palo Alto, and Aruba.
-- Promoted to Team Leader in 2016 following a highly successful tenure as a dedicated Professional Services Engineer from 2008.
-- **Key Achievement:** Designed and deployed unified security perimeters using Fortinet clusters, achieving 99.999% uptime for business-critical core applications.
-
-### <img src="https://img.shields.io/badge/-Ditelma-4CAF50?style=flat-square" height="20" style="vertical-align: middle; margin-right: 6px;"> Technical Services Engineer | Ditelma
-*2006 - 2008*
-- Executed the deployment, provisioning, and daily lifecycle management of enterprise-grade voice and data network platforms.
-- Managed multi-protocol routing environments and hardware infrastructure optimizations for business-critical communications.
-
-### <img src="https://img.shields.io/badge/-Carose-FF9800?style=flat-square" height="20" style="vertical-align: middle; margin-right: 6px;"> Technical Services Engineer | Carose
-*2004 - 2006*
-- Managed infrastructure operations, system configurations, and physical deployments for integrated voice and data infrastructures.
-- Diagnosed complex layer 2 and layer 3 issues ensuring high availability across corporate access nodes.
-
-### <img src="https://img.shields.io/badge/-Lidernet-005A9C?style=flat-square" height="20" style="vertical-align: middle; margin-right: 6px;"> Technical Services Engineer | Lidernet
-*2003 - 2004*
-- Handled technical deployment blueprints, system maintenance, and routing management for custom client networking solutions.
-
-### <img src="https://img.shields.io/badge/-HC_2000-9C27B0?style=flat-square" height="20" style="vertical-align: middle; margin-right: 6px;"> Technical Services Engineer | HC 2000
-*2002 - 2003*
-- Delivered technical support and physical infrastructure provisioning, optimizing computing hardware architectures as an enterprise systems solution.
+<table width="100%" style="border-collapse: collapse; margin-top: 15px; background: none; border: none;">
+  <thead>
+    <tr style="background-color: #161b22; color: #58a6ff; border-bottom: 2px solid #30363d;">
+      <th align="left" style="padding: 12px; width: 30%; border: 1px solid #30363d;">Rol y Empresa</th>
+      <th align="left" style="padding: 12px; width: 20%; border: 1px solid #30363d;">Periodo</th>
+      <th align="left" style="padding: 12px; width: 50%; border: 1px solid #30363d;">Responsabilidades y Logros Clave</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom: 1px solid #30363d; background-color: #0d1117;">
+      <td style="padding: 15px; vertical-align: top; border: 1px solid #30363d;">
+        <strong style="color: #ff7b72; font-size: 1.1em;">Network Design Manager</strong><br>
+        <span style="color: #8b949e; font-size: 0.9em;">Lunik</span>
+      </td>
+      <td style="padding: 15px; vertical-align: top; color: #8b949e; font-size: 0.9em; border: 1px solid #30363d;">
+        Marzo 2024 - Presente
+      </td>
+      <td style="padding: 15px; vertical-align: top; color: #c9d1d9; border: 1px solid #30363d;">
+        <ul style="margin: 0; padding-left: 20px;">
+          <li>Liderazgo en diseños de red integrales e implementaciones estratégicas en arquitecturas híbridas multi-proveedor.</li>
+          <li>Supervisión de la integración de arquitecturas Zero Trust, despliegue de redes definidas por software (SDN) a gran escala y expansiones de alto rendimiento basadas en <i>Fortinet Security Fabric</i>.</li>
+          <li>Orquestación de equipos multidisciplinares para la migración de perímetros heredados hacia ecosistemas de orquestación de firewalls centralizados y automatizados.</li>
+          <li style="margin-top: 8px; list-style-type: none;">
+            <strong style="color: #56d364;">🎯 Logro Clave:</strong> Reducción de los tiempos de entrega (lead times) en el aprovisionamiento de servicios de red en un <strong>65%</strong> mediante flujos de trabajo de Infraestructura como Código (IaC).
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr style="border-bottom: 1px solid #30363d; background-color: #161b22;">
+      <td style="padding: 15px; vertical-align: top; border: 1px solid #30363d;">
+        <strong style="color: #58a6ff; font-size: 1.1em;">Technical Services Team Leader</strong><br>
+        <span style="color: #8b949e; font-size: 0.9em;">Digital Infrastructure | NTT</span>
+      </td>
+      <td style="padding: 15px; vertical-align: top; color: #8b949e; font-size: 0.9em; border: 1px solid #30363d;">
+        Mayo 2008 - Marzo 2024
+      </td>
+      <td style="padding: 15px; vertical-align: top; color: #c9d1d9; border: 1px solid #30363d;">
+        <ul style="margin: 0; padding-left: 20px;">
+          <li>Gestión y dirección de Servicios Profesionales para redes de datos centrales, arquitecturas de seguridad unificadas y sistemas virtualizados avanzados.</li>
+          <li>Dirección de proyectos complejos de ingeniería y diseño de redes en centros de datos distribuidos globalmente y zonas de aterrizaje (landing zones) en la nube pública (AWS y Azure).</li>
+          <li>Punto central de orquestación técnica con los principales proveedores del sector, incluidos Cisco, Checkpoint, Fortinet, Arista, Microsoft, VMware, Palo Alto y Aruba.</li>
+          <li>Promoción a Team Leader en 2016 tras una trayectoria consolidada como Ingeniero de Servicios Profesionales desde 2008.</li>
+          <li style="margin-top: 8px; list-style-type: none;">
+            <strong style="color: #56d364;">🎯 Logro Clave:</strong> Diseño y despliegue de perímetros de seguridad unificados con clústeres Fortinet, alcanzando un <strong>99.999% de disponibilidad (uptime)</strong> para aplicaciones críticas de negocio.
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr style="border-bottom: 1px solid #30363d; background-color: #0d1117;">
+      <td style="padding: 15px; vertical-align: top; border: 1px solid #30363d;">
+        <strong style="color: #d2a8ff; font-size: 1.1em;">Technical Services Engineer</strong><br>
+        <span style="color: #8b949e; font-size: 0.9em;">Ditelma</span>
+      </td>
+      <td style="padding: 15px; vertical-align: top; color: #8b949e; font-size: 0.9em; border: 1px solid #30363d;">
+        2006 - 2008
+      </td>
+      <td style="padding: 15px; vertical-align: top; color: #c9d1d9; border: 1px solid #30363d;">
+        <ul style="margin: 0; padding-left: 20px;">
+          <li>Ejecución del despliegue, aprovisionamiento y gestión del ciclo de vida diario de plataformas de red de voz y datos de nivel empresarial.</li>
+          <li>Gestión de entornos de enrutamiento multiprotocolo y optimización de infraestructura de hardware para comunicaciones críticas de negocio.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr style="border-bottom: 1px solid #30363d; background-color: #161b22;">
+      <td style="padding: 15px; vertical-align: top; border: 1px solid #30363d;">
+        <strong style="color: #d2a8ff; font-size: 1.1em;">Technical Services Engineer</strong><br>
+        <span style="color: #8b949e; font-size: 0.9em;">Carose</span>
+      </td>
+      <td style="padding: 15px; vertical-align: top; color: #8b949e; font-size: 0.9em; border: 1px solid #30363d;">
+        2004 - 2006
+      </td>
+      <td style="padding: 15px; vertical-align: top; color: #c9d1d9; border: 1px solid #30363d;">
+        <ul style="margin: 0; padding-left: 20px;">
+          <li>Gestión de operaciones de infraestructura, configuraciones de sistemas y despliegues físicos para infraestructuras integradas de voz y datos.</li>
+          <li>Diagnóstico de problemas complejos de capa 2 y capa 3 garantizando alta disponibilidad en nodos de acceso corporativos.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr style="border-bottom: 1px solid #30363d; background-color: #0d1117;">
+      <td style="padding: 15px; vertical-align: top; border: 1px solid #30363d;">
+        <strong style="color: #d2a8ff; font-size: 1.1em;">Technical Services Engineer</strong><br>
+        <span style="color: #8b949e; font-size: 0.9em;">Lidernet</span>
+      </td>
+      <td style="padding: 15px; vertical-align: top; color: #8b949e; font-size: 0.9em; border: 1px solid #30363d;">
+        2003 - 2004
+      </td>
+      <td style="padding: 15px; vertical-align: top; color: #c9d1d9; border: 1px solid #30363d;">
+        <ul style="margin: 0; padding-left: 20px;">
+          <li>Desarrollo de planos técnicos de despliegue, mantenimiento de sistemas y gestión de enrutamiento para soluciones de red personalizadas de clientes.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr style="border-bottom: 1px solid #30363d; background-color: #161b22;">
+      <td style="padding: 15px; vertical-align: top; border: 1px solid #30363d;">
+        <strong style="color: #d2a8ff; font-size: 1.1em;">Technical Services Engineer</strong><br>
+        <span style="color: #8b949e; font-size: 0.9em;">HC 2000</span>
+      </td>
+      <td style="padding: 15px; vertical-align: top; color: #8b949e; font-size: 0.9em; border: 1px solid #30363d;">
+        2002 - 2003
+      </td>
+      <td style="padding: 15px; vertical-align: top; color: #c9d1d9; border: 1px solid #30363d;">
+        <ul style="margin: 0; padding-left: 20px;">
+          <li>Soporte técnico y aprovisionamiento de infraestructura física, optimizando arquitecturas de hardware informático como solución de sistemas empresariales.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 <div style="height: 2px; background: linear-gradient(90deg, #1f6feb, #238636, transparent); margin: 25px 0;"></div>
 
-## <span id="languages" style="color:#58a6ff; font-weight: 600;">🗣️ Languages</span>
+## <span id="core-architecture-patterns" style="color:#58a6ff; font-weight: 600;">Core Architecture Patterns</span>
 
-- **English:** Professional Working Proficiency (Technical architecture design, multi-vendor client negotiation, global infrastructure documentation).
-- **Spanish:** Native or Bilingual Proficiency.
-
-<div style="height: 2px; background: linear-gradient(90deg, #1f6feb, #238636, transparent); margin: 25px 0;"></div>
-
-<details style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px; margin-bottom: 15px;">
-  <summary style="font-size: 1.25em; font-weight: 600; color: #58a6ff; cursor: pointer; padding: 5px;"><strong>🏛️ Click to expand: Core Architecture Patterns</strong></summary>
+<details style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px; margin-bottom: 15px;" open>
+  <summary style="font-size: 1.25em; font-weight: 600; color: #58a6ff; cursor: pointer; padding: 5px;"><strong>🏛️ Click to view: Core Architecture Patterns Detailed</strong></summary>
   <div style="margin-top: 15px; border-top: 1px solid #30363d; padding-top: 15px; line-height: 1.6; color: #c9d1d9;">
     <ul>
       <li style="margin-bottom: 10px;"><strong>Advanced Fortinet NGFW Security & Edge Cluster Engineering:</strong> Architecture and implementation of enterprise security perimeters running on <strong>FortiGate NGFW appliances</strong> in active-active/active-passive high availability (<strong>FGCP/FGSP clustering</strong>). Advanced deployment of policy segmentation via virtual domains (<strong>VDOMs</strong>), hardware-accelerated <strong>SSL/TLS Deep Packet Inspection</strong> at scale, and centralized contextual access controls utilizing <strong>FortiNAC</strong> for automated asset discovery and dynamic network access isolation.</li>
@@ -292,7 +363,7 @@
 </details>
 
 <details style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px; margin-bottom: 15px;">
-  <summary style="font-size: 1.25em; font-weight: 600; color: #58a6ff; cursor: pointer; padding: 5px;"><strong>🔀 Click to expand: Ecosystem Interoperability & Presales Edge</strong></summary>
+  <summary style="font-size: 1.25em; font-weight: 600; color: #58a6ff; cursor: pointer; padding: 5px;"><strong>🔀 Click to view: Ecosystem Interoperability & Presales Edge</strong></summary>
   <div style="margin-top: 15px; border-top: 1px solid #30363d; padding-top: 15px; line-height: 1.6; color: #c9d1d9;">
     <ul>
       <li style="margin-bottom: 10px;"><strong>Multi-Vendor Core Integration:</strong> Seamless fabric interoperability experience connecting Fortinet security environments with <strong>Cisco (IOS-XR/Nexus)</strong> backbones, <strong>F5 BIG-IP</strong> high-availability local/global load balancers, and legacy <strong>Check Point/Palo Alto</strong> architectures during migration phases.</li>
@@ -413,6 +484,13 @@
   <img src="https://img.shields.io/badge/-High--Performance_Leadership-007acc?style=flat-square" height="25" style="vertical-align: middle; margin-right: 4px;">
   <img src="https://img.shields.io/badge/-Agile_Operations-4caf50?style=flat-square" height="25" style="vertical-align: middle; margin-right: 4px;">
 </p>
+
+<div style="height: 2px; background: linear-gradient(90deg, #1f6feb, #238636, transparent); margin: 25px 0;"></div>
+
+## <span id="languages" style="color:#58a6ff; font-weight: 600;">🗣️ Languages</span>
+
+- **English:** Professional Working Proficiency (Technical architecture design, multi-vendor client negotiation, global infrastructure documentation).
+- **Spanish:** Native or Bilingual Proficiency.
 
 <div style="height: 2px; background: linear-gradient(90deg, #1f6feb, #238636, transparent); margin: 25px 0;"></div>
 
