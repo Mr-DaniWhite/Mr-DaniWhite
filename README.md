@@ -233,115 +233,42 @@
 
 ## <span id="professional-experience" style="color:#58a6ff; font-weight: 600;">💼 Professional Experience</span>
 
-<table width="100%" style="border-collapse: collapse; margin-top: 15px; background: none; border: none;">
+<table style="width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 0.95em;">
   <thead>
-    <tr style="background-color: #161b22; color: #58a6ff; border-bottom: 2px solid #30363d;">
-      <th align="left" style="padding: 12px; width: 30%; border: 1px solid #30363d;">Rol y Empresa</th>
-      <th align="left" style="padding: 12px; width: 20%; border: 1px solid #30363d;">Periodo</th>
-      <th align="left" style="padding: 12px; width: 50%; border: 1px solid #30363d;">Responsabilidades y Logros Clave</th>
+    <tr style="border-bottom: 2px solid #30363d; text-align: left;">
+      <th style="padding: 12px; color: #58a6ff; width: 25%;">Timeline</th>
+      <th style="padding: 12px; color: #58a6ff; width: 35%;">Role & Position</th>
+      <th style="padding: 12px; color: #58a6ff; width: 40%;">Core Operational Scope</th>
     </tr>
   </thead>
   <tbody>
-    <tr style="border-bottom: 1px solid #30363d; background-color: #0d1117;">
-      <td style="padding: 15px; vertical-align: top; border: 1px solid #30363d;">
-        <strong style="color: #ff7b72; font-size: 1.1em;">Network Design Manager</strong><br>
-        <span style="color: #8b949e; font-size: 0.9em;">Lunik</span>
-      </td>
-      <td style="padding: 15px; vertical-align: top; color: #8b949e; font-size: 0.9em; border: 1px solid #30363d;">
-        Marzo 2024 - Presente
-      </td>
-      <td style="padding: 15px; vertical-align: top; color: #c9d1d9; border: 1px solid #30363d;">
-        <ul style="margin: 0; padding-left: 20px;">
-          <li>Liderazgo en diseños de red integrales e implementaciones estratégicas en arquitecturas híbridas multi-proveedor.</li>
-          <li>Supervisión de la integración de arquitecturas Zero Trust, despliegue de redes definidas por software (SDN) a gran escala y expansiones de alto rendimiento basadas en <i>Fortinet Security Fabric</i>.</li>
-          <li>Orquestación de equipos multidisciplinares para la migración de perímetros heredados hacia ecosistemas de orquestación de firewalls centralizados y automatizados.</li>
-          <li style="margin-top: 8px; list-style-type: none;">
-            <strong style="color: #56d364;">🎯 Logro Clave:</strong> Reducción de los tiempos de entrega (lead times) en el aprovisionamiento de servicios de red en un <strong>65%</strong> mediante flujos de trabajo de Infraestructura como Código (IaC).
-          </li>
-        </ul>
-      </td>
+    <tr style="border-bottom: 1px solid #21262d;">
+      <td style="padding: 12px; font-weight: 600; color: #ffffff;">2024 - Present</td>
+      <td style="padding: 12px;"><strong style="color: #c9d1d9;">Network Design Manager</strong><br><span style="color: #8b949e; font-size: 0.9em;">LUNIK (Madrid, Spain)</span></td>
+      <td style="padding: 12px; color: #8b949e;">Leading a high-performance engineering team delivering enterprise-grade data networks, cyber-security, and virtualized infrastructure solutions. Directing high-level architectures and automated fabric designs.</td>
     </tr>
-    <tr style="border-bottom: 1px solid #30363d; background-color: #161b22;">
-      <td style="padding: 15px; vertical-align: top; border: 1px solid #30363d;">
-        <strong style="color: #58a6ff; font-size: 1.1em;">Technical Services Team Leader</strong><br>
-        <span style="color: #8b949e; font-size: 0.9em;">Digital Infrastructure | NTT</span>
-      </td>
-      <td style="padding: 15px; vertical-align: top; color: #8b949e; font-size: 0.9em; border: 1px solid #30363d;">
-        Mayo 2008 - Marzo 2024
-      </td>
-      <td style="padding: 15px; vertical-align: top; color: #c9d1d9; border: 1px solid #30363d;">
-        <ul style="margin: 0; padding-left: 20px;">
-          <li>Gestión y dirección de Servicios Profesionales para redes de datos centrales, arquitecturas de seguridad unificadas y sistemas virtualizados avanzados.</li>
-          <li>Dirección de proyectos complejos de ingeniería y diseño de redes en centros de datos distribuidos globalmente y zonas de aterrizaje (landing zones) en la nube pública (AWS y Azure).</li>
-          <li>Punto central de orquestación técnica con los principales proveedores del sector, incluidos Cisco, Checkpoint, Fortinet, Arista, Microsoft, VMware, Palo Alto y Aruba.</li>
-          <li>Promoción a Team Leader en 2016 tras una trayectoria consolidada como Ingeniero de Servicios Profesionales desde 2008.</li>
-          <li style="margin-top: 8px; list-style-type: none;">
-            <strong style="color: #56d364;">🎯 Logro Clave:</strong> Diseño y despliegue de perímetros de seguridad unificados con clústeres Fortinet, alcanzando un <strong>99.999% de disponibilidad (uptime)</strong> para aplicaciones críticas de negocio.
-          </li>
-        </ul>
-      </td>
+    <tr style="border-bottom: 1px solid #21262d;">
+      <td style="padding: 12px; font-weight: 600; color: #ffffff;">2016 - 2024</td>
+      <td style="padding: 12px;"><strong style="color: #c9d1d9;">Digital Infrastructure Team Leader</strong><br><span style="color: #8b949e; font-size: 0.9em;">NTT DATA / Dimension Data</span></td>
+      <td style="padding: 12px; color: #8b949e;">Managed Professional Services delivery across corporate data networks, advanced network security, and virtualization ecosystems. Coordinated large-scale architecture projects involving complex multi-vendor ecosystems.</td>
     </tr>
-    <tr style="border-bottom: 1px solid #30363d; background-color: #0d1117;">
-      <td style="padding: 15px; vertical-align: top; border: 1px solid #30363d;">
-        <strong style="color: #d2a8ff; font-size: 1.1em;">Technical Services Engineer</strong><br>
-        <span style="color: #8b949e; font-size: 0.9em;">Ditelma</span>
-      </td>
-      <td style="padding: 15px; vertical-align: top; color: #8b949e; font-size: 0.9em; border: 1px solid #30363d;">
-        2006 - 2008
-      </td>
-      <td style="padding: 15px; vertical-align: top; color: #c9d1d9; border: 1px solid #30363d;">
-        <ul style="margin: 0; padding-left: 20px;">
-          <li>Ejecución del despliegue, aprovisionamiento y gestión del ciclo de vida diario de plataformas de red de voz y datos de nivel empresarial.</li>
-          <li>Gestión de entornos de enrutamiento multiprotocolo y optimización de infraestructura de hardware para comunicaciones críticas de negocio.</li>
-        </ul>
-      </td>
+    <tr style="border-bottom: 1px solid #21262d;">
+      <td style="padding: 12px; font-weight: 600; color: #ffffff;">2008 - 2016</td>
+      <td style="padding: 12px;"><strong style="color: #c9d1d9;">Professional Services Engineer</strong><br><span style="color: #8b949e; font-size: 0.9em;">NTT DATA / Dimension Data</span></td>
+      <td style="padding: 12px; color: #8b949e;">Designed and delivered complex, highly secure networking solutions tailored for enterprise Data Centers and Public Cloud architectures (AWS & Azure). Spearheaded automation initiatives across core tier-1 accounts.</td>
     </tr>
-    <tr style="border-bottom: 1px solid #30363d; background-color: #161b22;">
-      <td style="padding: 15px; vertical-align: top; border: 1px solid #30363d;">
-        <strong style="color: #d2a8ff; font-size: 1.1em;">Technical Services Engineer</strong><br>
-        <span style="color: #8b949e; font-size: 0.9em;">Carose</span>
-      </td>
-      <td style="padding: 15px; vertical-align: top; color: #8b949e; font-size: 0.9em; border: 1px solid #30363d;">
-        2004 - 2006
-      </td>
-      <td style="padding: 15px; vertical-align: top; color: #c9d1d9; border: 1px solid #30363d;">
-        <ul style="margin: 0; padding-left: 20px;">
-          <li>Gestión de operaciones de infraestructura, configuraciones de sistemas y despliegues físicos para infraestructuras integradas de voz y datos.</li>
-          <li>Diagnóstico de problemas complejos de capa 2 y capa 3 garantizando alta disponibilidad en nodos de acceso corporativos.</li>
-        </ul>
-      </td>
+    <tr style="border-bottom: 1px solid #21262d;">
+      <td style="padding: 12px; font-weight: 600; color: #ffffff;">2003 - 2008</td>
+      <td style="padding: 12px;"><strong style="color: #c9d1d9;">Technical Services Engineer</strong><br><span style="color: #8b949e; font-size: 0.9em;">DITELMA / CAROSE / LIDERNET</span></td>
+      <td style="padding: 12px; color: #8b949e;">Deployed and managed corporate voice/data networks, enterprise routing, switching infrastructure, and advanced troubleshooting architectures for strategic corporate clients.</td>
     </tr>
-    <tr style="border-bottom: 1px solid #30363d; background-color: #0d1117;">
-      <td style="padding: 15px; vertical-align: top; border: 1px solid #30363d;">
-        <strong style="color: #d2a8ff; font-size: 1.1em;">Technical Services Engineer</strong><br>
-        <span style="color: #8b949e; font-size: 0.9em;">Lidernet</span>
-      </td>
-      <td style="padding: 15px; vertical-align: top; color: #8b949e; font-size: 0.9em; border: 1px solid #30363d;">
-        2003 - 2004
-      </td>
-      <td style="padding: 15px; vertical-align: top; color: #c9d1d9; border: 1px solid #30363d;">
-        <ul style="margin: 0; padding-left: 20px;">
-          <li>Desarrollo de planos técnicos de despliegue, mantenimiento de sistemas y gestión de enrutamiento para soluciones de red personalizadas de clientes.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr style="border-bottom: 1px solid #30363d; background-color: #161b22;">
-      <td style="padding: 15px; vertical-align: top; border: 1px solid #30363d;">
-        <strong style="color: #d2a8ff; font-size: 1.1em;">Technical Services Engineer</strong><br>
-        <span style="color: #8b949e; font-size: 0.9em;">HC 2000</span>
-      </td>
-      <td style="padding: 15px; vertical-align: top; color: #8b949e; font-size: 0.9em; border: 1px solid #30363d;">
-        2002 - 2003
-      </td>
-      <td style="padding: 15px; vertical-align: top; color: #c9d1d9; border: 1px solid #30363d;">
-        <ul style="margin: 0; padding-left: 20px;">
-          <li>Soporte técnico y aprovisionamiento de infraestructura física, optimizando arquitecturas de hardware informático como solución de sistemas empresariales.</li>
-        </ul>
-      </td>
+    <tr style="border-bottom: 1px solid #21262d;">
+      <td style="padding: 12px; font-weight: 600; color: #ffffff;">1998 - 2003</td>
+      <td style="padding: 12px;"><strong style="color: #c9d1d9;">Technical Services Specialist</strong><br><span style="color: #8b949e; font-size: 0.9em;">HC 2000 / MASTER COELECTRONIC / IKEA</span></td>
+      <td style="padding: 12px; color: #8b949e;">Provided systems deployment, server maintenance, enterprise IT solutions, and tiered systems support infrastructure operations.</td>
     </tr>
   </tbody>
 </table>
-
 <div style="height: 2px; background: linear-gradient(90deg, #1f6feb, #238636, transparent); margin: 25px 0;"></div>
 
 ## <span id="core-architecture-patterns" style="color:#58a6ff; font-weight: 600;">Core Architecture Patterns</span>
