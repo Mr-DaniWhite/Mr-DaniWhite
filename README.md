@@ -11,6 +11,29 @@
 <p style="font-size: 1.1em; line-height: 1.7; color: #8b949e; margin-bottom: 25px;">
   Senior Network & Infrastructure Security Architect with over 20 years of experience designing, deploying, and automating enterprise-scale infrastructures. Focused on scaling Security Fabric frameworks, Infrastructure as Code (IaC) pipelines, NetDevOps workflows, and transforming traditional networking operations into agile, code-driven environments.
 </p>
+<p align="left" style="margin-top: 25px; margin-bottom: 5px;">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7471984125747470336/" target="_blank" style="text-decoration: none;">
+    <div style="display: inline-block; background: linear-gradient(135deg, #0077B5, #004b73); border: 1px solid rgba(255,255,255,0.1); border-radius: 6px; padding: 10px 18px; color: #ffffff; font-weight: 600; font-size: 0.95em; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+      <span style="margin-right: 8px;">🚀</span> Read my latest post on LinkedIn
+    </div>
+  </a>
+</p>
+
+<div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin-bottom: 25px; max-width: 600px;">
+  <div style="display: flex; align-items: center; margin-bottom: 12px;">
+    <div style="width: 40px; height: 40px; background-color: #0077B5; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; color: white; font-size: 1.1em; margin-right: 12px; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">DB</div>
+    <div>
+      <h4 style="margin: 0; color: #ffffff; font-size: 0.95em; font-weight: 600;">Daniel Blanco</h4>
+      <p style="margin: 0; color: #8b949e; font-size: 0.8em;">Senior Network & Infrastructure Security Architect</p>
+    </div>
+  </div>
+  <p style="margin: 0 0 12px 0; color: #c9d1d9; font-size: 0.9em; line-height: 1.6; font-style: italic;">
+    "Just shared a strategic architecture deep-dive: Evolving Enterprise Data Center networks from legacy multi-pod layouts into fully automated EVPN-VXLAN and Security Fabric structures..."
+  </p>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7471984125747470336/" target="_blank" style="color: #58a6ff; font-size: 0.85em; text-decoration: none; font-weight: 500;">
+    View full discussion, charts and technical comments on LinkedIn →
+  </a>
+</div>
 
 <div style="height: 2px; background: linear-gradient(90deg, #1f6feb, #238636, transparent); margin: 25px 0;"></div>
 
