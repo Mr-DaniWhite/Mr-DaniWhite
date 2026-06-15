@@ -11,13 +11,7 @@
 <p style="font-size: 1.1em; line-height: 1.7; color: #8b949e; margin-bottom: 25px;">
   Senior Network & Infrastructure Security Architect with over 20 years of experience designing, deploying, and automating enterprise-scale infrastructures. Focused on scaling Security Fabric frameworks, Infrastructure as Code (IaC) pipelines, NetDevOps workflows, and transforming traditional networking operations into agile, code-driven environments.
 </p>
-<p align="left" style="margin-top: 25px; margin-bottom: 5px;">
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7471984125747470336/" target="_blank" style="text-decoration: none;">
-    <div style="display: inline-block; background: linear-gradient(135deg, #0077B5, #004b73); border: 1px solid rgba(255,255,255,0.1); border-radius: 6px; padding: 10px 18px; color: #ffffff; font-weight: 600; font-size: 0.95em; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
-      <span style="margin-right: 8px;">🚀</span> Read my latest post on LinkedIn
-    </div>
-  </a>
-</p>
+
 
 <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin-bottom: 25px; max-width: 600px;">
   <div style="display: flex; align-items: center; margin-bottom: 12px;">
