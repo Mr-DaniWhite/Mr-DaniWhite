@@ -310,25 +310,63 @@
 
 <div style="height: 2px; background: linear-gradient(90deg, #1f6feb, #238636, transparent); margin: 25px 0;"></div>
 
-## <span id="technical-certifications--specialized-courses" style="color:#58a6ff; font-weight: 600;">Technical Certifications & Specialized Courses</span>
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none; background: none;">
-    <td width="50%" style="vertical-align: top; border: none; padding-right: 25px; padding-top: 0;">
-      <p style="margin: 0 0 10px 0; font-size: 0.95em; line-height: 2.2; color: #c9d1d9;">
-        <img src="https://img.shields.io/badge/-Fortinet_NSE_Specialist-EE3124?style=flat-square&logo=fortinet&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Fortinet Network Security / Expert Track:</strong> Advanced Enterprise Firewall Infrastructure, Cloud Security Architecture, and Centralized Management (FortiGate/FortiManager/FortiAnalyzer) (Training).<br>
-        <img src="https://img.shields.io/badge/-Arista_ACE_L5-005A9C?style=flat-square&logo=arista&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Arista Cloud Engineer:</strong> Level 5 (ACE L5) & Level 3 (ACE L3).<br>
-        <img src="https://img.shields.io/badge/-Cisco_CCIE-1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco CCIE Framework:</strong> Routing & Switching + Advanced ACI Architecture.
-      </p>
-    </td>
-    <td width="50%" style="vertical-align: top; border: none; padding-left: 25px; padding-top: 0;">
-      <p style="margin: 0 0 10px 0; font-size: 0.95em; line-height: 2.2; color: #c9d1d9;">
-        <img src="https://img.shields.io/badge/-Palo_Alto_-EC6623?style=flat-square&logo=palo-alto-networks&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Palo Alto Networks:</strong> Advanced Firewalls Frameworks & Architecture. (Training).<br>
-        <img src="https://img.shields.io/badge/-Cisco_CCNP-1BA0D7?style=flat-square&logo=cisco&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>Cisco CCNP:</strong> Enterprise Routing, Switching & Security Fast Track.<br>
-        <img src="https://img.shields.io/badge/-VMware_VCA-607078?style=flat-square&logo=vmware&logoColor=white" height="28" style="vertical-align: middle; margin-right: 6px;"> <strong>VMware VCA-DCV:</strong> Data Center Virtualization infrastructure.
-      </p>
-    </td>
-  </tr>
-</table>
+## 📜 Certifications & Technical Training
+
+<details>
+<summary>🤖 AI, Cloud & Automation</summary>
+
+* **Microsoft**: AI Applications & Agents on Azure
+* **Microsoft**: Develop AI Agents on Azure
+* **Microsoft**: AI Concepts for Developers
+* **Microsoft**: AZ-700 Azure Network Solutions
+* **AWS**: Advanced Networking Specialty
+* **AWS**: Route 53 (Basics & Getting Started) & Security Fundamentals
+* **NVIDIA**: AI for All - From Basics to GenAI Practice
+* **Hugging Face**: The LLM Course - Fundamentals of LLMs
+* **IBM**: AI Fundamentals - Foundations for Understanding AI
+* **VMware**: VCA-DCV (Data Center Virtualization) & NSX Infrastructure Deployment
+* **Cisco**: AppDynamics Application Performance Analytics
+</details>
+
+<details>
+<summary>🛡️ Network Security, SASE & Zero Trust</summary>
+
+* **Palo Alto Networks**: Advanced SD-WAN Frameworks & Micro-segmentation Design
+* **Cato Networks**: SASE Expert (Level 1 & 2)
+* **Netskope**: SASE Accreditation
+* **Cisco**: Designing Cisco Security Infrastructure (SDSI)
+* **AttackIQ**: Threat-Informed Architecture
+* **Fortinet**: FortiGate Security Infrastructure (FCNSA)
+* **Checkpoint**: CCSA GAIA R77.30 Deployment
+* **IBM**: Cybersecurity Fundamentals
+* **F5 BIG-IP**: Local Traffic Manager (LTM) Setup & Traffic Profiles
+</details>
+
+<details>
+<summary>🌐 Core Infrastructure & Routing/Switching</summary>
+
+* **Arista Networks**: Cloud Engineer Level 5 (ACE L5) & Level 3 (ACE L3)
+* **Arista Networks**: Advanced Infrastructure Troubleshooting & Diagnostics
+* **Arista Networks**: Technical Specialist Advocate & Cognitive Campus
+* **Cisco**: CCIE - Routing & Switching (Written)
+* **Cisco**: Implementing Cisco Application Centric Infrastructure (ACI Advanced)
+* **Cisco**: Operating Cisco IP Fabric for Media Solution
+* **Cisco**: AI Business Practitioner & AI for Networking
+* **Cisco**: CCNP Fast Track (Routing, Switching & Security ASA)
+* **NVIDIA**: InfiniBand Essentials (RDMA) & RoCE from A to Z
+* **NVIDIA**: SONIC Essentials, NetQ Deployment & NVIDIA DSX Air
+* **Juniper Networks**: JNCIS-ENT (Routing & Switching) & JNCIA Core
+* **Alcatel-Lucent**: ACSE & ACFE Routing & Switching AOS
+* **Aruba**: Deploying Datacenter Microsegmentation with Aruba CX 10000
+* **Aruba**: ACMA Aruba Wireless Certification
+</details>
+
+<details>
+<summary>💼 Leadership & Executive Communication</summary>
+
+* **Executive Communication**: Speaking Confidently and Effectively Frameworks
+* **High-Performance Leadership**: Coaching Employees through Difficult Situations
+</details>
 
 <div style="height: 2px; background: linear-gradient(90deg, #1f6feb, #238636, transparent); margin: 25px 0;"></div>
 
