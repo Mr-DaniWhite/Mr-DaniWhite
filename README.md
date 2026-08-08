@@ -39,43 +39,59 @@
 
 <div style="height: 2px; background: linear-gradient(90deg, #1f6feb, #238636, transparent); margin: 25px 0;"></div>
 
-## <span id="carrier--telco-architecture-footprint" style="color:#58a6ff; font-weight: 600;">Carrier & Telco Architecture Footprint</span>
-<p style="font-size: 1.05em; line-height: 1.6; margin-bottom: 20px; color: #c9d1d9;">
-  A significant portion of my professional career has been deeply focused on <strong>High-Scale Telecommunications and Core Provider Environments</strong>. I have spent years architecting, scaling, and operating mission-critical network infrastructures within major global carriers and wholesale operators:
+<a name="carrier-telco"></a>
+## 🌐 Carrier & Telco Architecture Footprint
+
+> **Architecting High-Availability, Scalable & Low-Latency Service Provider Infrastructure**
+
+---
+
+### 🏛️ Core Service Provider Capabilities
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📡 Backbone & Edge Routing</h4>
+      <ul>
+        <li><b>Segment Routing (SR-MPLS / SRv6)</b> & MP-BGP Core Transit</li>
+        <li><b>L2VPN / L3VPN</b> Service Provider Fabrics & Multi-Site EVPN</li>
+        <li><b>Peering & IXP Optimization</b> (BGP Traffic Engineering & FlowSpec)</li>
+        <li><b>Carrier-Grade NAT (CGNAT)</b> & IPv4/IPv6 Dual-Stack Coexistence</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Transport, Cloud & Optical Edge</h4>
+      <ul>
+        <li><b>Optical Transport (DWDM/OTN)</b> & Data Center Interconnect (DCI)</li>
+        <li><b>Telco Cloud & NFV Infrastructure</b> (OpenStack, Kubernetes CNI/Cilium)</li>
+        <li><b>5G Core / MEC Connectivity</b> & Network Slicing Architectures</li>
+        <li><b>High-Availability WAN</b> Resilience (BFD, Fast Reroute - FRR)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Key Telecom Technologies & Protocols
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MPLS_--_SRv6-0058A3?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/BGP4_--_EVPN-0284C7?style=for-the-badge&logo=junipernetworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arista_EOS-000000?style=for-the-badge&logo=aristanetworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco_IOS--XR-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/DWDM_--_OTN-008080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Telco_Cloud_--_NFV-607D8B?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
-<div style="background-color: #161b22; border-left: 5px solid #E60000; border-top: 1px solid #30363d; border-right: 1px solid #30363d; border-bottom: 1px solid #30363d; padding: 15px; margin-bottom: 15px; border-radius: 6px;">
-  <h3 style="margin-top: 0; margin-bottom: 8px; color: #ff7b72; font-size: 1.1em;">
-    <img src="https://img.shields.io/badge/-Vodafone_Environments-E60000?style=flat-square&logo=vodafone&logoColor=white" height="22" style="vertical-align: middle; margin-right: 8px;"> 
-    Core Fabric & Infrastructure Homologation
-  </h3>
-  <p style="margin: 0; font-size: 0.95em; line-height: 1.6; color: #8b949e;">
-    Years of hands-on engineering dedicated to the structural homologation of next-generation SDN architectures. Led the integration of complex multi-tenant data center environments, active core migrations for highly available routing layers, and production edge security deployment frameworks.
-  </p>
-</div>
+---
 
-<div style="background-color: #161b22; border-left: 5px solid #00A2BB; border-top: 1px solid #30363d; border-right: 1px solid #30363d; border-bottom: 1px solid #30363d; padding: 15px; margin-bottom: 15px; border-radius: 6px;">
-  <h3 style="margin-top: 0; margin-bottom: 8px; color: #79c0ff; font-size: 1.1em;">
-    <img src="https://img.shields.io/badge/-Telefonica_Environments-00A2BB?style=flat-square&logo=telefonica&logoColor=white" height="22" style="vertical-align: middle; margin-right: 8px;"> 
-    Service Provider Routing & Edge Operations
-  </h3>
-  <p style="margin: 0; font-size: 0.95em; line-height: 1.6; color: #8b949e;">
-    Deep alignment with carrier-grade transport environments, engineering large-scale routing platforms, multi-protocol core transport infrastructures, and sophisticated edge perimeter security solutions designed to support mass-volume business critical telemetry.
-  </p>
-</div>
+### 🎯 Key Architectural Milestones
+* **Multi-Service Core Migration:** HLD/LLD design and deployment of high-capacity IP/MPLS backbones for Tier-1 operators and global enterprise environments.
+* **Carrier Edge Security:** Deployment of BGP FlowSpec architectures and DDoS mitigation mechanisms across Points of Presence (PoPs).
+* **Automated Provisioning:** Lifecycle automation for BGP peering and L2/L3 service delivery leveraging **Python**, **Ansible**, and **IaC** pipelines.
 
-<div style="background-color: #161b22; border-left: 5px solid #60B414; border-top: 1px solid #30363d; border-right: 1px solid #30363d; border-bottom: 1px solid #30363d; padding: 15px; margin-bottom: 15px; border-radius: 6px;">
-  <h3 style="margin-top: 0; margin-bottom: 8px; color: #56d364; font-size: 1.1em;">
-    <img src="https://img.shields.io/badge/-Aire_Networks_Backbone-60B414?style=flat-square" height="22" style="vertical-align: middle; margin-right: 8px;"> 
-    Wholesale Carrier Networks & Backbone Systems
-  </h3>
-  <p style="margin: 0; font-size: 0.95em; line-height: 1.6; color: #8b949e;">
-    Design and operational deployment optimization inside specialized wholesale telecommunications backbones. Streamlining transit routing nodes, structural interconnection profiles, and security infrastructure matrices built for resilient data-plane delivery at national scale.
-  </p>
-</div>
-
-<div style="height: 2px; background: linear-gradient(90deg, #1f6feb, #238636, transparent); margin: 25px 0;"></div>
-
+---
 ## <span id="technical-focus--core-expertise" style="color:#58a6ff; font-weight: 600;">Technical Focus & Core Expertise</span>
 <table width="100%" style="border-collapse: collapse; border: none; background: none;">
   <tr style="border: none; background: none;">
