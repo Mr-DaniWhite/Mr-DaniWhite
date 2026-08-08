@@ -15,84 +15,25 @@
 
 <div style="height: 2px; background: linear-gradient(90deg, #1f6feb, #238636, transparent); margin: 25px 0;"></div>
 
-## <span id="index" style="color:#58a6ff; font-weight: 600;">📋 INDEX</span>
+<div align="center">
 
-<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 10px; padding: 24px; margin: 20px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+<a name="index"></a>
 
-  <table width="100%" style="border-collapse: collapse; border: none; background: none; margin: 0; padding: 0;">
-    <tr style="border: none; background: none;">
-      <td width="48.5%" style="vertical-align: top; border: none; padding: 0; margin: 0;">
-        <a href="#carrier--telco-architecture-footprint" style="text-decoration: none; display: block; margin-bottom: 12px;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em;">
-            <span style="color: #58a6ff; margin-right: 8px;">🌐</span> Carrier & Telco Footprint
-          </div>
-        </a>
-        <a href="#technical-focus--core-expertise" style="text-decoration: none; display: block; margin-bottom: 12px;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em;">
-            <span style="color: #58a6ff; margin-right: 8px;">🛡️</span> Technical Focus & Core Expertise
-          </div>
-        </a>
-        <a href="#extended-cloud-transit--advanced-systems" style="text-decoration: none; display: block; margin-bottom: 12px;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em;">
-            <span style="color: #58a6ff; margin-right: 8px;">☁️</span> Extended Cloud Transit Systems
-          </div>
-        </a>
-        <a href="#automation-stack--programmability" style="text-decoration: none; display: block; margin-bottom: 12px;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em;">
-            <span style="color: #58a6ff; margin-right: 8px;">🤖</span> Automation Stack & Code
-          </div>
-        </a>
-        <a href="#professional-experience" style="text-decoration: none; display: block; margin-bottom: 12px;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em;">
-            <span style="color: #58a6ff; margin-right: 8px;">💼</span> Professional Timeline
-          </div>
-        </a>
-        <a href="#languages" style="text-decoration: none; display: block;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em;">
-            <span style="color: #58a6ff; margin-right: 8px;">🗣️</span> Languages
-          </div>
-        </a>
-      </td>
-      <td width="3%" style="border: none; background: none;"></td>
-      <td width="48.5%" style="vertical-align: top; border: none; padding: 0; margin: 0;">
-        <a href="#core-architecture-patterns" style="text-decoration: none; display: block; margin-bottom: 12px;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em;">
-            <span style="color: #58a6ff; margin-right: 8px;">🏛️</span> Core Architecture Patterns
-          </div>
-        </a>
-        <a href="#ecosystem-interoperability--presales-edge" style="text-decoration: none; display: block; margin-bottom: 12px;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em;">
-            <span style="color: #58a6ff; margin-right: 8px;">🔀</span> Ecosystem & Presales Edge
-          </div>
-        </a>
-        <a href="#open-source-labs--production-simulation" style="text-decoration: none; display: block; margin-bottom: 12px;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em;">
-            <span style="color: #58a6ff; margin-right: 8px;">🔬</span> Open-Source Simulation Labs
-          </div>
-        </a>
-        <a href="#technical-certifications--specialized-courses" style="text-decoration: none; display: block; margin-bottom: 12px;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em;">
-            <span style="color: #58a6ff; margin-right: 8px;">📜</span> Certifications & Frameworks
-          </div>
-        </a>
-        <a href="#selected-projects" style="text-decoration: none; display: block; margin-bottom: 12px;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em;">
-            <span style="color: #58a6ff; margin-right: 8px;">🚀</span> Selected Projects
-          </div>
-        </a>
-        <a href="#methodologies--philosophy" style="text-decoration: none; display: block; margin-bottom: 12px;">
-          <div style="background-color: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px 16px; color: #c9d1d9; font-weight: 500; font-size: 0.95em;">
-            <span style="color: #58a6ff; margin-right: 8px;">🧠</span> Methodologies & Philosophy
-          </div>
-        </a>
-        <a href="#connect" style="text-decoration: none; display: block;">
-          <div style="background: linear-gradient(135deg, #1f6feb, #238636); border: 1px solid rgba(255,255,255,0.1); border-radius: 6px; padding: 12px 16px; color: #ffffff; font-weight: 600; font-size: 0.95em; box-shadow: inset 0 1px 0 rgba(255,255,255,0.2);">
-            <span style="margin-right: 8px;">⚡</span> Quick Contact
-          </div>
-        </a>
-      </td>
-    </tr>
-  </table>
+<div align="center">
+
+### 🧭 QUICK INDEX NAVIGATION
+
+| 🌐 **CORE PROFILE & STACK** | 🚀 **ARCHITECTURE & PROJECTS** |
+| :--- | :--- |
+| [![Carrier](https://img.shields.io/badge/🌐_Carrier_%26_Telco_Footprint-0078D4?style=for-the-badge)](#carrier-telco-footprint) | [![Patterns](https://img.shields.io/badge/🏛️_Core_Architecture_Patterns-000000?style=for-the-badge)](#core-architecture-patterns) |
+| [![Technical Focus](https://img.shields.io/badge/🛡️_Technical_Focus_%26_Core_Expertise-10B981?style=for-the-badge)](#technical-focus) | [![Ecosystem](https://img.shields.io/badge/🔀_Ecosystem_%26_Presales_Edge-FF8300?style=for-the-badge)](#ecosystem-presales-edge) |
+| [![Cloud Transit](https://img.shields.io/badge/☁️_Extended_Cloud_Transit_Systems-0089D6?style=for-the-badge)](#extended-cloud-transit) | [![Simulation Labs](https://img.shields.io/badge/🔬_Open--Source_Simulation_Labs-76B900?style=for-the-badge)](#simulation-labs) |
+| [![Automation Stack](https://img.shields.io/badge/🤖_Automation_Stack_%26_Code-EE0000?style=for-the-badge)](#automation-stack) | [![Certifications](https://img.shields.io/badge/📜_Certifications_%26_Frameworks-052192?style=for-the-badge)](#certifications-frameworks) |
+| [![Professional Timeline](https://img.shields.io/badge/💼_Professional_Timeline-001F3F?style=for-the-badge)](#professional-timeline) | [![Selected Projects](https://img.shields.io/badge/🚀_Selected_Projects-EA005E?style=for-the-badge)](#selected-projects) |
+| [![Languages & Education](https://img.shields.io/badge/🗣️_Languages_%26_Education-607D8B?style=for-the-badge)](#languages-education) | [![Quick Contact](https://img.shields.io/badge/⚡_Quick_Contact-FF4500?style=for-the-badge)](#quick-contact) |
+
+</div>
+---
 
 </div>
 
@@ -232,44 +173,50 @@
 
 <div style="height: 2px; background: linear-gradient(90deg, #1f6feb, #238636, transparent); margin: 25px 0;"></div>
 
-## <span id="professional-experience" style="color:#58a6ff; font-weight: 600;">💼 Professional Experience</span>
+Aquí tienes una versión altamente visual y profesional del apartado de Experiencia Laboral en formato Markdown para tu perfil de GitHub.
 
-<table style="width: 100%; border-collapse: collapse; margin: 20px 0; font-size: 0.95em;">
-  <thead>
-    <tr style="border-bottom: 2px solid #30363d; text-align: left;">
-      <th style="padding: 12px; color: #58a6ff; width: 25%;">Timeline</th>
-      <th style="padding: 12px; color: #58a6ff; width: 35%;">Role & Position</th>
-      <th style="padding: 12px; color: #58a6ff; width: 40%;">Core Operational Scope</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="border-bottom: 1px solid #21262d;">
-      <td style="padding: 12px; font-weight: 600; color: #ffffff;">2024 - Present</td>
-      <td style="padding: 12px;"><strong style="color: #c9d1d9;">Network Design Manager</strong><br><span style="color: #8b949e; font-size: 0.9em;">LUNIK (Madrid, Spain)</span></td>
-      <td style="padding: 12px; color: #8b949e;">Leading a high-performance engineering team delivering enterprise-grade data networks, cyber-security, and virtualized infrastructure solutions. Directing high-level architectures and automated fabric designs.</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #21262d;">
-      <td style="padding: 12px; font-weight: 600; color: #ffffff;">2016 - 2024</td>
-      <td style="padding: 12px;"><strong style="color: #c9d1d9;">Digital Infrastructure Team Leader</strong><br><span style="color: #8b949e; font-size: 0.9em;">NTT DATA / Dimension Data</span></td>
-      <td style="padding: 12px; color: #8b949e;">Managed Professional Services delivery across corporate data networks, advanced network security, and virtualization ecosystems. Coordinated large-scale architecture projects involving complex multi-vendor ecosystems.</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #21262d;">
-      <td style="padding: 12px; font-weight: 600; color: #ffffff;">2008 - 2016</td>
-      <td style="padding: 12px;"><strong style="color: #c9d1d9;">Professional Services Engineer</strong><br><span style="color: #8b949e; font-size: 0.9em;">NTT DATA / Dimension Data</span></td>
-      <td style="padding: 12px; color: #8b949e;">Designed and delivered complex, highly secure networking solutions tailored for enterprise Data Centers and Public Cloud architectures (AWS & Azure). Spearheaded automation initiatives across core tier-1 accounts.</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #21262d;">
-      <td style="padding: 12px; font-weight: 600; color: #ffffff;">2003 - 2008</td>
-      <td style="padding: 12px;"><strong style="color: #c9d1d9;">Technical Services Engineer</strong><br><span style="color: #8b949e; font-size: 0.9em;">DITELMA / CAROSE / LIDERNET</span></td>
-      <td style="padding: 12px; color: #8b949e;">Deployed and managed corporate voice/data networks, enterprise routing, switching infrastructure, and advanced troubleshooting architectures for strategic corporate clients.</td>
-    </tr>
-    <tr style="border-bottom: 1px solid #21262d;">
-      <td style="padding: 12px; font-weight: 600; color: #ffffff;">1998 - 2003</td>
-      <td style="padding: 12px;"><strong style="color: #c9d1d9;">Technical Services Specialist</strong><br><span style="color: #8b949e; font-size: 0.9em;">HC 2000 / MASTER COELECTRONIC / IKEA</span></td>
-      <td style="padding: 12px; color: #8b949e;">Provided systems deployment, server maintenance, enterprise IT solutions, and tiered systems support infrastructure operations.</td>
-    </tr>
-  </tbody>
-</table>
+Incluye la fecha actualizada para Lunik (hasta Junio de 2026), etiquetas (badges) para las tecnologías clave empleadas en cada puesto, y un diseño estilo línea de tiempo que destaca tus mayores logros y liderazgo técnico.
+
+Markdown
+## 💼 Professional Experience & Leadership
+
+---
+
+### 🚀 **Network Design Manager / Network Team Lead**
+**[LUNIK](https://www.linkedin.com/)** | *Madrid, Spain* ![Dates](https://img.shields.io/badge/2024_--_2026-0078D4?style=flat-square&logo=calendar&logoColor=white) ![Type](https://img.shields.io/badge/Full--Time-000000?style=flat-square)
+
+* **Leadership & Team Direction**: Directed high-performance engineering teams delivering mission-critical enterprise networks, cyber-security architectures, and virtualized infrastructure solutions.
+* **Strategic SME & Vendor Engagement**: Served as primary Subject Matter Expert (SME) and architectural lead for strategic partnerships with **Cisco** and **Palo Alto Networks**.
+* **Data Center & Cloud Architecture**: Spearheaded HLD/LLD for next-gen Data Center fabrics, Core Networks, and Public Cloud network integrations (**AWS** & **Azure**).
+* **Zero Trust & SD-WAN**: Engineered a modern EVPN-VXLAN Data Center fabric coupled with Palo Alto Networks SD-WAN and Zero Trust Architecture (ZTA).
+* **Panorama Migration**: Executed brownfield migration of enterprise firewall fleets to a centralized Panorama management platform without production downtime.
+
+> **Tech Stack & Keywords:** > ![Cisco](https://img.shields.io/badge/Cisco_ACI-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![Palo Alto](https://img.shields.io/badge/Palo_Alto_Networks-000000?style=flat-square&logo=paloaltonetworks&logoColor=white) ![EVPN-VXLAN](https://img.shields.io/badge/EVPN--VXLAN-008080?style=flat-square) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) ![Zero Trust](https://img.shields.io/badge/Zero_Trust-FF4500?style=flat-square)
+
+---
+
+### 🏢 **Digital Infrastructure Team Leader / Professional Services Engineer**
+**[NTT DATA](https://www.linkedin.com/)** *(formerly Dimension Data)* | *Madrid, Spain* ![Dates](https://img.shields.io/badge/2008_--_2024-0284C7?style=flat-square&logo=calendar&logoColor=white) ![Promoted](https://img.shields.io/badge/Promoted_to_Team_Lead_in_2016-10B981?style=flat-square)
+
+* **Team Management & Delivery**: Managed Professional Services delivery across corporate data networks, security, and virtualization ecosystems for global Tier-1 accounts.
+* **Multi-Vendor Ecosystems**: Coordinated large-scale architectural deployments integrating **Arista**, **Cisco**, **Palo Alto**, **Fortinet**, **Check Point**, **F5**, **VMware**, and **Aruba**.
+* **Automation & IaC Acceleration**: Spearheaded automation initiatives using **Ansible** and **Python**, optimizing zero-touch provisioning and deployment cycles.
+* **Infrastructure Design**: Designed complex Data Center fabrics and Cloud architectures for high-demand sectors (Global Banking, Telecom, and Public Administration).
+
+> **Tech Stack & Keywords:** > ![Arista](https://img.shields.io/badge/Arista_EOS-000000?style=flat-square&logo=aristanetworks&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible_IaC-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white) ![Check Point](https://img.shields.io/badge/Check_Point-EA005E?style=flat-square&logo=checkpoint&logoColor=white) ![VMware](https://img.shields.io/badge/VMware_NSX-607D8B?style=flat-square&logo=vmware&logoColor=white)
+
+---
+
+<details>
+<summary><b>📜 Early Career History (1998 - 2008)</b></summary>
+
+<br/>
+
+* **DITELMA** | *Technical Services Engineer (2006 – 2008)* — *Deployed and managed corporate voice and data networking infrastructures.*
+* **CAROSE** | *Technical Services Engineer (2004 – 2006)* — *Implementation and administration of corporate voice/data systems.*
+* **LIDERNET** | *Technical Services Engineer (2003 – 2004)* — *Enterprise routing, switching, and multi-site client deployments.*
+* **HC 2000 / MASTER COELECTRONIC / IKEA** | *Technical Services Specialist (1998 – 2003)* — *Advanced systems deployment, server solutions, and enterprise IT support.*
+</details>
 <div style="height: 2px; background: linear-gradient(90deg, #1f6feb, #238636, transparent); margin: 25px 0;"></div>
 
 ## <span id="core-architecture-patterns" style="color:#58a6ff; font-weight: 600;">Core Architecture Patterns</span>
