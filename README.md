@@ -324,23 +324,36 @@ Markdown
 * ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) **Microsoft**: AZ-700 Azure Network Solutions
 * ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) **AWS**: Advanced Networking Specialty
 * ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) **AWS**: Route 53 (Basics & Getting Started) & Security Fundamentals
+* ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) **OpenAI**: Course - Agents and Workflows
+* ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) **LangChain**: Foundation - Introduction to LangChain-Python
+* ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) **LangChain**: Quickstart - LangChain Essentials (Python)
+* ![Isovalent](https://img.shields.io/badge/Isovalent-1A2B4C?style=flat-square&logo=kubernetes&logoColor=white) **Isovalent**: Kubernetes Networking & Cilium
+* ![Isovalent](https://img.shields.io/badge/Isovalent-1A2B4C?style=flat-square&logo=microsoftazure&logoColor=white) **Isovalent**: Discovery - Cloud Architect on Azure
 * ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white) **NVIDIA**: AI for All - From Basics to GenAI Practice
 * ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) **Hugging Face**: The LLM Course - Fundamentals of LLMs
 * ![IBM](https://img.shields.io/badge/IBM-052192?style=flat-square&logo=ibm&logoColor=white) **IBM**: AI Fundamentals - Foundations for Understanding AI
-* ![VMware](https://img.shields.io/badge/VMware-607D8B?style=flat-square&logo=vmware&logoColor=white) **VMware**: VCA-DCV (Data Center Virtualization) & NSX Infrastructure Deployment
+* ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) **Cisco**: AI Business Practitioner
+* ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) **Cisco**: AI for Networking
 * ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) **Cisco**: AppDynamics Application Performance Analytics
+* ![VMware](https://img.shields.io/badge/VMware-607D8B?style=flat-square&logo=vmware&logoColor=white) **VMware**: VCA-DCV (Data Center Virtualization) & NSX Infrastructure Deployment
 </details>
 
 <details>
 <summary>🛡️ <b>Network Security, SASE & Zero Trust</b></summary>
 
-* ![Palo Alto](https://img.shields.io/badge/Palo%20Alto%20Networks-000000?style=flat-square&logo=paloaltonetworks&logoColor=white) **Palo Alto Networks**: Advanced SD-WAN Frameworks & Micro-segmentation Design Architecture
-* ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white) **Fortinet**: NSE 1, NSE 2 & NSE 3 Network Security Associate
+* ![Palo Alto](https://img.shields.io/badge/Palo%20Alto%20Networks-000000?style=flat-square&logo=paloaltonetworks&logoColor=white) **Palo Alto Networks**: Advanced SD-WAN Features & Micro-segmentation Design Architecture
+* ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white) **Fortinet**: NSE 1, NSE 2 & NSE 3 Certified in Cybersecurity
 * ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white) **Fortinet**: FortiGate Security Infrastructure (FCNSA)
 * ![Cato Networks](https://img.shields.io/badge/Cato%20Networks-00A3E0?style=flat-square&logo=shield&logoColor=white) **Cato Networks**: SASE Expert (Level 1 & 2)
+* ![Cato Networks](https://img.shields.io/badge/Cato%20Networks-00A3E0?style=flat-square&logo=shield&logoColor=white) **Cato Networks**: SASE Business Impact and Strategy
+* ![Cato Networks](https://img.shields.io/badge/Cato%20Networks-00A3E0?style=flat-square&logo=shield&logoColor=white) **Cato Networks**: SASE Deployment and Management
+* ![Cato Networks](https://img.shields.io/badge/Cato%20Networks-00A3E0?style=flat-square&logo=shield&logoColor=white) **Cato Networks**: AI in Cybersecurity
 * ![Netskope](https://img.shields.io/badge/Netskope-0052CC?style=flat-square&logo=shield&logoColor=white) **Netskope**: SASE Accreditation
 * ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) **Cisco**: Designing Cisco Security Infrastructure (SDSI)
 * ![AttackIQ](https://img.shields.io/badge/AttackIQ-FF4500?style=flat-square&logo=target&logoColor=white) **AttackIQ**: Threat-Informed Architecture
+* ![AttackIQ](https://img.shields.io/badge/AttackIQ-FF4500?style=flat-square&logo=target&logoColor=white) **AttackIQ**: Foundations of AI Security
+* ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=flat-square&logo=microsoft&logoColor=white) **Microsoft**: Investigate and Respond to Microsoft Purview Data Loss Prevention Alerts
+* ![Extreme Networks](https://img.shields.io/badge/Extreme%20Networks-002D62?style=flat-square&logo=networkwired&logoColor=white) **Extreme Networks**: Certified Associate in ExtremeCloud SD-WAN
 * ![Check Point](https://img.shields.io/badge/Check%20Point-EA005E?style=flat-square&logo=checkpoint&logoColor=white) **Check Point**: CCSA GAIA R77.30 Deployment
 * ![IBM](https://img.shields.io/badge/IBM-052192?style=flat-square&logo=ibm&logoColor=white) **IBM**: Cybersecurity Fundamentals
 * ![F5](https://img.shields.io/badge/F5%20Networks-E4002B?style=flat-square&logo=f5&logoColor=white) **F5 BIG-IP**: Local Traffic Manager (LTM) Setup & Core Traffic Profiles
@@ -352,14 +365,15 @@ Markdown
 * ![Arista](https://img.shields.io/badge/Arista-000000?style=flat-square&logo=aristanetworks&logoColor=white) **Arista Networks**: Cloud Engineer Level 5 (ACE L5) & Level 3 (ACE L3)
 * ![Arista](https://img.shields.io/badge/Arista-000000?style=flat-square&logo=aristanetworks&logoColor=white) **Arista Networks**: Advanced Infrastructure Troubleshooting & Diagnostics
 * ![Arista](https://img.shields.io/badge/Arista-000000?style=flat-square&logo=aristanetworks&logoColor=white) **Arista Networks**: Technical Specialist Advocate & Cognitive Campus
-* ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) **Cisco**: CCIE - Routing & Switching (Written)
+* ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) **Cisco**: CCIE - Routing & Switching Written (350-001)
 * ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) **Cisco**: Implementing Cisco Application Centric Infrastructure (ACI Advanced)
 * ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) **Cisco**: Operating Cisco IP Fabric for Media Solution
-* ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) **Cisco**: AI Business Practitioner & AI for Networking
 * ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) **Cisco**: CCNP Fast Track (Routing, Switching & Security ASA)
 * ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white) **NVIDIA**: InfiniBand Essentials (RDMA) & RoCE from A to Z
 * ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white) **NVIDIA**: SONIC Essentials, NetQ Deployment & NVIDIA DSX Air
 * ![Juniper](https://img.shields.io/badge/Juniper-84B623?style=flat-square&logo=junipernetworks&logoColor=white) **Juniper Networks**: JNCIS-ENT (Routing & Switching) & JNCIA Core
+* ![Extreme Networks](https://img.shields.io/badge/Extreme%20Networks-002D62?style=flat-square&logo=networkwired&logoColor=white) **Extreme Networks**: Certified Associate in Extreme Fabric Connect
+* ![Extreme Networks](https://img.shields.io/badge/Extreme%20Networks-002D62?style=flat-square&logo=networkwired&logoColor=white) **Extreme Networks**: Certified Associate - Building Scalable and Mission Critical Networks
 * ![Alcatel Lucent](https://img.shields.io/badge/Alcatel--Lucent-0085CF?style=flat-square&logo=networkwired&logoColor=white) **Alcatel-Lucent**: ACSE & ACFE Routing & Switching AOS 7.0 / OmniSwitch
 * ![Aruba](https://img.shields.io/badge/Aruba-FF8300?style=flat-square&logo=aruba&logoColor=white) **Aruba**: Deploying Datacenter Microsegmentation with Aruba CX 10000
 * ![Aruba](https://img.shields.io/badge/Aruba-FF8300?style=flat-square&logo=aruba&logoColor=white) **Aruba**: ACMA Aruba Wireless Certification
@@ -371,6 +385,8 @@ Markdown
 * ![Leadership](https://img.shields.io/badge/Leadership-001F3F?style=flat-square&logo=meetup&logoColor=white) **Executive Communication**: Speaking Confidently and Effectively Frameworks
 * ![Leadership](https://img.shields.io/badge/Leadership-001F3F?style=flat-square&logo=meetup&logoColor=white) **High-Performance Leadership**: Coaching Employees through Difficult Situations
 </details>
+<details>
+
 <div style="height: 2px; background: linear-gradient(90deg, #1f6feb, #238636, transparent); margin: 25px 0;"></div>
 
 ## <span id="selected-projects" style="color:#58a6ff; font-weight: 600;">🚀 Selected Projects</span>
