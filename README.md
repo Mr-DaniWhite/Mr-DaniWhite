@@ -300,29 +300,74 @@ Markdown
   </tr>
 </table>
 
-<details style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px; margin-bottom: 15px;">
-  <summary style="font-size: 1.25em; font-weight: 600; color: #58a6ff; cursor: pointer; padding: 5px;"><strong>🔀 Click to view: Ecosystem Interoperability & Presales Edge</strong></summary>
-  <div style="margin-top: 15px; border-top: 1px solid #30363d; padding-top: 15px; line-height: 1.6; color: #c9d1d9;">
-    <ul>
-      <li style="margin-bottom: 10px;"><strong>Multi-Vendor Core Integration:</strong> Seamless fabric interoperability experience connecting Fortinet security environments with <strong>Cisco (IOS-XR/Nexus)</strong> backbones, <strong>F5 BIG-IP</strong> high-availability local/global load balancers, and legacy <strong>Check Point/Palo Alto</strong> architectures during migration phases.</li>
-      <li style="margin-bottom: 10px;"><strong>Technical Consulting & Whiteboarding:</strong> Strong background translating high-level business requirements and complex RFPs into solid, low-level technical reference architectures. Experienced in defending designs in front of Tier-1 operators' engineering steering committees.</li>
-    </ul>
-  </div>
-</details>
+<a name="ecosystem-presales"></a>
+## 🔀 Ecosystem Interoperability & Presales Edge
 
-<div style="height: 2px; background: linear-gradient(90deg, #1f6feb, #238636, transparent); margin: 25px 0;"></div>
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🏛️ Multi-Vendor Interoperability</h3>
+      <ul>
+        <li>
+          <img src="https://img.shields.io/badge/Vendor_Integration-Cisco_%7C_Arista_%7C_Juniper-0284C7?style=flat-square" /><br>
+          <b>Core Protocols Standardisation:</b> Seamless multi-vendor BGP-EVPN, SRv6, and MPLS control plane interworking without vendor lock-in.
+        </li>
+        <br>
+        <li>
+          <img src="https://img.shields.io/badge/Security_Fabric-Fortinet_%7C_Palo_Alto-EE3124?style=flat-square" /><br>
+          <b>Cross-Domain Security:</b> Integration of multi-vendor firewalls, ZTNA edge nodes, and centralized policy enforcement frameworks.
+        </li>
+        <br>
+        <li>
+          <img src="https://img.shields.io/badge/API_Integration-RESTConf_%2F_NETConf-3776AB?style=flat-square" /><br>
+          <b>Unified Telemetry:</b> Normalizing telemetry streaming and SNMP/gNMI interfaces across legacy and next-gen platforms.
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💼 Solution Architecture & Presales</h3>
+      <ul>
+        <li>
+          <img src="https://img.shields.io/badge/Design_Engineering-HLD_%2F_LLD-0058A3?style=flat-square" /><br>
+          <b>High-Level & Low-Level Design:</b> End-to-end architectural blueprints, bill of materials (BoM) scoping, and risk matrices.
+        </li>
+        <br>
+        <li>
+          <img src="https://img.shields.io/badge/RFP_%2F_RFI-Technical_Defense-607D8B?style=flat-square" /><br>
+          <b>RFP/RFI Strategy:</b> Technical response leadership for large-scale enterprise and service provider tender bids.
+        </li>
+        <br>
+        <li>
+          <img src="https://img.shields.io/badge/Business_Value-CAPEX_%2F_OPEX-10B981?style=flat-square" /><br>
+          <b>TCO & Business Impact:</b> Translating complex network/security architectures into clear financial and operational ROI for CXOs.
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔬 Validation & Proof of Concept</h3>
+      <ul>
+        <li>
+          <img src="https://img.shields.io/badge/PoC_Execution-Lab_Validation-76B900?style=flat-square" /><br>
+          <b>Proof of Concept (PoC):</b> Designing and executing complex multi-vendor PoC environments to validate architecture performance.
+        </li>
+        <br>
+        <li>
+          <img src="https://img.shields.io/badge/Migration_Strategy-Zero--Downtime-000000?style=flat-square" /><br>
+          <b>Migration Frameworks:</b> Risk mitigation plans, failback procedures, and active core migration testing protocols.
+        </li>
+        <br>
+        <li>
+          <img src="https://img.shields.io/badge/Ecosystem_Alliances-Partner_Edge-7B42BC?style=flat-square" /><br>
+          <b>Strategic Partnering:</b> Technical alignment with Tier-1 technology partners and distributor engineering teams.
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## <span id="open-source-labs--production-simulation" style="color:#58a6ff; font-weight: 600;">Open-Source Labs & Production Simulation</span>
 
-- <img src="https://img.shields.io/badge/-Containerlab-2496ED?style=flat-square&logo=docker&logoColor=white" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Containerized Emulation Frameworks:</strong> Rapid prototyping and deployment of lightweight, multi-vendor network fabrics using **Containerlab** coupled with optimized **Docker** sandboxes.
-- <img src="https://img.shields.io/badge/-EVE--NG-1A1A1A?style=flat-square" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Hypervisor-Based Lab Topologies:</strong> Design, testing, and full orchestration of complex multi-vendor network nodes inside advanced **EVE-NG** and **GNS3** environments.
-- <img src="https://img.shields.io/badge/-VyOS-005A9C?style=flat-square&logo=linux&logoColor=white" height="20" style="vertical-align: middle; margin-right: 4px;"> <strong>Virtualized Edge Routing:</strong> Orchestration of isolated routing nodes using **VyOS** to reliably mimic physical service provider and enterprise core edge topologies.
 
-<div style="height: 2px; background: linear-gradient(90deg, #1f6feb, #238636, transparent); margin: 25px 0;"></div>
 
-Aquí tienes el código Markdown completo en la Opción B (estilo Badges / Escudos dinámicos de desarrollo) con todas y cada una de tus certificaciones equipadas con su correspondiente distintivo visual:
-
-Markdown
 ## 📜 Certifications & Technical Training
 
 <details>
