@@ -235,23 +235,70 @@ Markdown
 </details>
 <div style="height: 2px; background: linear-gradient(90deg, #1f6feb, #238636, transparent); margin: 25px 0;"></div>
 
-## <span id="core-architecture-patterns" style="color:#58a6ff; font-weight: 600;">Core Architecture Patterns</span>
+<a name="core-architecture"></a>
+## 🏛️ Core Architecture Patterns
 
-<details style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px; margin-bottom: 15px;" open>
-  <summary style="font-size: 1.25em; font-weight: 600; color: #58a6ff; cursor: pointer; padding: 5px;"><strong>🏛️ Click to view: Core Architecture Patterns Detailed</strong></summary>
-  <div style="margin-top: 15px; border-top: 1px solid #30363d; padding-top: 15px; line-height: 1.6; color: #c9d1d9;">
-    <ul>
-      <li style="margin-bottom: 10px;"><strong>Advanced Fortinet NGFW Security & Edge Cluster Engineering:</strong> Architecture and implementation of enterprise security perimeters running on <strong>FortiGate NGFW appliances</strong> in active-active/active-passive high availability (<strong>FGCP/FGSP clustering</strong>). Advanced deployment of policy segmentation via virtual domains (<strong>VDOMs</strong>), hardware-accelerated <strong>SSL/TLS Deep Packet Inspection</strong> at scale, and centralized contextual access controls utilizing <strong>FortiNAC</strong> for automated asset discovery and dynamic network access isolation.</li>
-      <li style="margin-bottom: 10px;"><strong>Secure Access Layer Integration:</strong> Design and provisioning of secure enterprise switching access topologies. Implementation of automated deployment workflows for <strong>FortiSwitch arrays and FortiAP access nodes via hardware-enforced FortiLink control planes</strong> to consolidate management within the central firewall core.</li>
-      <li style="margin-bottom: 10px;"><strong>Centralized Security Operations & Data Analysis (FortiManager / FortiAnalyzer):</strong> Architecture design of multi-tenant governance models using ADOMs in <strong>FortiManager</strong> to orchestrate thousands of corporate security policy packages. Aggregation and normalization of telemetry logs using <strong>FortiAnalyzer</strong> clusters to automate compliance reporting and incident detection playbooks.</li>
-      <li style="margin-bottom: 10px;"><strong>Carrier-Grade Security Frameworks (Gi/SGi & CGNAT):</strong> Clear engineering domain over service provider environments, focusing on securing Gi/SGi LAN interfaces, multi-tenant CGNAT scale-out protection maps on high-end FortiGate chassis, and implementing low-latency stateful inspection for massive mobile and fixed-line data planes.</li>
-      <li style="margin-bottom: 10px;"><strong>NFV & Telco Cloud Integration:</strong> Deployment of virtualized security functions (VNF) using FortiGate-VM series across OpenStack, VMware vCloud NFV, and carrier-grade container environments to achieve elastic, on-demand security perimeter scaling.</li>
-      <li style="margin-bottom: 10px;"><strong>Cisco Enterprise Data Center Fabrics:</strong> Structural design of high-density <strong>Cisco ACI Multi-Pod & Multi-Site</strong> environments. Orchestration of APIC controllers, design of multi-tenant segmentation policies (VRFs, Bridge Domains, EPGs), and secure external perimeter routing utilizing optimized <strong>L3Out infrastructure profiles</strong>. High-capacity deployments across <strong>Cisco Nexus series switches</strong> utilizing advanced vPC, Fibre Channel over Ethernet (FCoE), and out-of-band management topologies.</li>
-      <li style="margin-bottom: 10px;"><strong>Arista Production EVPN-VXLAN Clos Networks:</strong> High-performance, low-latency leaf-spine modern datacenter fabrics running under <strong>Arista EOS</strong>. Structural engineering of Layer 3 control planes using Multi-Protocol BGP (MP-BGP), hardware-based VXLAN encapsulation, and standardized <strong>Distributed Anycast Gateways</strong> to reduce cross-fabric traffic. Fully orchestrated using <strong>Arista CloudVision Portal (CVP)</strong> for state telemetry, zero-touch provisioning (ZTP), and automated configlets enforcement.</li>
-      <li style="margin-bottom: 10px;"><strong>Cloud Transit Architectures:</strong> Cloud Native Hub-and-Spoke connectivity networks, Managed Transit Gateways, Cross-Cloud Network Security Ingress/Egress Insertion.</li>
-    </ul>
-  </div>
-</details>
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🛡️ Security Perimeters & Operations</h3>
+      <ul>
+        <li>
+          <img src="https://img.shields.io/badge/Fortinet-FGCP%20%2F%20FGSP-EE3124?style=flat-square&logo=fortinet&logoColor=white" /><br>
+          <b>NGFW Edge Clustering:</b> Active-active/passive High Availability, VDOM policy segmentation & SSL/TLS Deep Packet Inspection.
+        </li>
+        <br>
+        <li>
+          <img src="https://img.shields.io/badge/FortiNAC-Secured%20Access-EE3124?style=flat-square" /><br>
+          <b>Access Layer Integration:</b> Hardware-enforced FortiLink control planes for FortiSwitch arrays & FortiAP nodes.
+        </li>
+        <br>
+        <li>
+          <img src="https://img.shields.io/badge/FortiManager-FortiAnalyzer-EE3124?style=flat-square" /><br>
+          <b>Centralized SecOps:</b> Multi-tenant ADOMs policy packages, log aggregation & compliance automation playbooks.
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🏛️ Data Center Fabrics & SDN</h3>
+      <ul>
+        <li>
+          <img src="https://img.shields.io/badge/Cisco_ACI-Multi--Site-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /><br>
+          <b>Enterprise DC Fabrics:</b> Multi-Pod/Multi-Site APIC orchestration, VRF/BD segmentation & L3Out routing profiles.
+        </li>
+        <br>
+        <li>
+          <img src="https://img.shields.io/badge/Arista_EOS-EVPN--VXLAN-000000?style=flat-square&logo=aristanetworks&logoColor=white" /><br>
+          <b>Clos Leaf-Spine Networks:</b> MP-BGP control planes, VXLAN encapsulation & Distributed Anycast Gateways via CVP.
+        </li>
+        <br>
+        <li>
+          <img src="https://img.shields.io/badge/Cisco_Nexus-vPC%20%2F%20FCoE-1BA0D7?style=flat-square" /><br>
+          <b>High-Density DC Core:</b> Advanced vPC, Fibre Channel over Ethernet (FCoE) & out-of-band management topologies.
+        </li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>☁️ Telco Cloud & Transit Systems</h3>
+      <ul>
+        <li>
+          <img src="https://img.shields.io/badge/Carrier_Security-Gi%2FSGi%20%26%20CGNAT-0284C7?style=flat-square" /><br>
+          <b>Carrier-Grade Protection:</b> Gi/SGi LAN interfaces, scale-out CGNAT protection maps & low-latency inspection.
+        </li>
+        <br>
+        <li>
+          <img src="https://img.shields.io/badge/Telco_Cloud-OpenStack%20%2F%20VMware-607D8B?style=flat-square" /><br>
+          <b>NFV VNF Integration:</b> Virtualized security functions (FortiGate-VM) on OpenStack & vCloud NFV.
+        </li>
+        <br>
+        <li>
+          <img src="https://img.shields.io/badge/Cloud_Transit-Hub--and--Spoke-0078D4?style=flat-square" /><br>
+          <b>Multi-Cloud Connectivity:</b> Managed Transit Gateways & cross-cloud security ingress/egress insertion.
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <details style="background-color: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 15px; margin-bottom: 15px;">
   <summary style="font-size: 1.25em; font-weight: 600; color: #58a6ff; cursor: pointer; padding: 5px;"><strong>🔀 Click to view: Ecosystem Interoperability & Presales Edge</strong></summary>
